@@ -1,0 +1,2101 @@
+teardown,category,id,intent,query,status,n_brands,n_recs,n_listed,n_sources,google_top10_brand_sites,google_top10_third_party
+1,project management software,q001,category,best project management software,ok,7,7,0,4,2,8
+1,project management software,q002,category,best project management software 2026,ok,10,10,0,3,2,8
+1,project management software,q003,category,best project management tools for small teams,ok,6,6,0,4,4,6
+1,project management software,q004,category,best project management software for small business,ok,9,9,0,5,0,10
+1,project management software,q005,category,best project management software for startups,ok,7,7,0,5,0,10
+1,project management software,q006,category,best enterprise project management software,ok,8,8,0,10,3,7
+1,project management software,q007,category,best free project management software,ok,7,7,0,2,1,9
+1,project management software,q008,category,best project management app for remote teams,ok,5,5,0,3,3,7
+1,project management software,q009,category,best project management software for agencies,ok,6,6,0,3,2,8
+1,project management software,q010,category,best project management software for marketing teams,ok,5,5,0,4,3,7
+1,project management software,q011,category,best project management software for software development,ok,5,3,0,3,2,8
+1,project management software,q012,category,best project management software for construction,ok,3,1,0,6,0,10
+1,project management software,q013,category,best project management tool for freelancers,ok,5,5,0,5,2,8
+1,project management software,q014,category,best project management software for nonprofits,ok,5,5,0,3,1,9
+1,project management software,q015,category,best kanban software,ok,7,7,0,4,1,9
+1,project management software,q016,category,best gantt chart software,ok,4,4,0,4,2,8
+1,project management software,q017,category,best task management software for teams,ok,5,5,0,5,0,10
+1,project management software,q018,category,best project management software for consultants,ok,6,6,0,5,2,8
+1,project management software,q019,category,affordable project management software,ok,6,6,0,4,4,6
+1,project management software,q020,category,simple project management software for small teams,ok,5,5,0,3,4,6
+1,project management software,q021,category,project management software with time tracking,ok,5,5,0,2,1,9
+1,project management software,q022,category,project management software with client portal,ok,7,7,0,3,2,8
+1,project management software,q023,category,most popular project management software,ok,10,10,0,7,3,7
+1,project management software,q024,category,easiest project management software to use,ok,5,5,0,9,4,6
+1,project management software,q025,category,best project management platform for large teams,ok,5,5,0,2,4,6
+1,project management software,q026,category,top rated project management software,ok,7,7,0,1,2,8
+1,project management software,q027,category,best project management software for mac,ok,5,5,0,5,2,8
+1,project management software,q028,category,best project management tools for product teams,ok,7,7,0,11,5,5
+1,project management software,q029,category,best project management software for creative teams,ok,5,5,0,6,4,6
+1,project management software,q030,category,best project management software for engineering teams,ok,5,5,0,3,5,5
+1,project management software,q031,comparison,asana vs monday.com,ok,2,2,0,6,1,9
+1,project management software,q032,comparison,asana vs clickup,ok,2,2,0,2,3,7
+1,project management software,q033,comparison,clickup vs monday.com,ok,2,2,0,4,3,7
+1,project management software,q034,comparison,trello vs asana,ok,2,2,0,4,4,6
+1,project management software,q035,comparison,trello vs monday.com,ok,2,2,0,2,3,7
+1,project management software,q036,comparison,notion vs asana,ok,2,2,0,2,1,9
+1,project management software,q037,comparison,notion vs clickup,ok,2,2,0,2,2,8
+1,project management software,q038,comparison,jira vs asana,ok,2,2,0,2,4,6
+1,project management software,q039,comparison,jira vs clickup,ok,3,2,0,2,3,7
+1,project management software,q040,comparison,jira vs monday.com,ok,3,2,0,4,1,9
+1,project management software,q041,comparison,wrike vs asana,ok,2,2,0,2,5,5
+1,project management software,q042,comparison,wrike vs monday.com,ok,2,2,0,6,4,6
+1,project management software,q043,comparison,smartsheet vs monday.com,ok,2,2,0,2,2,8
+1,project management software,q044,comparison,smartsheet vs asana,ok,2,2,0,3,3,7
+1,project management software,q045,comparison,basecamp vs asana,ok,2,2,0,2,1,9
+1,project management software,q046,comparison,basecamp vs trello,ok,2,2,0,4,2,8
+1,project management software,q047,comparison,teamwork vs asana,ok,2,2,0,2,3,7
+1,project management software,q048,comparison,zoho projects vs asana,ok,4,2,0,2,1,9
+1,project management software,q049,comparison,airtable vs monday.com,ok,2,2,0,4,2,8
+1,project management software,q050,comparison,airtable vs notion,ok,2,2,0,2,0,10
+1,project management software,q051,comparison,asana vs clickup vs monday.com,ok,6,3,0,3,3,7
+1,project management software,q052,comparison,trello vs asana vs monday.com,ok,3,3,0,7,2,8
+1,project management software,q053,comparison,notion vs clickup vs asana,ok,3,3,0,2,1,9
+1,project management software,q054,comparison,jira vs trello vs asana,ok,3,3,0,2,4,6
+1,project management software,q055,comparison,microsoft planner vs asana,ok,3,2,0,2,2,8
+1,project management software,q056,comparison,microsoft project vs smartsheet,ok,4,3,0,2,2,8
+1,project management software,q057,comparison,asana or monday.com for a marketing team,ok,2,2,0,2,4,6
+1,project management software,q058,comparison,clickup or notion for a startup,ok,2,2,0,6,1,9
+1,project management software,q059,comparison,trello or asana for a small team,ok,2,2,0,2,3,7
+1,project management software,q060,comparison,jira or clickup for software development,ok,3,2,0,2,3,7
+1,project management software,q061,alternative,asana alternatives,ok,10,9,0,3,2,8
+1,project management software,q062,alternative,monday.com alternatives,ok,11,10,0,2,4,6
+1,project management software,q063,alternative,clickup alternatives,ok,12,10,0,4,3,7
+1,project management software,q064,alternative,trello alternatives,ok,8,7,0,3,1,9
+1,project management software,q065,alternative,jira alternatives,ok,9,8,0,4,5,5
+1,project management software,q066,alternative,notion alternatives for project management,ok,9,8,0,2,1,9
+1,project management software,q067,alternative,basecamp alternatives,ok,9,8,0,4,7,3
+1,project management software,q068,alternative,wrike alternatives,ok,12,11,0,3,4,6
+1,project management software,q069,alternative,smartsheet alternatives,ok,8,7,0,5,1,9
+1,project management software,q070,alternative,airtable alternatives,ok,6,5,0,2,0,10
+1,project management software,q071,alternative,cheaper alternative to monday.com,ok,6,5,0,3,3,7
+1,project management software,q072,alternative,cheaper alternative to asana,ok,7,6,0,5,2,8
+1,project management software,q073,alternative,free alternative to jira,ok,8,7,0,3,6,4
+1,project management software,q074,alternative,free alternative to trello,ok,8,7,0,4,2,8
+1,project management software,q075,alternative,open source alternative to asana,ok,7,4,0,3,2,8
+1,project management software,q076,alternative,open source alternative to jira,ok,7,5,0,3,3,7
+1,project management software,q077,alternative,simpler alternative to clickup,ok,6,5,0,4,3,7
+1,project management software,q078,alternative,simpler alternative to jira,ok,6,5,0,2,4,6
+1,project management software,q079,alternative,asana alternative for small business,ok,7,6,0,1,2,8
+1,project management software,q080,alternative,monday.com alternative for agencies,ok,8,7,0,6,4,6
+1,project management software,q081,recommendation,which project management software should I use for a 5 person team,ok,5,5,0,3,3,7
+1,project management software,q082,recommendation,which project management tool should I use for a 50 person company,ok,6,5,0,4,3,7
+1,project management software,q083,recommendation,what project management software do you recommend for a marketing agency,ok,5,5,0,3,6,4
+1,project management software,q084,recommendation,what project management tool do you recommend for a software startup,ok,5,5,0,2,2,8
+1,project management software,q085,recommendation,which project management app is best for a remote team,ok,5,5,0,1,2,8
+1,project management software,q086,recommendation,what project management software should a construction company use,ok,4,0,0,7,1,9
+1,project management software,q087,recommendation,which project management tool is best for a solo consultant,ok,6,5,1,4,4,6
+1,project management software,q088,recommendation,what project management software should I use for client work,ok,3,3,0,3,3,7
+1,project management software,q089,recommendation,recommend a project management tool for a nonprofit,ok,3,3,0,3,2,8
+1,project management software,q090,recommendation,recommend project management software for a design agency,ok,5,5,0,4,2,8
+1,project management software,q091,recommendation,what is the best project management software for a team that uses slack,ok,5,5,0,5,1,9
+1,project management software,q092,recommendation,which project management software works best with google workspace,ok,5,5,0,2,2,8
+1,project management software,q093,recommendation,which project management tool should I use if I need gantt charts,ok,5,5,0,4,2,8
+1,project management software,q094,recommendation,what project management software should I pick for a law firm,ok,5,3,0,3,0,10
+1,project management software,q095,recommendation,which project management tool is best for managing multiple clients,ok,4,4,0,6,4,6
+1,project management software,q096,recommendation,recommend a simple project management tool for a small business owner,ok,4,4,0,4,1,9
+1,project management software,q097,recommendation,what project management software is best for a growing startup,ok,5,5,0,5,3,7
+1,project management software,q098,recommendation,which project management tool should an engineering team use,ok,3,3,0,2,5,5
+1,project management software,q099,recommendation,what project management software should I use to replace spreadsheets,ok,5,5,0,4,3,7
+1,project management software,q100,recommendation,which project management platform is best value for money,ok,5,5,0,4,3,7
+2,CRM software,q001,category,best CRM software,ok,5,5,0,4,2,8
+2,CRM software,q002,category,best CRM software 2026,ok,5,5,0,4,2,8
+2,CRM software,q003,category,best CRM for small teams,ok,5,5,0,3,3,7
+2,CRM software,q004,category,best CRM for small business,ok,5,5,0,5,4,6
+2,CRM software,q005,category,best CRM software for startups,ok,6,6,0,2,5,5
+2,CRM software,q006,category,best enterprise CRM software,ok,4,4,0,4,4,6
+2,CRM software,q007,category,best free CRM software,ok,5,5,0,5,3,7
+2,CRM software,q008,category,best CRM for remote sales teams,ok,5,4,0,2,3,7
+2,CRM software,q009,category,best CRM for agencies,ok,6,6,0,9,3,7
+2,CRM software,q010,category,best CRM for marketing teams,ok,5,5,0,4,4,6
+2,CRM software,q011,category,best CRM for B2B SaaS companies,ok,5,5,0,3,5,5
+2,CRM software,q012,category,best CRM for real estate agents,ok,0,0,0,1,2,8
+2,CRM software,q013,category,best CRM for freelancers,ok,6,6,0,2,5,5
+2,CRM software,q014,category,best CRM for nonprofits,ok,1,1,0,3,2,8
+2,CRM software,q015,category,best sales pipeline software,ok,5,4,1,2,5,5
+2,CRM software,q016,category,best contact management software,ok,9,8,0,2,3,7
+2,CRM software,q017,category,best CRM with built-in email marketing,ok,6,5,0,3,4,6
+2,CRM software,q018,category,best CRM for consultants,ok,6,6,0,6,3,7
+2,CRM software,q019,category,affordable CRM software,ok,4,4,0,3,3,7
+2,CRM software,q020,category,simple CRM for small teams,ok,5,5,0,5,4,6
+2,CRM software,q021,category,CRM software with a built-in phone dialer,ok,4,3,0,3,1,9
+2,CRM software,q022,category,CRM software with project management,ok,5,5,0,3,5,5
+2,CRM software,q023,category,most popular CRM software,ok,7,0,7,4,5,5
+2,CRM software,q024,category,easiest CRM software to use,ok,6,5,0,5,5,5
+2,CRM software,q025,category,best CRM platform for large sales teams,ok,3,3,0,3,3,7
+2,CRM software,q026,category,top rated CRM software,ok,10,8,2,1,3,7
+2,CRM software,q027,category,best CRM for mac,ok,4,4,0,3,2,8
+2,CRM software,q028,category,best CRM for ecommerce businesses,ok,3,3,0,5,2,8
+2,CRM software,q029,category,best CRM for insurance agents,ok,1,1,0,4,4,6
+2,CRM software,q030,category,best CRM for financial advisors,ok,2,2,0,5,2,8
+2,CRM software,q031,comparison,salesforce vs hubspot,ok,2,2,0,2,2,8
+2,CRM software,q032,comparison,hubspot vs zoho crm,ok,2,2,0,5,2,8
+2,CRM software,q033,comparison,salesforce vs zoho crm,ok,2,2,0,2,3,7
+2,CRM software,q034,comparison,pipedrive vs hubspot,ok,2,2,0,2,2,8
+2,CRM software,q035,comparison,pipedrive vs salesforce,ok,3,2,0,1,3,7
+2,CRM software,q036,comparison,zoho crm vs pipedrive,ok,2,2,0,3,2,8
+2,CRM software,q037,comparison,salesforce vs microsoft dynamics 365,ok,2,2,0,2,1,9
+2,CRM software,q038,comparison,hubspot vs microsoft dynamics 365,ok,2,2,0,2,1,9
+2,CRM software,q039,comparison,freshsales vs hubspot,ok,2,2,0,1,1,9
+2,CRM software,q040,comparison,freshsales vs zoho crm,ok,2,2,0,2,3,7
+2,CRM software,q041,comparison,monday crm vs hubspot,ok,2,2,0,2,3,7
+2,CRM software,q042,comparison,close vs pipedrive,ok,2,2,0,2,4,6
+2,CRM software,q043,comparison,copper vs hubspot,ok,2,2,0,2,2,8
+2,CRM software,q044,comparison,insightly vs hubspot,ok,2,2,0,1,4,6
+2,CRM software,q045,comparison,keap vs hubspot,ok,2,2,0,2,3,7
+2,CRM software,q046,comparison,activecampaign vs hubspot crm,ok,2,2,0,4,2,8
+2,CRM software,q047,comparison,nutshell vs pipedrive,ok,2,0,1,0,2,8
+2,CRM software,q048,comparison,capsule crm vs pipedrive,ok,2,2,0,2,4,6
+2,CRM software,q049,comparison,attio vs hubspot,ok,2,2,0,4,1,9
+2,CRM software,q050,comparison,folk vs attio,ok,2,2,0,2,2,8
+2,CRM software,q051,comparison,salesforce vs hubspot vs zoho crm,ok,3,3,0,3,2,8
+2,CRM software,q052,comparison,hubspot vs pipedrive vs zoho crm,ok,3,3,0,3,2,8
+2,CRM software,q053,comparison,salesforce vs hubspot vs microsoft dynamics 365,ok,3,3,0,3,0,10
+2,CRM software,q054,comparison,pipedrive vs close vs freshsales,ok,3,3,0,4,4,6
+2,CRM software,q055,comparison,sugarcrm vs salesforce,ok,2,2,0,2,1,9
+2,CRM software,q056,comparison,zendesk sell vs pipedrive,ok,2,1,0,2,2,8
+2,CRM software,q057,comparison,hubspot or salesforce for a small business,ok,2,2,0,2,2,8
+2,CRM software,q058,comparison,pipedrive or hubspot for a startup,ok,2,2,0,2,4,6
+2,CRM software,q059,comparison,zoho crm or hubspot for a small team,ok,2,2,0,2,4,6
+2,CRM software,q060,comparison,salesforce or dynamics 365 for enterprise sales,ok,2,2,0,2,1,9
+2,CRM software,q061,alternative,salesforce alternatives,ok,8,7,0,4,3,7
+2,CRM software,q062,alternative,hubspot alternatives,ok,9,8,0,6,2,8
+2,CRM software,q063,alternative,zoho crm alternatives,ok,9,8,0,4,4,6
+2,CRM software,q064,alternative,pipedrive alternatives,ok,10,9,0,4,2,8
+2,CRM software,q065,alternative,microsoft dynamics 365 alternatives,ok,8,6,1,4,1,9
+2,CRM software,q066,alternative,monday crm alternatives,ok,7,6,0,5,2,8
+2,CRM software,q067,alternative,keap alternatives,ok,8,7,0,1,3,7
+2,CRM software,q068,alternative,copper crm alternatives,ok,10,9,0,1,4,6
+2,CRM software,q069,alternative,insightly alternatives,ok,8,7,0,3,6,4
+2,CRM software,q070,alternative,close crm alternatives,ok,7,6,0,6,3,7
+2,CRM software,q071,alternative,cheaper alternative to salesforce,ok,6,5,0,7,3,7
+2,CRM software,q072,alternative,cheaper alternative to hubspot,ok,8,7,0,1,3,7
+2,CRM software,q073,alternative,free alternative to salesforce,ok,7,6,0,3,4,6
+2,CRM software,q074,alternative,free alternative to hubspot crm,ok,6,5,0,2,5,5
+2,CRM software,q075,alternative,open source alternative to salesforce,ok,5,4,0,4,2,8
+2,CRM software,q076,alternative,open source alternative to hubspot,ok,5,3,1,5,2,8
+2,CRM software,q077,alternative,simpler alternative to salesforce,ok,5,4,0,4,3,7
+2,CRM software,q078,alternative,simpler alternative to hubspot,ok,6,5,0,0,2,8
+2,CRM software,q079,alternative,salesforce alternative for small business,ok,6,5,0,6,3,7
+2,CRM software,q080,alternative,hubspot alternative for agencies,ok,6,5,0,6,3,7
+2,CRM software,q081,recommendation,which CRM should I use for a 5 person sales team,ok,5,4,0,3,4,6
+2,CRM software,q082,recommendation,which CRM should I use for a 50 person company,ok,5,4,0,3,1,9
+2,CRM software,q083,recommendation,what CRM do you recommend for a marketing agency,ok,6,6,0,5,4,6
+2,CRM software,q084,recommendation,what CRM do you recommend for a software startup,ok,4,4,0,3,3,7
+2,CRM software,q085,recommendation,which CRM is best for a remote sales team,ok,4,4,0,1,3,7
+2,CRM software,q086,recommendation,what CRM should a real estate brokerage use,ok,0,0,0,3,4,6
+2,CRM software,q087,recommendation,which CRM is best for a solo consultant,ok,6,6,0,5,3,7
+2,CRM software,q088,recommendation,what CRM should I use for client work,ok,3,3,0,2,3,7
+2,CRM software,q089,recommendation,recommend a CRM for a nonprofit,ok,1,1,0,3,3,7
+2,CRM software,q090,recommendation,recommend a CRM for a law firm,ok,2,0,0,1,1,9
+2,CRM software,q091,recommendation,what is the best CRM for a team that uses slack,ok,5,5,0,3,2,8
+2,CRM software,q092,recommendation,which CRM works best with google workspace,ok,6,6,0,3,5,5
+2,CRM software,q093,recommendation,which CRM should I use if I need email sequences,ok,5,5,0,2,4,6
+2,CRM software,q094,recommendation,what CRM should I pick for an insurance agency,ok,1,1,0,5,1,9
+2,CRM software,q095,recommendation,which CRM is best for managing multiple clients,ok,6,6,0,3,5,5
+2,CRM software,q096,recommendation,recommend a simple CRM for a small business owner,ok,3,3,0,3,2,8
+2,CRM software,q097,recommendation,what CRM is best for a growing startup,ok,3,3,0,3,4,6
+2,CRM software,q098,recommendation,which CRM should a B2B SaaS sales team use,ok,6,6,0,7,5,5
+2,CRM software,q099,recommendation,what CRM should I use to replace spreadsheets,ok,5,5,0,6,2,8
+2,CRM software,q100,recommendation,which CRM is best value for money,ok,4,4,0,4,1,9
+3,email marketing software,q001,category,best email marketing software,ok,7,7,0,4,3,7
+3,email marketing software,q002,category,best email marketing software 2026,ok,5,5,0,4,4,6
+3,email marketing software,q003,category,best email marketing tool for small teams,ok,7,6,0,11,4,6
+3,email marketing software,q004,category,best email marketing software for small business,ok,6,6,0,5,2,8
+3,email marketing software,q005,category,best email marketing platform for startups,ok,8,8,0,11,2,8
+3,email marketing software,q006,category,best enterprise email marketing software,ok,4,4,0,4,3,7
+3,email marketing software,q007,category,best free email marketing software,ok,7,7,0,2,5,5
+3,email marketing software,q008,category,best email marketing platform for ecommerce,ok,5,5,0,4,2,8
+3,email marketing software,q009,category,best email marketing software for agencies,ok,5,5,0,1,4,6
+3,email marketing software,q010,category,best email marketing platform for creators,ok,3,3,0,3,0,10
+3,email marketing software,q011,category,best email marketing software for B2B SaaS,ok,5,5,0,3,2,8
+3,email marketing software,q012,category,best email marketing software for real estate agents,ok,3,3,0,4,3,7
+3,email marketing software,q013,category,best email marketing tool for bloggers,ok,3,3,0,4,3,7
+3,email marketing software,q014,category,best email marketing software for nonprofits,ok,7,6,0,3,2,8
+3,email marketing software,q015,category,best newsletter platform,ok,5,5,0,8,1,9
+3,email marketing software,q016,category,best email automation software,ok,6,6,0,8,2,8
+3,email marketing software,q017,category,best email marketing software with a built-in CRM,ok,7,7,0,9,3,7
+3,email marketing software,q018,category,best email marketing software for coaches,ok,3,3,0,3,1,9
+3,email marketing software,q019,category,affordable email marketing software,ok,6,6,0,5,5,5
+3,email marketing software,q020,category,simple email marketing tool for small teams,ok,3,3,0,4,3,7
+3,email marketing software,q021,category,email marketing software with SMS marketing,ok,6,6,0,3,4,6
+3,email marketing software,q022,category,email marketing software with landing pages,ok,6,6,0,8,5,5
+3,email marketing software,q023,category,most popular email marketing software,ok,8,0,8,5,2,8
+3,email marketing software,q024,category,easiest email marketing software to use,ok,5,4,1,7,4,6
+3,email marketing software,q025,category,best email marketing platform for large lists,ok,6,6,0,1,4,6
+3,email marketing software,q026,category,top rated email marketing software,ok,8,8,0,3,2,8
+3,email marketing software,q027,category,best email marketing software for Shopify stores,ok,4,4,0,4,5,5
+3,email marketing software,q028,category,best email marketing software for restaurants,ok,5,5,0,4,3,7
+3,email marketing software,q029,category,best email marketing software for churches,ok,3,3,0,2,0,10
+3,email marketing software,q030,category,best email marketing software for financial advisors,ok,4,4,0,6,2,8
+3,email marketing software,q031,comparison,mailchimp vs klaviyo,ok,2,2,0,5,2,8
+3,email marketing software,q032,comparison,mailchimp vs constant contact,ok,2,2,0,2,2,8
+3,email marketing software,q033,comparison,mailchimp vs brevo,ok,2,2,0,4,4,6
+3,email marketing software,q034,comparison,mailchimp vs activecampaign,ok,2,2,0,2,3,7
+3,email marketing software,q035,comparison,mailchimp vs mailerlite,ok,2,2,0,2,2,8
+3,email marketing software,q036,comparison,mailchimp vs kit,ok,2,2,0,2,1,9
+3,email marketing software,q037,comparison,klaviyo vs omnisend,ok,2,2,0,2,2,8
+3,email marketing software,q038,comparison,klaviyo vs activecampaign,ok,2,2,0,2,1,9
+3,email marketing software,q039,comparison,brevo vs mailerlite,ok,2,2,0,2,4,6
+3,email marketing software,q040,comparison,activecampaign vs hubspot,ok,2,2,0,2,2,8
+3,email marketing software,q041,comparison,kit vs beehiiv,ok,2,2,0,2,3,7
+3,email marketing software,q042,comparison,beehiiv vs substack,ok,2,2,0,2,1,9
+3,email marketing software,q043,comparison,mailerlite vs kit,ok,3,2,0,6,2,8
+3,email marketing software,q044,comparison,constant contact vs activecampaign,ok,2,2,0,2,4,6
+3,email marketing software,q045,comparison,getresponse vs mailchimp,ok,2,2,0,2,4,6
+3,email marketing software,q046,comparison,aweber vs mailchimp,ok,2,2,0,2,1,9
+3,email marketing software,q047,comparison,campaign monitor vs mailchimp,ok,2,2,0,1,4,6
+3,email marketing software,q048,comparison,drip vs klaviyo,ok,2,2,0,3,4,6
+3,email marketing software,q049,comparison,customer.io vs braze,ok,3,2,0,2,4,6
+3,email marketing software,q050,comparison,braze vs iterable,ok,3,2,0,3,1,9
+3,email marketing software,q051,comparison,klaviyo vs mailchimp vs omnisend,ok,3,3,0,3,2,8
+3,email marketing software,q052,comparison,mailchimp vs brevo vs mailerlite,ok,3,3,0,3,0,10
+3,email marketing software,q053,comparison,activecampaign vs hubspot vs klaviyo,ok,3,3,0,3,3,7
+3,email marketing software,q054,comparison,kit vs beehiiv vs substack,ok,3,3,0,3,2,8
+3,email marketing software,q055,comparison,mailchimp vs hubspot,ok,2,2,0,2,4,6
+3,email marketing software,q056,comparison,moosend vs mailerlite,ok,2,2,0,4,3,7
+3,email marketing software,q057,comparison,mailchimp or klaviyo for a shopify store,ok,2,2,0,2,4,6
+3,email marketing software,q058,comparison,kit or mailerlite for a newsletter,ok,2,2,0,2,2,8
+3,email marketing software,q059,comparison,brevo or mailchimp for a small business,ok,3,2,0,2,4,6
+3,email marketing software,q060,comparison,activecampaign or hubspot for a b2b company,ok,2,2,0,2,2,8
+3,email marketing software,q061,alternative,mailchimp alternatives,ok,9,8,0,4,3,7
+3,email marketing software,q062,alternative,klaviyo alternatives,ok,9,8,0,5,4,6
+3,email marketing software,q063,alternative,constant contact alternatives,ok,13,12,0,3,4,6
+3,email marketing software,q064,alternative,activecampaign alternatives,ok,12,8,1,2,2,8
+3,email marketing software,q065,alternative,kit alternatives for creators,ok,9,8,0,6,4,6
+3,email marketing software,q066,alternative,mailerlite alternatives,ok,10,9,0,1,3,7
+3,email marketing software,q067,alternative,brevo alternatives,ok,9,8,0,2,5,5
+3,email marketing software,q068,alternative,hubspot email marketing alternatives,ok,9,8,0,7,1,9
+3,email marketing software,q069,alternative,beehiiv alternatives,ok,7,6,0,4,4,6
+3,email marketing software,q070,alternative,substack alternatives for newsletters,ok,6,5,0,2,4,6
+3,email marketing software,q071,alternative,cheaper alternative to mailchimp,ok,6,5,0,9,3,7
+3,email marketing software,q072,alternative,cheaper alternative to klaviyo,ok,5,4,0,2,6,4
+3,email marketing software,q073,alternative,free alternative to mailchimp,ok,6,5,0,6,4,6
+3,email marketing software,q074,alternative,free alternative to constant contact,ok,6,5,0,3,3,7
+3,email marketing software,q075,alternative,open source alternative to mailchimp,ok,4,2,0,6,2,8
+3,email marketing software,q076,alternative,open source alternative to klaviyo,ok,5,2,0,4,3,7
+3,email marketing software,q077,alternative,simpler alternative to activecampaign,ok,5,4,0,4,1,9
+3,email marketing software,q078,alternative,simpler alternative to hubspot marketing hub,ok,6,5,0,3,1,9
+3,email marketing software,q079,alternative,mailchimp alternative for small business,ok,6,5,0,2,4,6
+3,email marketing software,q080,alternative,klaviyo alternative for shopify,ok,7,6,0,4,4,6
+3,email marketing software,q081,recommendation,which email marketing tool should I use for a 5 person team,ok,3,3,0,3,3,7
+3,email marketing software,q082,recommendation,which email marketing platform should I use for a 50 person company,ok,3,3,0,3,2,8
+3,email marketing software,q083,recommendation,what email marketing software do you recommend for a marketing agency,ok,6,6,0,3,3,7
+3,email marketing software,q084,recommendation,what email marketing tool do you recommend for a software startup,ok,4,4,0,3,2,8
+3,email marketing software,q085,recommendation,which email marketing platform is best for an ecommerce store,ok,4,4,0,4,4,6
+3,email marketing software,q086,recommendation,what email marketing software should a real estate agent use,ok,4,4,0,4,4,6
+3,email marketing software,q087,recommendation,which email marketing tool is best for a solo creator newsletter,ok,3,3,0,2,2,8
+3,email marketing software,q088,recommendation,what email marketing software should I use for client work,ok,5,5,0,2,3,7
+3,email marketing software,q089,recommendation,recommend an email marketing tool for a nonprofit,ok,3,3,0,2,3,7
+3,email marketing software,q090,recommendation,recommend an email marketing tool for a law firm,ok,4,4,0,5,1,9
+3,email marketing software,q091,recommendation,what is the best email marketing software for a team that uses slack,ok,4,4,0,3,2,8
+3,email marketing software,q092,recommendation,which email marketing tool works best with google workspace,ok,4,4,0,1,1,9
+3,email marketing software,q093,recommendation,which email marketing tool should I use if I need automation workflows,ok,6,6,0,2,2,8
+3,email marketing software,q094,recommendation,what email marketing software should I pick for a restaurant,ok,2,2,0,6,1,9
+3,email marketing software,q095,recommendation,which email marketing tool is best for managing multiple clients,ok,5,5,0,4,5,5
+3,email marketing software,q096,recommendation,recommend a simple email marketing tool for a small business owner,ok,4,3,0,8,3,7
+3,email marketing software,q097,recommendation,what email marketing software is best for a growing startup,ok,3,3,0,3,4,6
+3,email marketing software,q098,recommendation,which email marketing tool should a B2B SaaS marketing team use,ok,7,5,0,3,1,9
+3,email marketing software,q099,recommendation,what email marketing software should I use to replace mailchimp,ok,6,5,0,5,4,6
+3,email marketing software,q100,recommendation,which email marketing platform is best value for money,ok,7,7,0,3,3,7
+4,help desk software,q001,category,best help desk software,ok,10,9,0,5,0,10
+4,help desk software,q002,category,best help desk software 2026,ok,9,8,0,3,2,8
+4,help desk software,q003,category,best help desk software for small teams,ok,6,6,0,6,2,8
+4,help desk software,q004,category,best help desk software for small business,ok,7,6,0,5,5,5
+4,help desk software,q005,category,best customer support software for startups,ok,7,6,0,8,4,6
+4,help desk software,q006,category,best enterprise help desk software,ok,6,5,0,2,2,8
+4,help desk software,q007,category,best free help desk software,ok,8,6,0,5,5,5
+4,help desk software,q008,category,best customer support software for ecommerce,ok,8,8,0,3,6,4
+4,help desk software,q009,category,best help desk software for agencies,ok,5,5,0,3,0,10
+4,help desk software,q010,category,best customer support software for SaaS companies,ok,4,3,0,3,3,7
+4,help desk software,q011,category,best help desk software for B2B companies,ok,7,6,0,3,4,6
+4,help desk software,q012,category,best help desk software for IT teams,ok,3,3,0,3,1,9
+4,help desk software,q013,category,best ticketing system for small business,ok,6,6,0,2,3,7
+4,help desk software,q014,category,best help desk software for nonprofits,ok,6,6,0,3,4,6
+4,help desk software,q015,category,best live chat software for customer support,ok,7,7,0,6,2,8
+4,help desk software,q016,category,best shared inbox software for support teams,ok,7,5,0,6,3,7
+4,help desk software,q017,category,best help desk software with a knowledge base,ok,6,6,0,4,0,10
+4,help desk software,q018,category,best customer support software for MSPs,ok,6,5,0,4,1,9
+4,help desk software,q019,category,affordable help desk software,ok,6,6,0,8,4,6
+4,help desk software,q020,category,simple help desk software for small teams,ok,6,6,0,0,5,5
+4,help desk software,q021,category,help desk software with AI chatbot,ok,6,4,2,2,4,6
+4,help desk software,q022,category,customer support software with phone support,ok,5,5,0,7,2,8
+4,help desk software,q023,category,most popular help desk software,ok,6,5,1,2,1,9
+4,help desk software,q024,category,easiest help desk software to use,ok,5,4,0,6,1,9
+4,help desk software,q025,category,best customer support platform for large teams,ok,6,5,1,3,5,5
+4,help desk software,q026,category,top rated help desk software,ok,6,5,1,2,1,9
+4,help desk software,q027,category,best help desk software for Shopify stores,ok,5,5,0,5,3,7
+4,help desk software,q028,category,best help desk software for schools,ok,6,6,0,6,2,8
+4,help desk software,q029,category,best help desk software for healthcare,ok,6,6,0,1,4,6
+4,help desk software,q030,category,best help desk software for law firms,ok,3,3,0,2,2,8
+4,help desk software,q031,comparison,zendesk vs freshdesk,ok,3,2,0,2,2,8
+4,help desk software,q032,comparison,zendesk vs intercom,ok,3,2,0,2,4,6
+4,help desk software,q033,comparison,freshdesk vs intercom,ok,4,2,0,2,2,8
+4,help desk software,q034,comparison,zendesk vs help scout,ok,2,2,0,2,7,3
+4,help desk software,q035,comparison,help scout vs freshdesk,ok,3,2,0,2,3,7
+4,help desk software,q036,comparison,zendesk vs hubspot service hub,ok,2,2,0,2,3,7
+4,help desk software,q037,comparison,intercom vs hubspot service hub,ok,3,2,0,4,3,7
+4,help desk software,q038,comparison,zoho desk vs freshdesk,ok,5,2,0,2,4,6
+4,help desk software,q039,comparison,zoho desk vs zendesk,ok,4,2,0,2,4,6
+4,help desk software,q040,comparison,zendesk vs salesforce service cloud,ok,3,2,0,6,3,7
+4,help desk software,q041,comparison,jira service management vs zendesk,ok,2,2,0,4,2,8
+4,help desk software,q042,comparison,jira service management vs freshservice,ok,3,2,0,1,2,8
+4,help desk software,q043,comparison,freshservice vs servicenow,ok,3,2,0,2,2,8
+4,help desk software,q044,comparison,gorgias vs zendesk,ok,2,2,0,2,6,4
+4,help desk software,q045,comparison,gorgias vs re:amaze,ok,2,2,0,4,2,8
+4,help desk software,q046,comparison,front vs help scout,ok,2,2,0,6,4,6
+4,help desk software,q047,comparison,front vs zendesk,ok,2,2,0,2,4,6
+4,help desk software,q048,comparison,kayako vs zendesk,ok,2,2,0,4,4,6
+4,help desk software,q049,comparison,happyfox vs freshdesk,ok,4,3,0,2,4,6
+4,help desk software,q050,comparison,helpdesk vs livechat,ok,3,0,0,2,2,8
+4,help desk software,q051,comparison,zendesk vs freshdesk vs intercom,ok,4,3,0,2,5,5
+4,help desk software,q052,comparison,zendesk vs help scout vs freshdesk,ok,4,3,0,3,5,5
+4,help desk software,q053,comparison,intercom vs zendesk vs hubspot,ok,5,3,0,3,1,9
+4,help desk software,q054,comparison,gorgias vs zendesk vs freshdesk,ok,4,3,0,5,5,5
+4,help desk software,q055,comparison,zendesk vs servicenow,ok,2,2,0,5,4,6
+4,help desk software,q056,comparison,tidio vs intercom,ok,3,2,0,2,4,6
+4,help desk software,q057,comparison,zendesk or freshdesk for a small business,ok,2,2,0,4,3,7
+4,help desk software,q058,comparison,intercom or zendesk for a saas startup,ok,3,2,0,2,2,8
+4,help desk software,q059,comparison,help scout or freshdesk for a small team,ok,2,2,0,2,5,5
+4,help desk software,q060,comparison,zendesk or gorgias for an ecommerce store,ok,2,2,0,5,3,7
+4,help desk software,q061,alternative,zendesk alternatives,ok,12,10,0,4,4,6
+4,help desk software,q062,alternative,intercom alternatives,ok,10,9,0,5,4,6
+4,help desk software,q063,alternative,freshdesk alternatives,ok,12,10,0,6,3,7
+4,help desk software,q064,alternative,help scout alternatives,ok,10,8,0,5,3,7
+4,help desk software,q065,alternative,hubspot service hub alternatives,ok,10,8,0,5,2,8
+4,help desk software,q066,alternative,zoho desk alternatives,ok,11,9,0,4,3,7
+4,help desk software,q067,alternative,gorgias alternatives,ok,3,1,1,0,3,7
+4,help desk software,q068,alternative,jira service management alternatives,ok,8,7,0,2,2,8
+4,help desk software,q069,alternative,front alternatives for shared inbox,ok,8,7,0,5,3,7
+4,help desk software,q070,alternative,servicenow alternatives for small business,ok,9,7,0,5,2,8
+4,help desk software,q071,alternative,cheaper alternative to zendesk,ok,7,5,0,1,5,5
+4,help desk software,q072,alternative,cheaper alternative to intercom,ok,8,7,0,3,4,6
+4,help desk software,q073,alternative,free alternative to zendesk,ok,8,6,0,3,1,9
+4,help desk software,q074,alternative,free alternative to freshdesk,ok,8,7,0,2,3,7
+4,help desk software,q075,alternative,open source alternative to zendesk,ok,5,3,0,5,3,7
+4,help desk software,q076,alternative,open source alternative to intercom,ok,2,1,0,2,1,9
+4,help desk software,q077,alternative,simpler alternative to zendesk,ok,6,5,0,3,6,4
+4,help desk software,q078,alternative,simpler alternative to jira service management,ok,5,4,0,4,3,7
+4,help desk software,q079,alternative,zendesk alternative for small business,ok,8,7,0,4,6,4
+4,help desk software,q080,alternative,intercom alternative for startups,ok,8,6,0,4,4,6
+4,help desk software,q081,recommendation,which help desk software should I use for a 5 person support team,ok,7,5,0,4,3,7
+4,help desk software,q082,recommendation,which help desk software should I use for a 50 person company,ok,6,6,0,3,4,6
+4,help desk software,q083,recommendation,what customer support software do you recommend for a marketing agency,ok,6,6,0,2,0,10
+4,help desk software,q084,recommendation,what help desk software do you recommend for a software startup,ok,3,3,0,2,1,9
+4,help desk software,q085,recommendation,which customer support platform is best for an ecommerce store,ok,4,4,0,2,6,4
+4,help desk software,q086,recommendation,what help desk software should a real estate brokerage use,ok,7,6,0,6,2,8
+4,help desk software,q087,recommendation,which help desk tool is best for a solo founder,ok,4,2,1,3,1,9
+4,help desk software,q088,recommendation,what customer support software should I use for client work,ok,5,5,0,2,3,7
+4,help desk software,q089,recommendation,recommend a help desk tool for a nonprofit,ok,6,5,0,0,2,8
+4,help desk software,q090,recommendation,recommend a help desk tool for a law firm,ok,6,6,0,7,1,9
+4,help desk software,q091,recommendation,what is the best help desk software for a team that uses slack,ok,5,4,0,4,1,9
+4,help desk software,q092,recommendation,which help desk software works best with google workspace,ok,5,5,0,4,1,9
+4,help desk software,q093,recommendation,which help desk should I use if I need an AI chatbot,ok,6,4,0,4,1,9
+4,help desk software,q094,recommendation,what help desk software should I pick for an IT department,ok,3,3,0,3,0,10
+4,help desk software,q095,recommendation,which help desk software is best for managing multiple clients,ok,5,5,0,3,1,9
+4,help desk software,q096,recommendation,recommend a simple help desk tool for a small business owner,ok,4,3,0,6,2,8
+4,help desk software,q097,recommendation,what customer support software is best for a growing startup,ok,5,4,0,1,2,8
+4,help desk software,q098,recommendation,which help desk should a B2B SaaS support team use,ok,5,4,0,4,3,7
+4,help desk software,q099,recommendation,what help desk software should I use to replace a shared gmail inbox,ok,5,5,0,3,2,8
+4,help desk software,q100,recommendation,which help desk software is best value for money,ok,4,4,0,4,0,10
+5,accounting software,q001,category,best accounting software,ok,6,6,0,6,4,6
+5,accounting software,q002,category,best accounting software 2026,ok,5,5,0,2,1,9
+5,accounting software,q003,category,best accounting software for small teams,ok,6,5,0,4,2,8
+5,accounting software,q004,category,best accounting software for small business,ok,5,5,0,2,4,6
+5,accounting software,q005,category,best accounting software for startups,ok,5,5,0,3,4,6
+5,accounting software,q006,category,best enterprise accounting software,ok,4,4,0,0,2,8
+5,accounting software,q007,category,best free accounting software,ok,5,5,0,2,3,7
+5,accounting software,q008,category,best accounting software for ecommerce,ok,3,3,0,4,2,8
+5,accounting software,q009,category,best accounting software for agencies,ok,5,5,0,3,2,8
+5,accounting software,q010,category,best accounting software for SaaS companies,ok,5,5,0,3,2,8
+5,accounting software,q011,category,best bookkeeping software for small business,ok,5,5,0,3,5,5
+5,accounting software,q012,category,best accounting software for real estate investors,ok,1,1,0,4,3,7
+5,accounting software,q013,category,best accounting software for freelancers,ok,5,5,0,5,2,8
+5,accounting software,q014,category,best accounting software for nonprofits,ok,5,5,0,5,4,6
+5,accounting software,q015,category,best invoicing software for small business,ok,5,5,0,3,5,5
+5,accounting software,q016,category,best expense tracking software for small business,ok,6,4,0,2,4,6
+5,accounting software,q017,category,best accounting software with payroll,ok,3,3,0,2,5,5
+5,accounting software,q018,category,best accounting software for consultants,ok,4,4,0,1,5,5
+5,accounting software,q019,category,affordable accounting software,ok,4,4,0,6,4,6
+5,accounting software,q020,category,simple accounting software for small teams,ok,6,3,2,3,5,5
+5,accounting software,q021,category,accounting software with inventory management,ok,3,3,0,2,4,6
+5,accounting software,q022,category,accounting software with project accounting,ok,3,2,0,3,3,7
+5,accounting software,q023,category,most popular accounting software,ok,8,7,1,2,4,6
+5,accounting software,q024,category,easiest accounting software to use,ok,4,4,0,5,5,5
+5,accounting software,q025,category,best accounting software for mid-size companies,ok,5,5,0,5,3,7
+5,accounting software,q026,category,top rated accounting software,ok,7,7,0,4,3,7
+5,accounting software,q027,category,best accounting software for mac,ok,4,4,0,5,3,7
+5,accounting software,q028,category,best accounting software for restaurants,ok,3,3,0,2,6,4
+5,accounting software,q029,category,best accounting software for contractors,ok,5,5,0,3,4,6
+5,accounting software,q030,category,best accounting software for law firms,ok,1,1,0,2,3,7
+5,accounting software,q031,comparison,quickbooks vs xero,ok,2,2,0,2,2,8
+5,accounting software,q032,comparison,quickbooks vs freshbooks,ok,2,2,0,4,2,8
+5,accounting software,q033,comparison,xero vs freshbooks,ok,2,2,0,7,2,8
+5,accounting software,q034,comparison,quickbooks vs wave,ok,2,2,0,3,2,8
+5,accounting software,q035,comparison,quickbooks vs zoho books,ok,2,2,0,2,1,9
+5,accounting software,q036,comparison,xero vs zoho books,ok,3,2,0,2,1,9
+5,accounting software,q037,comparison,quickbooks vs sage,ok,3,2,0,2,2,8
+5,accounting software,q038,comparison,quickbooks vs netsuite,ok,2,2,0,2,2,8
+5,accounting software,q039,comparison,xero vs sage,ok,3,3,0,0,3,7
+5,accounting software,q040,comparison,freshbooks vs wave,ok,4,4,0,3,3,7
+5,accounting software,q041,comparison,quickbooks online vs quickbooks desktop,ok,2,2,0,1,2,8
+5,accounting software,q042,comparison,netsuite vs sage intacct,ok,3,2,0,1,2,8
+5,accounting software,q043,comparison,sage intacct vs quickbooks,ok,3,2,0,2,2,8
+5,accounting software,q044,comparison,zoho books vs freshbooks,ok,2,2,0,2,1,9
+5,accounting software,q045,comparison,wave vs zoho books,ok,2,2,0,2,2,8
+5,accounting software,q046,comparison,quickbooks vs bench,ok,2,2,0,2,1,9
+5,accounting software,q047,comparison,quickbooks vs odoo,ok,2,2,0,1,1,9
+5,accounting software,q048,comparison,xero vs myob,ok,2,2,0,2,3,7
+5,accounting software,q049,comparison,quickbooks vs kashoo,ok,2,2,0,2,1,9
+5,accounting software,q050,comparison,freshbooks vs invoice ninja,ok,2,2,0,4,0,10
+5,accounting software,q051,comparison,quickbooks vs xero vs freshbooks,ok,3,3,0,3,2,8
+5,accounting software,q052,comparison,quickbooks vs wave vs zoho books,ok,3,3,0,3,1,9
+5,accounting software,q053,comparison,netsuite vs sage intacct vs quickbooks,ok,4,3,0,4,1,9
+5,accounting software,q054,comparison,xero vs freshbooks vs zoho books,ok,3,3,0,3,0,10
+5,accounting software,q055,comparison,quickbooks vs sage 50,ok,2,2,0,2,3,7
+5,accounting software,q056,comparison,quickbooks vs puzzle,ok,4,2,0,1,2,8
+5,accounting software,q057,comparison,quickbooks or xero for a small business,ok,3,2,0,2,2,8
+5,accounting software,q058,comparison,freshbooks or quickbooks for a freelancer,ok,2,2,0,4,2,8
+5,accounting software,q059,comparison,wave or zoho books for a startup,ok,2,2,0,2,2,8
+5,accounting software,q060,comparison,netsuite or sage intacct for a growing company,ok,4,2,0,6,1,9
+5,accounting software,q061,alternative,quickbooks alternatives,ok,8,6,0,2,3,7
+5,accounting software,q062,alternative,xero alternatives,ok,6,5,0,5,4,6
+5,accounting software,q063,alternative,freshbooks alternatives,ok,6,3,2,3,4,6
+5,accounting software,q064,alternative,wave accounting alternatives,ok,6,5,0,6,1,9
+5,accounting software,q065,alternative,sage alternatives,ok,11,10,0,3,0,10
+5,accounting software,q066,alternative,netsuite alternatives,ok,7,6,0,1,2,8
+5,accounting software,q067,alternative,zoho books alternatives,ok,7,6,0,4,3,7
+5,accounting software,q068,alternative,quickbooks desktop alternatives,ok,6,5,0,3,2,8
+5,accounting software,q069,alternative,bench accounting alternatives,ok,8,6,0,6,3,7
+5,accounting software,q070,alternative,sage intacct alternatives,ok,9,7,0,2,1,9
+5,accounting software,q071,alternative,cheaper alternative to quickbooks,ok,5,4,0,0,1,9
+5,accounting software,q072,alternative,cheaper alternative to netsuite,ok,5,4,0,2,1,9
+5,accounting software,q073,alternative,free alternative to quickbooks,ok,6,3,2,3,3,7
+5,accounting software,q074,alternative,free alternative to xero,ok,6,5,0,4,2,8
+5,accounting software,q075,alternative,open source alternative to quickbooks,ok,4,2,1,4,2,8
+5,accounting software,q076,alternative,open source alternative to xero,ok,3,2,0,1,2,8
+5,accounting software,q077,alternative,simpler alternative to quickbooks,ok,5,4,0,2,4,6
+5,accounting software,q078,alternative,simpler alternative to netsuite,ok,8,7,0,6,1,9
+5,accounting software,q079,alternative,quickbooks alternative for small business,ok,6,5,0,3,3,7
+5,accounting software,q080,alternative,xero alternative for freelancers,ok,6,5,0,5,3,7
+5,accounting software,q081,recommendation,which accounting software should I use for a 5 person company,ok,4,4,0,1,3,7
+5,accounting software,q082,recommendation,which accounting software should I use for a 50 person company,ok,5,5,0,5,5,5
+5,accounting software,q083,recommendation,what accounting software do you recommend for a marketing agency,ok,4,4,0,2,3,7
+5,accounting software,q084,recommendation,what accounting software do you recommend for a software startup,ok,8,5,0,5,3,7
+5,accounting software,q085,recommendation,which accounting software is best for an ecommerce store,ok,4,4,0,3,3,7
+5,accounting software,q086,recommendation,what accounting software should a real estate brokerage use,ok,2,2,0,3,3,7
+5,accounting software,q087,recommendation,which accounting software is best for a solo consultant,ok,4,4,0,4,2,8
+5,accounting software,q088,recommendation,what accounting software should I use for client work,ok,2,2,0,2,4,6
+5,accounting software,q089,recommendation,recommend accounting software for a nonprofit,ok,4,4,0,3,2,8
+5,accounting software,q090,recommendation,recommend accounting software for a law firm,ok,1,1,0,4,2,8
+5,accounting software,q091,recommendation,what is the best accounting software for a team that uses slack,ok,4,4,0,3,0,10
+5,accounting software,q092,recommendation,which accounting software works best with google workspace,ok,5,5,0,3,1,9
+5,accounting software,q093,recommendation,which accounting software should I use if I need multi-currency,ok,3,3,0,3,3,7
+5,accounting software,q094,recommendation,what accounting software should I pick for a construction company,ok,3,3,0,5,4,6
+5,accounting software,q095,recommendation,which accounting software is best for managing multiple clients,ok,4,4,0,3,5,5
+5,accounting software,q096,recommendation,recommend simple accounting software for a small business owner,ok,3,3,0,3,4,6
+5,accounting software,q097,recommendation,what accounting software is best for a growing startup,ok,3,3,0,3,1,9
+5,accounting software,q098,recommendation,which accounting software should a B2B SaaS company use,ok,3,3,0,5,2,8
+5,accounting software,q099,recommendation,what accounting software should I use to replace spreadsheets,ok,5,5,0,2,2,8
+5,accounting software,q100,recommendation,which accounting software is best value for money,ok,5,5,0,3,3,7
+6,payment processing,q001,category,best payment processing companies,ok,7,7,0,4,2,8
+6,payment processing,q002,category,best payment processor 2026,ok,5,5,0,2,1,9
+6,payment processing,q003,category,best payment processing for small business,ok,5,5,0,2,5,5
+6,payment processing,q004,category,best payment processor for startups,ok,5,5,0,9,3,7
+6,payment processing,q005,category,best enterprise payment processing platform,ok,7,6,0,4,6,4
+6,payment processing,q006,category,cheapest payment processing for small business,ok,5,3,2,3,2,8
+6,payment processing,q007,category,best payment processor for ecommerce,ok,6,5,0,1,3,7
+6,payment processing,q008,category,best payment processor for online business,ok,5,4,0,3,3,7
+6,payment processing,q009,category,best payment gateway for a website,ok,5,4,0,1,4,6
+6,payment processing,q010,category,best payment processor for SaaS subscriptions,ok,4,4,0,8,4,6
+6,payment processing,q011,category,best payment processing for restaurants,ok,4,4,0,3,2,8
+6,payment processing,q012,category,best payment processor for retail stores,ok,4,4,0,2,4,6
+6,payment processing,q013,category,best mobile card reader for small business,ok,7,5,0,3,1,9
+6,payment processing,q014,category,best payment processing for nonprofits,ok,6,3,0,2,2,8
+6,payment processing,q015,category,best payment processor for high risk businesses,ok,5,3,1,5,1,9
+6,payment processing,q016,category,best payment processor for international payments,ok,3,3,0,3,5,5
+6,payment processing,q017,category,best payment processing for contractors,ok,4,4,0,2,0,10
+6,payment processing,q018,category,best payment processor for freelancers,ok,3,3,0,3,1,9
+6,payment processing,q019,category,best interchange plus payment processor,ok,5,5,0,3,5,5
+6,payment processing,q020,category,best flat rate payment processor,ok,4,4,0,3,3,7
+6,payment processing,q021,category,best payment processor with no monthly fee,ok,4,3,0,3,4,6
+6,payment processing,q022,category,best payment processor for B2B invoices,ok,3,3,0,2,3,7
+6,payment processing,q023,category,most popular payment processors,ok,11,11,0,9,3,7
+6,payment processing,q024,category,easiest payment processor to set up,ok,4,3,0,4,4,6
+6,payment processing,q025,category,best payment processor for high volume businesses,ok,6,4,0,3,5,5
+6,payment processing,q026,category,top rated merchant services providers,ok,5,5,0,1,1,9
+6,payment processing,q027,category,best payment processor for Shopify stores,ok,4,3,0,1,5,5
+6,payment processing,q028,category,best payment processing for medical practices,ok,5,5,0,3,3,7
+6,payment processing,q029,category,best payment processing for law firms,ok,2,0,0,3,0,10
+6,payment processing,q030,category,best payment processor for marketplaces,ok,4,4,0,3,3,7
+6,payment processing,q031,comparison,stripe vs square,ok,2,2,0,2,1,9
+6,payment processing,q032,comparison,stripe vs paypal,ok,3,2,0,2,1,9
+6,payment processing,q033,comparison,square vs paypal,ok,5,2,0,2,2,8
+6,payment processing,q034,comparison,stripe vs adyen,ok,2,2,0,2,1,9
+6,payment processing,q035,comparison,stripe vs braintree,ok,3,2,0,1,0,10
+6,payment processing,q036,comparison,stripe vs authorize.net,ok,5,2,0,2,0,10
+6,payment processing,q037,comparison,square vs clover,ok,2,0,2,4,1,9
+6,payment processing,q038,comparison,square vs toast,ok,2,2,0,3,1,9
+6,payment processing,q039,comparison,helcim vs square,ok,2,2,0,2,1,9
+6,payment processing,q040,comparison,helcim vs stripe,ok,2,2,0,1,2,8
+6,payment processing,q041,comparison,stax vs helcim,ok,2,2,0,3,1,9
+6,payment processing,q042,comparison,payment depot vs helcim,ok,4,0,2,2,1,9
+6,payment processing,q043,comparison,stripe vs checkout.com,ok,2,2,0,2,1,9
+6,payment processing,q044,comparison,adyen vs checkout.com,ok,2,2,0,2,1,9
+6,payment processing,q045,comparison,adyen vs braintree,ok,4,2,0,2,1,9
+6,payment processing,q046,comparison,paypal vs braintree,ok,6,2,0,1,2,8
+6,payment processing,q047,comparison,stripe vs paddle,ok,2,2,0,4,3,7
+6,payment processing,q048,comparison,paddle vs lemon squeezy,ok,3,2,0,3,2,8
+6,payment processing,q049,comparison,stripe vs shopify payments,ok,2,2,0,2,2,8
+6,payment processing,q050,comparison,square vs sumup,ok,2,2,0,1,2,8
+6,payment processing,q051,comparison,stripe vs square vs paypal,ok,5,3,0,2,1,9
+6,payment processing,q052,comparison,helcim vs stax vs payment depot,ok,3,3,0,3,1,9
+6,payment processing,q053,comparison,stripe vs adyen vs checkout.com,ok,3,3,0,3,0,10
+6,payment processing,q054,comparison,square vs clover vs toast,ok,3,3,0,5,0,10
+6,payment processing,q055,comparison,quickbooks payments vs stripe,ok,4,2,0,2,1,9
+6,payment processing,q056,comparison,gocardless vs stripe,ok,2,2,0,2,3,7
+6,payment processing,q057,comparison,stripe or square for a retail store,ok,2,2,0,2,1,9
+6,payment processing,q058,comparison,stripe or paypal for an online store,ok,3,2,0,2,0,10
+6,payment processing,q059,comparison,helcim or square for a small business,ok,2,2,0,4,4,6
+6,payment processing,q060,comparison,stripe or braintree for a saas company,ok,3,2,0,1,3,7
+6,payment processing,q061,alternative,stripe alternatives,ok,13,11,0,2,2,8
+6,payment processing,q062,alternative,square alternatives,ok,9,8,0,5,2,8
+6,payment processing,q063,alternative,paypal alternatives for business,ok,7,5,0,4,1,9
+6,payment processing,q064,alternative,adyen alternatives,ok,10,7,0,4,3,7
+6,payment processing,q065,alternative,braintree alternatives,ok,10,6,0,6,4,6
+6,payment processing,q066,alternative,authorize.net alternatives,ok,9,7,0,3,2,8
+6,payment processing,q067,alternative,helcim alternatives,ok,8,7,0,4,3,7
+6,payment processing,q068,alternative,clover alternatives,ok,8,7,0,4,0,10
+6,payment processing,q069,alternative,shopify payments alternatives,ok,6,5,0,1,2,8
+6,payment processing,q070,alternative,paddle alternatives,ok,7,6,0,3,4,6
+6,payment processing,q071,alternative,cheaper alternative to stripe,ok,4,2,1,3,2,8
+6,payment processing,q072,alternative,cheaper alternative to square,ok,4,1,2,3,1,9
+6,payment processing,q073,alternative,cheaper alternative to paypal,ok,3,2,0,2,1,9
+6,payment processing,q074,alternative,stripe alternative with lower fees,ok,4,3,0,2,3,7
+6,payment processing,q075,alternative,open source alternative to stripe,ok,1,0,0,4,2,8
+6,payment processing,q076,alternative,stripe alternative for high risk businesses,ok,4,3,0,1,1,9
+6,payment processing,q077,alternative,simpler alternative to adyen,ok,6,5,0,3,3,7
+6,payment processing,q078,alternative,square alternative for restaurants,ok,5,4,0,5,1,9
+6,payment processing,q079,alternative,stripe alternative for small business,ok,7,6,0,4,2,8
+6,payment processing,q080,alternative,paypal alternative for freelancers,ok,5,4,0,5,1,9
+6,payment processing,q081,recommendation,which payment processor should I use for a 5 person company,ok,5,4,0,1,4,6
+6,payment processing,q082,recommendation,which payment processor should I use for a 50 person company,ok,4,3,0,3,2,8
+6,payment processing,q083,recommendation,what payment processor do you recommend for a marketing agency,ok,3,3,0,2,0,10
+6,payment processing,q084,recommendation,what payment processor do you recommend for a software startup,ok,4,4,0,8,3,7
+6,payment processing,q085,recommendation,which payment processor is best for an ecommerce store,ok,5,3,0,3,2,8
+6,payment processing,q086,recommendation,what payment processor should a real estate agent use,ok,4,4,0,4,2,8
+6,payment processing,q087,recommendation,which payment processor is best for a solo consultant,ok,3,3,0,3,1,9
+6,payment processing,q088,recommendation,what payment processor should I use to invoice clients,ok,3,3,0,2,3,7
+6,payment processing,q089,recommendation,recommend a payment processor for a nonprofit,ok,3,3,0,3,1,9
+6,payment processing,q090,recommendation,recommend a payment processor for a law firm,ok,0,0,0,3,2,8
+6,payment processing,q091,recommendation,what is the best payment processor for a business that uses quickbooks,ok,7,4,0,1,3,7
+6,payment processing,q092,recommendation,which payment processor works best with wordpress,ok,4,3,0,1,0,10
+6,payment processing,q093,recommendation,which payment processor should I use if I need recurring billing,ok,4,3,0,3,5,5
+6,payment processing,q094,recommendation,what payment processor should I pick for a restaurant,ok,4,4,0,4,3,7
+6,payment processing,q095,recommendation,which payment processor is best for selling at farmers markets,ok,9,7,0,3,0,10
+6,payment processing,q096,recommendation,recommend a simple payment processor for a small business owner,ok,4,3,0,3,5,5
+6,payment processing,q097,recommendation,what payment processor is best for a growing startup,ok,6,4,0,11,1,9
+6,payment processing,q098,recommendation,which payment processor should a B2B SaaS company use,ok,4,4,0,2,4,6
+6,payment processing,q099,recommendation,what payment processor should I use to replace stripe,ok,11,9,0,4,2,8
+6,payment processing,q100,recommendation,which payment processor is best value for money,ok,3,3,0,2,2,8
+7,payroll software,q001,category,best payroll software,ok,5,5,0,3,5,5
+7,payroll software,q002,category,best payroll software 2026,ok,7,5,0,2,3,7
+7,payroll software,q003,category,best payroll software for small teams,ok,4,4,0,3,4,6
+7,payroll software,q004,category,best payroll software for small business,ok,6,6,0,2,5,5
+7,payroll software,q005,category,best payroll software for startups,ok,6,6,0,3,4,6
+7,payroll software,q006,category,best enterprise payroll software,ok,7,6,0,2,3,7
+7,payroll software,q007,category,best free payroll software,ok,3,3,0,4,3,7
+7,payroll software,q008,category,best payroll software for hourly employees,ok,4,4,0,4,3,7
+7,payroll software,q009,category,best payroll software for agencies,ok,5,5,0,2,3,7
+7,payroll software,q010,category,best payroll software for remote teams,ok,5,5,0,8,3,7
+7,payroll software,q011,category,best payroll software for international employees,ok,5,5,0,2,5,5
+7,payroll software,q012,category,best payroll software for restaurants,ok,4,4,0,6,6,4
+7,payroll software,q013,category,best payroll software for contractors and freelancers,ok,5,5,0,6,2,8
+7,payroll software,q014,category,best payroll software for nonprofits,ok,5,5,0,2,4,6
+7,payroll software,q015,category,best payroll service for one employee,ok,2,2,0,2,6,4
+7,payroll software,q016,category,best payroll software with HR features,ok,4,4,0,4,2,8
+7,payroll software,q017,category,best payroll software with time tracking,ok,4,4,0,3,2,8
+7,payroll software,q018,category,best payroll software for accountants,ok,5,5,0,1,4,6
+7,payroll software,q019,category,affordable payroll software,ok,5,5,0,2,5,5
+7,payroll software,q020,category,simple payroll software for small teams,ok,2,2,0,2,7,3
+7,payroll software,q021,category,payroll software with benefits administration,ok,6,6,0,5,3,7
+7,payroll software,q022,category,payroll software that files taxes automatically,ok,4,3,1,4,5,5
+7,payroll software,q023,category,most popular payroll software,ok,8,7,1,10,5,5
+7,payroll software,q024,category,easiest payroll software to use,ok,4,4,0,3,4,6
+7,payroll software,q025,category,best payroll platform for large companies,ok,3,3,0,3,5,5
+7,payroll software,q026,category,top rated payroll software,ok,8,8,0,3,3,7
+7,payroll software,q027,category,best payroll software for construction companies,ok,5,5,0,5,4,6
+7,payroll software,q028,category,best payroll software for household employers,ok,3,3,0,5,4,6
+7,payroll software,q029,category,best payroll software for healthcare practices,ok,3,3,0,5,5,5
+7,payroll software,q030,category,best payroll software for law firms,ok,5,5,0,3,3,7
+7,payroll software,q031,comparison,gusto vs adp,ok,2,2,0,2,4,6
+7,payroll software,q032,comparison,gusto vs rippling,ok,2,2,0,2,2,8
+7,payroll software,q033,comparison,gusto vs quickbooks payroll,ok,2,2,0,2,2,8
+7,payroll software,q034,comparison,gusto vs paychex,ok,2,2,0,2,3,7
+7,payroll software,q035,comparison,gusto vs onpay,ok,2,2,0,2,4,6
+7,payroll software,q036,comparison,gusto vs justworks,ok,2,2,0,2,2,8
+7,payroll software,q037,comparison,rippling vs justworks,ok,2,2,0,3,3,7
+7,payroll software,q038,comparison,rippling vs deel,ok,2,2,0,3,2,8
+7,payroll software,q039,comparison,deel vs remote,ok,2,2,0,2,3,7
+7,payroll software,q040,comparison,adp vs paychex,ok,2,2,0,4,3,7
+7,payroll software,q041,comparison,adp vs paycor,ok,2,2,0,3,3,7
+7,payroll software,q042,comparison,paylocity vs paycom,ok,3,2,0,4,2,8
+7,payroll software,q043,comparison,paycor vs paylocity,ok,3,2,0,5,2,8
+7,payroll software,q044,comparison,gusto vs square payroll,ok,2,2,0,2,3,7
+7,payroll software,q045,comparison,onpay vs quickbooks payroll,ok,2,2,0,1,4,6
+7,payroll software,q046,comparison,patriot payroll vs gusto,ok,2,2,0,3,3,7
+7,payroll software,q047,comparison,surepayroll vs gusto,ok,2,2,0,2,2,8
+7,payroll software,q048,comparison,justworks vs trinet,ok,2,2,0,2,3,7
+7,payroll software,q049,comparison,rippling vs bamboohr,ok,2,2,0,2,2,8
+7,payroll software,q050,comparison,workday vs adp,ok,2,2,0,2,2,8
+7,payroll software,q051,comparison,gusto vs rippling vs justworks,ok,3,3,0,2,3,7
+7,payroll software,q052,comparison,gusto vs adp vs paychex,ok,3,3,0,3,3,7
+7,payroll software,q053,comparison,deel vs remote vs rippling,ok,7,3,0,4,3,7
+7,payroll software,q054,comparison,quickbooks payroll vs gusto vs onpay,ok,3,3,0,3,5,5
+7,payroll software,q055,comparison,paychex vs paycor,ok,2,2,0,2,6,4
+7,payroll software,q056,comparison,homebase vs gusto,ok,2,2,0,2,4,6
+7,payroll software,q057,comparison,gusto or adp for a small business,ok,2,2,0,2,4,6
+7,payroll software,q058,comparison,rippling or gusto for a startup,ok,2,2,0,4,2,8
+7,payroll software,q059,comparison,deel or remote for international contractors,ok,2,2,0,2,5,5
+7,payroll software,q060,comparison,adp or paychex for a mid-size company,ok,2,2,0,2,3,7
+7,payroll software,q061,alternative,gusto alternatives,ok,10,5,3,6,2,8
+7,payroll software,q062,alternative,adp alternatives,ok,11,10,0,3,4,6
+7,payroll software,q063,alternative,rippling alternatives,ok,10,8,0,4,2,8
+7,payroll software,q064,alternative,paychex alternatives,ok,10,9,0,2,3,7
+7,payroll software,q065,alternative,quickbooks payroll alternatives,ok,8,7,0,3,3,7
+7,payroll software,q066,alternative,justworks alternatives,ok,9,8,0,5,4,6
+7,payroll software,q067,alternative,deel alternatives,ok,8,7,0,4,4,6
+7,payroll software,q068,alternative,paylocity alternatives,ok,9,8,0,4,3,7
+7,payroll software,q069,alternative,onpay alternatives,ok,9,8,0,1,2,8
+7,payroll software,q070,alternative,trinet alternatives,ok,6,1,4,2,2,8
+7,payroll software,q071,alternative,cheaper alternative to gusto,ok,6,1,4,2,2,8
+7,payroll software,q072,alternative,cheaper alternative to adp,ok,4,3,0,3,4,6
+7,payroll software,q073,alternative,free alternative to gusto,ok,3,1,1,4,3,7
+7,payroll software,q074,alternative,free alternative to quickbooks payroll,ok,5,2,1,5,1,9
+7,payroll software,q075,alternative,open source alternative to gusto,ok,1,0,0,4,1,9
+7,payroll software,q076,alternative,open source payroll software alternative to adp,ok,5,1,3,3,3,7
+7,payroll software,q077,alternative,simpler alternative to adp,ok,6,5,0,3,3,7
+7,payroll software,q078,alternative,simpler alternative to rippling,ok,6,5,0,4,3,7
+7,payroll software,q079,alternative,gusto alternative for small business,ok,7,6,0,4,2,8
+7,payroll software,q080,alternative,adp alternative for startups,ok,7,6,0,4,4,6
+7,payroll software,q081,recommendation,which payroll software should I use for a 5 person company,ok,4,4,0,4,5,5
+7,payroll software,q082,recommendation,which payroll software should I use for a 50 person company,ok,5,5,0,6,4,6
+7,payroll software,q083,recommendation,what payroll software do you recommend for a marketing agency,ok,5,5,0,2,3,7
+7,payroll software,q084,recommendation,what payroll software do you recommend for a software startup,ok,4,4,0,3,4,6
+7,payroll software,q085,recommendation,which payroll software is best for an ecommerce store,ok,4,4,0,2,3,7
+7,payroll software,q086,recommendation,what payroll software should a real estate brokerage use,ok,5,5,0,3,5,5
+7,payroll software,q087,recommendation,which payroll service is best for a solo business owner,ok,3,3,0,2,3,7
+7,payroll software,q088,recommendation,what payroll software should I use to pay contractors,ok,5,5,0,4,4,6
+7,payroll software,q089,recommendation,recommend payroll software for a nonprofit,ok,4,4,0,3,5,5
+7,payroll software,q090,recommendation,recommend payroll software for a law firm,ok,5,5,0,2,3,7
+7,payroll software,q091,recommendation,what is the best payroll software for a team that uses slack,ok,3,3,0,2,3,7
+7,payroll software,q092,recommendation,which payroll software works best with quickbooks,ok,3,3,0,2,5,5
+7,payroll software,q093,recommendation,which payroll software should I use if I have employees in multiple states,ok,4,4,0,3,5,5
+7,payroll software,q094,recommendation,what payroll software should I pick for a construction company,ok,4,4,0,3,4,6
+7,payroll software,q095,recommendation,which payroll software is best for managing multiple client companies,ok,5,5,0,3,4,6
+7,payroll software,q096,recommendation,recommend simple payroll software for a small business owner,ok,2,2,0,2,4,6
+7,payroll software,q097,recommendation,what payroll software is best for a growing startup,ok,3,3,0,3,4,6
+7,payroll software,q098,recommendation,which payroll software should a B2B SaaS company use,ok,6,6,0,3,3,7
+7,payroll software,q099,recommendation,what payroll software should I use to replace my accountant running payroll,ok,3,3,0,3,5,5
+7,payroll software,q100,recommendation,which payroll software is best value for money,ok,4,4,0,4,4,6
+8,HR software,q001,category,best HR software,ok,6,6,0,3,2,8
+8,HR software,q002,category,best HR software 2026,ok,9,9,0,4,3,7
+8,HR software,q003,category,best HR software for small teams,ok,5,5,0,4,5,5
+8,HR software,q004,category,best HR software for small business,ok,3,3,0,3,0,10
+8,HR software,q005,category,best HRIS for startups,ok,4,4,0,6,2,8
+8,HR software,q006,category,best enterprise HR software,ok,6,6,0,5,3,7
+8,HR software,q007,category,best free HR software,ok,4,4,0,3,1,9
+8,HR software,q008,category,best HR software for remote teams,ok,5,4,1,5,1,9
+8,HR software,q009,category,best HR software for agencies,ok,0,0,0,5,2,8
+8,HR software,q010,category,best HRIS for mid-size companies,ok,9,8,0,6,5,5
+8,HR software,q011,category,best HR software for international teams,ok,5,5,0,3,4,6
+8,HR software,q012,category,best HR software for restaurants,ok,2,2,0,4,3,7
+8,HR software,q013,category,best HR software for a 10 person company,ok,4,4,0,4,0,10
+8,HR software,q014,category,best HR software for nonprofits,ok,5,5,0,5,3,7
+8,HR software,q015,category,best onboarding software for new hires,ok,4,4,0,2,0,10
+8,HR software,q016,category,best performance management software,ok,4,4,0,1,3,7
+8,HR software,q017,category,best HR software with payroll,ok,4,3,1,2,3,7
+8,HR software,q018,category,best HR software for manufacturing companies,ok,7,7,0,5,3,7
+8,HR software,q019,category,affordable HR software,ok,5,5,0,4,2,8
+8,HR software,q020,category,simple HR software for small teams,ok,3,3,0,2,2,8
+8,HR software,q021,category,HR software with benefits administration,ok,7,7,0,0,2,8
+8,HR software,q022,category,HR software with time and attendance,ok,8,6,0,4,5,5
+8,HR software,q023,category,most popular HR software,ok,11,10,1,6,2,8
+8,HR software,q024,category,easiest HR software to use,ok,3,3,0,4,3,7
+8,HR software,q025,category,best HCM platform for large companies,ok,5,5,0,5,3,7
+8,HR software,q026,category,top rated HR software,ok,9,9,0,3,2,8
+8,HR software,q027,category,best HR software for construction companies,ok,4,4,0,6,2,8
+8,HR software,q028,category,best HR software for healthcare organizations,ok,5,5,0,3,2,8
+8,HR software,q029,category,best HR software for schools,ok,3,3,0,2,1,9
+8,HR software,q030,category,best HR software for law firms,ok,6,6,0,3,2,8
+8,HR software,q031,comparison,bamboohr vs rippling,ok,2,2,0,2,2,8
+8,HR software,q032,comparison,bamboohr vs gusto,ok,2,2,0,2,3,7
+8,HR software,q033,comparison,rippling vs gusto,ok,2,2,0,2,0,10
+8,HR software,q034,comparison,bamboohr vs workday,ok,2,2,0,2,1,9
+8,HR software,q035,comparison,workday vs sap successfactors,ok,2,2,0,2,1,9
+8,HR software,q036,comparison,workday vs oracle hcm,ok,3,2,0,3,1,9
+8,HR software,q037,comparison,paylocity vs paycor,ok,2,2,0,4,2,8
+8,HR software,q038,comparison,paycom vs paylocity,ok,2,2,0,2,2,8
+8,HR software,q039,comparison,rippling vs justworks,ok,2,2,0,3,3,7
+8,HR software,q040,comparison,justworks vs trinet,ok,2,2,0,2,0,10
+8,HR software,q041,comparison,hibob vs bamboohr,ok,2,2,0,2,1,9
+8,HR software,q042,comparison,personio vs hibob,ok,2,2,0,2,3,7
+8,HR software,q043,comparison,adp workforce now vs paychex flex,ok,2,2,0,2,2,8
+8,HR software,q044,comparison,ukg vs workday,ok,2,2,0,2,2,8
+8,HR software,q045,comparison,ukg vs adp,ok,2,2,0,2,0,10
+8,HR software,q046,comparison,namely vs bamboohr,ok,2,2,0,4,2,8
+8,HR software,q047,comparison,deel vs rippling,ok,2,2,0,3,2,8
+8,HR software,q048,comparison,zoho people vs bamboohr,ok,3,2,0,2,1,9
+8,HR software,q049,comparison,freshteam vs bamboohr,ok,2,2,0,2,0,10
+8,HR software,q050,comparison,lattice vs culture amp,ok,5,2,0,2,2,8
+8,HR software,q051,comparison,bamboohr vs rippling vs gusto,ok,3,3,0,6,0,10
+8,HR software,q052,comparison,workday vs sap successfactors vs oracle hcm,ok,3,3,0,3,0,10
+8,HR software,q053,comparison,paylocity vs paycor vs paycom,ok,4,0,3,3,0,10
+8,HR software,q054,comparison,rippling vs justworks vs trinet,ok,3,3,0,3,4,6
+8,HR software,q055,comparison,adp vs paychex,ok,2,2,0,2,3,7
+8,HR software,q056,comparison,bamboohr vs paylocity,ok,2,2,0,3,1,9
+8,HR software,q057,comparison,bamboohr or rippling for a small business,ok,2,0,0,0,4,6
+8,HR software,q058,comparison,rippling or gusto for a startup,ok,3,2,0,1,2,8
+8,HR software,q059,comparison,workday or ukg for a large company,ok,2,2,0,3,3,7
+8,HR software,q060,comparison,justworks or rippling for a 20 person company,ok,2,2,0,2,0,10
+8,HR software,q061,alternative,bamboohr alternatives,ok,10,9,0,4,2,8
+8,HR software,q062,alternative,rippling alternatives,ok,8,7,0,1,0,10
+8,HR software,q063,alternative,workday alternatives,ok,10,9,0,3,2,8
+8,HR software,q064,alternative,gusto alternatives for hr,ok,6,5,0,7,1,9
+8,HR software,q065,alternative,paylocity alternatives,ok,9,8,0,0,0,10
+8,HR software,q066,alternative,adp workforce now alternatives,ok,10,9,0,3,3,7
+8,HR software,q067,alternative,justworks alternatives,ok,8,6,1,2,3,7
+8,HR software,q068,alternative,hibob alternatives,ok,13,11,1,2,1,9
+8,HR software,q069,alternative,zenefits alternatives,ok,8,7,0,2,1,9
+8,HR software,q070,alternative,ukg alternatives,ok,11,10,0,4,0,10
+8,HR software,q071,alternative,cheaper alternative to bamboohr,ok,5,4,0,3,2,8
+8,HR software,q072,alternative,cheaper alternative to rippling,ok,6,5,0,2,0,10
+8,HR software,q073,alternative,free alternative to bamboohr,ok,5,4,0,1,0,10
+8,HR software,q074,alternative,free alternative to gusto,ok,2,0,1,3,3,7
+8,HR software,q075,alternative,open source alternative to bamboohr,ok,4,3,0,3,3,7
+8,HR software,q076,alternative,open source hr software alternative to workday,ok,4,2,1,4,1,9
+8,HR software,q077,alternative,simpler alternative to workday,ok,5,4,0,6,0,10
+8,HR software,q078,alternative,simpler alternative to rippling,ok,5,4,0,4,2,8
+8,HR software,q079,alternative,bamboohr alternative for small business,ok,6,5,0,7,0,10
+8,HR software,q080,alternative,workday alternative for mid-size companies,ok,9,8,0,6,1,9
+8,HR software,q081,recommendation,which HR software should I use for a 5 person company,ok,3,2,1,3,1,9
+8,HR software,q082,recommendation,which HR software should I use for a 50 person company,ok,7,5,0,3,3,7
+8,HR software,q083,recommendation,what HR software do you recommend for a marketing agency,ok,3,3,0,3,1,9
+8,HR software,q084,recommendation,what HRIS do you recommend for a software startup,ok,4,4,0,5,1,9
+8,HR software,q085,recommendation,which HR software is best for an ecommerce company,ok,4,4,0,5,3,7
+8,HR software,q086,recommendation,what HR software should a real estate brokerage use,ok,0,0,0,0,2,8
+8,HR software,q087,recommendation,which HR software is best for a company with hourly workers,ok,2,2,0,3,3,7
+8,HR software,q088,recommendation,what HR software should I use for a fully remote company,ok,5,5,0,3,1,9
+8,HR software,q089,recommendation,recommend HR software for a nonprofit,ok,5,5,0,1,3,7
+8,HR software,q090,recommendation,recommend HR software for a law firm,ok,6,6,0,7,1,9
+8,HR software,q091,recommendation,what is the best HR software for a team that uses slack,ok,7,5,0,2,0,10
+8,HR software,q092,recommendation,which HR software works best with google workspace,ok,5,5,0,8,1,9
+8,HR software,q093,recommendation,which HR software should I use if I have employees in multiple countries,ok,0,0,0,0,2,8
+8,HR software,q094,recommendation,what HR software should I pick for a construction company,ok,3,3,0,4,2,8
+8,HR software,q095,recommendation,which HR software is best for a company growing from 50 to 200 employees,ok,5,5,0,7,1,9
+8,HR software,q096,recommendation,recommend simple HR software for a small business owner,ok,4,3,1,5,3,7
+8,HR software,q097,recommendation,what HR software is best for a growing startup,ok,3,3,0,3,4,6
+8,HR software,q098,recommendation,which HRIS should a B2B SaaS company use,ok,6,5,0,2,2,8
+8,HR software,q099,recommendation,what HR software should I use to replace spreadsheets,ok,8,8,0,5,1,9
+8,HR software,q100,recommendation,which HR software is best value for money,ok,4,4,0,4,2,8
+9,applicant tracking software,q001,category,best applicant tracking system,ok,5,5,0,3,0,10
+9,applicant tracking software,q002,category,best applicant tracking system 2026,ok,8,8,0,5,4,6
+9,applicant tracking software,q003,category,best ATS for small business,ok,5,5,0,2,2,8
+9,applicant tracking software,q004,category,best applicant tracking system for startups,ok,7,6,0,3,0,10
+9,applicant tracking software,q005,category,best enterprise applicant tracking system,ok,8,6,1,3,1,9
+9,applicant tracking software,q006,category,best free applicant tracking system,ok,4,4,0,4,2,8
+9,applicant tracking software,q007,category,best applicant tracking system for recruiting agencies,ok,9,6,0,1,2,8
+9,applicant tracking software,q008,category,affordable applicant tracking system,ok,4,4,0,4,0,10
+9,applicant tracking software,q009,category,easiest applicant tracking system to use,ok,5,5,0,5,4,6
+9,applicant tracking software,q010,category,most popular applicant tracking system,ok,6,0,6,4,2,8
+9,applicant tracking software,q011,category,top rated applicant tracking system,ok,5,5,0,5,1,9
+9,applicant tracking software,q012,category,simple ATS for small teams,ok,3,3,0,4,1,9
+9,applicant tracking software,q013,category,best ATS for mid-size companies,ok,8,6,0,1,1,9
+9,applicant tracking software,q014,category,best applicant tracking system for high volume hiring,ok,7,5,0,2,2,8
+9,applicant tracking software,q015,category,best ATS for hourly workers,ok,4,3,0,2,2,8
+9,applicant tracking software,q016,category,best applicant tracking system for tech hiring,ok,4,4,0,4,1,9
+9,applicant tracking software,q017,category,best applicant tracking system for healthcare,ok,6,5,0,5,1,9
+9,applicant tracking software,q018,category,best ATS for restaurants,ok,1,1,0,5,4,6
+9,applicant tracking software,q019,category,best applicant tracking system for nonprofits,ok,5,5,0,5,0,10
+9,applicant tracking software,q020,category,best ATS with AI screening,ok,5,5,0,5,2,8
+9,applicant tracking software,q021,category,best ATS for remote hiring,ok,5,5,0,1,2,8
+9,applicant tracking software,q022,category,best applicant tracking system with interview scheduling,ok,7,5,0,6,0,10
+9,applicant tracking software,q023,category,best ATS for staffing agencies,ok,4,4,0,5,1,9
+9,applicant tracking software,q024,category,best recruiting CRM,ok,7,5,0,4,2,8
+9,applicant tracking software,q025,category,best applicant tracking system for universities,ok,4,4,0,4,1,9
+9,applicant tracking software,q026,category,best ATS for a 10 person company,ok,8,5,0,5,2,8
+9,applicant tracking software,q027,category,best applicant tracking system for government,ok,3,3,0,3,1,9
+9,applicant tracking software,q028,category,best ATS with job board posting,ok,5,5,0,0,1,9
+9,applicant tracking software,q029,category,best applicant tracking system for construction companies,ok,3,3,0,3,0,10
+9,applicant tracking software,q030,category,best ATS for diversity hiring,ok,4,4,0,3,2,8
+9,applicant tracking software,q031,comparison,greenhouse vs lever,ok,3,2,0,4,1,9
+9,applicant tracking software,q032,comparison,greenhouse vs workable,ok,2,2,0,5,1,9
+9,applicant tracking software,q033,comparison,lever vs workable,ok,2,2,0,3,1,9
+9,applicant tracking software,q034,comparison,greenhouse vs ashby,ok,2,2,0,2,2,8
+9,applicant tracking software,q035,comparison,lever vs ashby,ok,2,2,0,2,2,8
+9,applicant tracking software,q036,comparison,workable vs ashby,ok,4,2,0,2,0,10
+9,applicant tracking software,q037,comparison,greenhouse vs icims,ok,3,2,0,4,1,9
+9,applicant tracking software,q038,comparison,workable vs bamboohr,ok,2,2,0,2,2,8
+9,applicant tracking software,q039,comparison,greenhouse vs smartrecruiters,ok,4,2,0,2,0,10
+9,applicant tracking software,q040,comparison,jazzhr vs breezy hr,ok,5,2,0,2,0,10
+9,applicant tracking software,q041,comparison,teamtailor vs workable,ok,2,2,0,2,4,6
+9,applicant tracking software,q042,comparison,icims vs workday recruiting,ok,2,2,0,2,0,10
+9,applicant tracking software,q043,comparison,bullhorn vs recruit crm,ok,2,2,0,4,3,7
+9,applicant tracking software,q044,comparison,lever vs teamtailor,ok,2,2,0,3,1,9
+9,applicant tracking software,q045,comparison,manatal vs zoho recruit,ok,2,2,0,2,1,9
+9,applicant tracking software,q046,comparison,greenhouse vs lever vs ashby,ok,4,3,0,3,0,10
+9,applicant tracking software,q047,comparison,greenhouse vs lever vs workable,ok,3,3,0,3,0,10
+9,applicant tracking software,q048,comparison,jazzhr vs breezy hr vs workable,ok,3,3,0,5,2,8
+9,applicant tracking software,q049,comparison,icims vs smartrecruiters vs workday recruiting,ok,4,3,0,3,2,8
+9,applicant tracking software,q050,comparison,bamboohr vs jazzhr,ok,2,2,0,2,1,9
+9,applicant tracking software,q051,comparison,rippling ats vs greenhouse,ok,2,2,0,3,3,7
+9,applicant tracking software,q052,comparison,pinpoint vs greenhouse,ok,2,2,0,3,1,9
+9,applicant tracking software,q053,comparison,recruitee vs workable,ok,5,2,0,2,1,9
+9,applicant tracking software,q054,comparison,jobvite vs icims,ok,2,0,2,2,0,10
+9,applicant tracking software,q055,comparison,greenhouse or lever for a startup,ok,2,2,0,2,1,9
+9,applicant tracking software,q056,comparison,workable or jazzhr for a small business,ok,2,2,0,4,0,10
+9,applicant tracking software,q057,comparison,ashby or greenhouse for a series b startup,ok,4,2,0,3,1,9
+9,applicant tracking software,q058,comparison,bullhorn or loxo for a recruiting agency,ok,2,2,0,2,0,10
+9,applicant tracking software,q059,comparison,greenhouse or icims for a large company,ok,4,2,0,5,1,9
+9,applicant tracking software,q060,comparison,breezy hr or workable for a 20 person company,ok,2,2,0,2,3,7
+9,applicant tracking software,q061,alternative,greenhouse alternatives,ok,9,8,0,3,0,10
+9,applicant tracking software,q062,alternative,lever alternatives,ok,11,10,0,4,0,10
+9,applicant tracking software,q063,alternative,workable alternatives,ok,0,0,0,1,2,8
+9,applicant tracking software,q064,alternative,ashby alternatives,ok,9,8,0,2,0,10
+9,applicant tracking software,q065,alternative,icims alternatives,ok,11,10,0,2,3,7
+9,applicant tracking software,q066,alternative,jazzhr alternatives,ok,11,10,0,2,2,8
+9,applicant tracking software,q067,alternative,bullhorn alternatives,ok,8,6,0,5,1,9
+9,applicant tracking software,q068,alternative,smartrecruiters alternatives,ok,11,10,0,1,2,8
+9,applicant tracking software,q069,alternative,cheaper alternative to greenhouse,ok,5,4,0,2,0,10
+9,applicant tracking software,q070,alternative,cheaper alternative to lever,ok,6,0,5,0,0,10
+9,applicant tracking software,q071,alternative,free alternative to workable,ok,5,4,0,3,1,9
+9,applicant tracking software,q072,alternative,free alternative to greenhouse,ok,2,1,0,4,0,10
+9,applicant tracking software,q073,alternative,open source alternative to greenhouse,ok,2,1,0,4,0,10
+9,applicant tracking software,q074,alternative,open source applicant tracking system alternative to lever,ok,5,1,0,4,2,8
+9,applicant tracking software,q075,alternative,simpler alternative to icims,ok,7,6,0,2,0,10
+9,applicant tracking software,q076,alternative,simpler alternative to greenhouse,ok,0,0,0,4,0,10
+9,applicant tracking software,q077,alternative,greenhouse alternative for small business,ok,6,5,0,2,0,10
+9,applicant tracking software,q078,alternative,lever alternative for startups,ok,8,7,0,3,0,10
+9,applicant tracking software,q079,alternative,bullhorn alternative for small agencies,ok,5,4,0,3,2,8
+9,applicant tracking software,q080,alternative,icims alternative for mid-size companies,ok,7,6,0,3,2,8
+9,applicant tracking software,q081,recommendation,which ATS should I use for a 5 person company,ok,5,4,0,5,2,8
+9,applicant tracking software,q082,recommendation,which ATS should I use for a 50 person company,ok,7,5,0,1,2,8
+9,applicant tracking software,q083,recommendation,what applicant tracking system do you recommend for a startup,ok,5,4,0,3,0,10
+9,applicant tracking software,q084,recommendation,which ATS is best for a recruiting agency,ok,6,4,0,5,1,9
+9,applicant tracking software,q085,recommendation,recommend an ATS for a small business owner,ok,5,5,0,6,2,8
+9,applicant tracking software,q086,recommendation,what applicant tracking system should a growing startup use,ok,6,4,0,3,2,8
+9,applicant tracking software,q087,recommendation,which ATS is best value for money,ok,5,5,0,5,1,9
+9,applicant tracking software,q088,recommendation,which ATS works best with google workspace,ok,6,6,0,3,1,9
+9,applicant tracking software,q089,recommendation,what ATS works best with slack,ok,5,5,0,2,1,9
+9,applicant tracking software,q090,recommendation,what applicant tracking system should I pick for enterprise hiring,ok,7,7,0,3,1,9
+9,applicant tracking software,q091,recommendation,which ATS should I use to hire engineers,ok,3,3,0,2,1,9
+9,applicant tracking software,q092,recommendation,what ATS should a restaurant chain use,ok,3,3,0,5,0,10
+9,applicant tracking software,q093,recommendation,which applicant tracking system is best for hiring hourly workers at scale,ok,5,5,0,5,5,5
+9,applicant tracking software,q094,recommendation,recommend an applicant tracking system for a nonprofit,ok,2,2,0,3,2,8
+9,applicant tracking software,q095,recommendation,what ATS should a healthcare staffing agency use,ok,3,3,0,2,2,8
+9,applicant tracking software,q096,recommendation,which ATS should I use to replace spreadsheets,ok,5,5,0,4,1,9
+9,applicant tracking software,q097,recommendation,what applicant tracking system is best for a company hiring in multiple countries,ok,9,7,0,3,3,7
+9,applicant tracking software,q098,recommendation,which ATS should I use if I already use bamboohr,ok,5,5,0,2,4,6
+9,applicant tracking software,q099,recommendation,what ATS do you recommend for a company growing from 50 to 200 employees,ok,4,4,0,3,0,10
+9,applicant tracking software,q100,recommendation,which ATS is easiest for hiring managers to use,ok,5,5,0,1,2,8
+10,password managers,q001,category,best password manager,ok,4,4,0,3,1,9
+10,password managers,q002,category,best password manager 2026,ok,5,5,0,6,0,10
+10,password managers,q003,category,best password manager for business,ok,3,3,0,3,1,9
+10,password managers,q004,category,best password manager for families,ok,3,3,0,4,2,8
+10,password managers,q005,category,best free password manager,ok,4,4,0,2,2,8
+10,password managers,q006,category,best open source password manager,ok,2,2,0,2,1,9
+10,password managers,q007,category,best password manager for iphone,ok,4,4,0,4,1,9
+10,password managers,q008,category,best password manager for android,ok,3,3,0,2,1,9
+10,password managers,q009,category,best password manager for mac,ok,3,3,0,3,2,8
+10,password managers,q010,category,best password manager for windows,ok,4,4,0,5,0,10
+10,password managers,q011,category,best password manager for small business,ok,2,2,0,2,2,8
+10,password managers,q012,category,best enterprise password manager,ok,4,4,0,3,2,8
+10,password managers,q013,category,best password manager for teams,ok,4,4,0,3,2,8
+10,password managers,q014,category,most secure password manager,ok,4,4,0,2,2,8
+10,password managers,q015,category,cheapest password manager,ok,4,4,0,4,2,8
+10,password managers,q016,category,easiest password manager to use,ok,3,3,0,3,1,9
+10,password managers,q017,category,best password manager with passkeys,ok,3,3,0,1,2,8
+10,password managers,q018,category,best password manager for developers,ok,3,3,0,3,1,9
+10,password managers,q019,category,best self-hosted password manager,ok,2,2,0,2,1,9
+10,password managers,q020,category,best password manager for MSPs,ok,3,3,0,5,2,8
+10,password managers,q021,category,best password manager for healthcare,ok,5,5,0,5,2,8
+10,password managers,q022,category,top rated password manager,ok,6,6,0,6,0,10
+10,password managers,q023,category,most popular password manager,ok,2,0,2,2,1,9
+10,password managers,q024,category,best password manager for chrome,ok,4,4,0,3,3,7
+10,password managers,q025,category,best password manager for linux,ok,3,3,0,2,1,9
+10,password managers,q026,category,best password manager for seniors,ok,3,2,1,3,1,9
+10,password managers,q027,category,best password manager for startups,ok,4,4,0,3,0,10
+10,password managers,q028,category,best password manager with SSO,ok,4,4,0,4,2,8
+10,password managers,q029,category,best password manager for sharing passwords,ok,3,3,0,3,1,9
+10,password managers,q030,category,best password manager for small teams,ok,3,3,0,2,1,9
+10,password managers,q031,comparison,1password vs bitwarden,ok,2,2,0,2,1,9
+10,password managers,q032,comparison,1password vs lastpass,ok,2,2,0,2,1,9
+10,password managers,q033,comparison,bitwarden vs lastpass,ok,2,2,0,2,2,8
+10,password managers,q034,comparison,dashlane vs 1password,ok,2,2,0,2,2,8
+10,password managers,q035,comparison,keeper vs 1password,ok,2,2,0,2,2,8
+10,password managers,q036,comparison,nordpass vs bitwarden,ok,2,2,0,2,1,9
+10,password managers,q037,comparison,proton pass vs bitwarden,ok,2,2,0,2,1,9
+10,password managers,q038,comparison,bitwarden vs keepassxc,ok,3,2,0,2,1,9
+10,password managers,q039,comparison,lastpass vs dashlane,ok,2,2,0,2,1,9
+10,password managers,q040,comparison,keeper vs bitwarden,ok,2,2,0,3,2,8
+10,password managers,q041,comparison,roboform vs lastpass,ok,2,1,1,3,0,10
+10,password managers,q042,comparison,apple passwords vs 1password,ok,2,2,0,2,2,8
+10,password managers,q043,comparison,google password manager vs bitwarden,ok,2,2,0,2,3,7
+10,password managers,q044,comparison,1password vs bitwarden vs dashlane,ok,3,3,0,3,2,8
+10,password managers,q045,comparison,keeper vs lastpass vs 1password,ok,3,2,1,3,2,8
+10,password managers,q046,comparison,nordpass vs 1password,ok,2,2,0,2,2,8
+10,password managers,q047,comparison,zoho vault vs bitwarden,ok,2,2,0,2,1,9
+10,password managers,q048,comparison,passbolt vs bitwarden,ok,2,2,0,2,2,8
+10,password managers,q049,comparison,dashlane vs keeper,ok,2,2,0,2,0,10
+10,password managers,q050,comparison,enpass vs bitwarden,ok,2,2,0,2,1,9
+10,password managers,q051,comparison,1password or bitwarden for a small business,ok,2,2,0,2,0,10
+10,password managers,q052,comparison,keeper or 1password for a company,ok,2,2,0,2,3,7
+10,password managers,q053,comparison,bitwarden or proton pass for privacy,ok,2,2,0,2,1,9
+10,password managers,q054,comparison,1password or dashlane for a family,ok,2,2,0,2,4,6
+10,password managers,q055,comparison,lastpass or bitwarden in 2026,ok,2,2,0,3,1,9
+10,password managers,q056,comparison,keepass or bitwarden,ok,2,2,0,2,1,9
+10,password managers,q057,comparison,1password vs keeper for business,ok,2,2,0,2,0,10
+10,password managers,q058,comparison,bitwarden vs 1password for teams,ok,2,2,0,2,2,8
+10,password managers,q059,comparison,nordpass or bitwarden for personal use,ok,2,2,0,2,1,9
+10,password managers,q060,comparison,apple passwords or bitwarden for an iphone user,ok,2,2,0,2,0,10
+10,password managers,q061,alternative,lastpass alternatives,ok,7,6,0,3,2,8
+10,password managers,q062,alternative,1password alternatives,ok,7,6,0,3,0,10
+10,password managers,q063,alternative,bitwarden alternatives,ok,8,6,0,5,0,10
+10,password managers,q064,alternative,dashlane alternatives,ok,7,6,0,3,4,6
+10,password managers,q065,alternative,keeper alternatives,ok,7,1,5,5,1,9
+10,password managers,q066,alternative,nordpass alternatives,ok,7,6,0,4,0,10
+10,password managers,q067,alternative,cheaper alternative to 1password,ok,4,3,0,3,0,10
+10,password managers,q068,alternative,free alternative to lastpass,ok,6,5,0,5,2,8
+10,password managers,q069,alternative,free alternative to 1password,ok,4,3,0,3,1,9
+10,password managers,q070,alternative,open source alternative to 1password,ok,5,4,0,5,1,9
+10,password managers,q071,alternative,open source alternative to lastpass,ok,3,2,0,3,2,8
+10,password managers,q072,alternative,self-hosted alternative to bitwarden,ok,5,4,0,6,2,8
+10,password managers,q073,alternative,simpler alternative to keepass,ok,5,4,0,1,0,10
+10,password managers,q074,alternative,lastpass alternative for business,ok,4,3,0,3,2,8
+10,password managers,q075,alternative,1password alternative for teams,ok,8,7,0,3,0,10
+10,password managers,q076,alternative,keeper alternative for small business,ok,1,0,0,4,0,10
+10,password managers,q077,alternative,dashlane alternative for families,ok,4,3,0,3,1,9
+10,password managers,q078,alternative,roboform alternatives,ok,8,7,0,5,1,9
+10,password managers,q079,alternative,proton pass alternatives,ok,6,4,1,3,1,9
+10,password managers,q080,alternative,google password manager alternatives,ok,7,5,1,4,0,10
+10,password managers,q081,recommendation,which password manager should I use,ok,3,3,0,3,2,8
+10,password managers,q082,recommendation,which password manager should I use for my family,ok,3,3,0,3,2,8
+10,password managers,q083,recommendation,what password manager do you recommend for a small business,ok,2,2,0,2,1,9
+10,password managers,q084,recommendation,which password manager is best for a 50 person company,ok,4,4,0,4,2,8
+10,password managers,q085,recommendation,what password manager should a startup use,ok,3,3,0,3,2,8
+10,password managers,q086,recommendation,which password manager is best value for money,ok,3,3,0,3,2,8
+10,password managers,q087,recommendation,what password manager should I use on iphone and windows,ok,5,3,0,4,0,10
+10,password managers,q088,recommendation,which password manager should I switch to from lastpass,ok,3,2,0,4,1,9
+10,password managers,q089,recommendation,recommend a password manager for a nonprofit,ok,3,3,0,3,1,9
+10,password managers,q090,recommendation,what password manager should an MSP use,ok,3,3,0,5,3,7
+10,password managers,q091,recommendation,which password manager is most secure,ok,3,3,0,3,1,9
+10,password managers,q092,recommendation,what password manager should a developer use,ok,2,2,0,2,0,10
+10,password managers,q093,recommendation,recommend a password manager for an elderly parent,ok,4,4,0,2,1,9
+10,password managers,q094,recommendation,which password manager works best with google workspace,ok,4,2,0,2,1,9
+10,password managers,q095,recommendation,which password manager works best with microsoft 365,ok,5,5,0,5,3,7
+10,password managers,q096,recommendation,what password manager should a law firm use,ok,5,5,0,2,3,7
+10,password managers,q097,recommendation,which password manager should I use for passkeys,ok,5,3,2,2,0,10
+10,password managers,q098,recommendation,recommend a free password manager,ok,3,2,1,3,2,8
+10,password managers,q099,recommendation,which password manager should a healthcare practice use,ok,0,0,0,0,4,6
+10,password managers,q100,recommendation,what password manager should I use if I care about privacy,ok,3,3,0,3,1,9
+11,endpoint security software,q001,category,best endpoint security software,ok,7,7,0,1,3,7
+11,endpoint security software,q002,category,best endpoint security software 2026,ok,12,9,3,3,2,8
+11,endpoint security software,q003,category,best endpoint protection platform for small business,ok,3,3,0,2,4,6
+11,endpoint security software,q004,category,best enterprise endpoint security software,ok,6,6,0,3,3,7
+11,endpoint security software,q005,category,best free endpoint security software,ok,5,2,2,3,2,8
+11,endpoint security software,q006,category,best open source endpoint security,ok,3,3,0,3,1,9
+11,endpoint security software,q007,category,cheapest endpoint protection for business,ok,4,2,2,1,3,7
+11,endpoint security software,q008,category,easiest endpoint security software to use,ok,3,3,0,3,2,8
+11,endpoint security software,q009,category,most popular endpoint security software,ok,10,0,10,1,2,8
+11,endpoint security software,q010,category,top rated endpoint security software,ok,7,7,0,1,0,10
+11,endpoint security software,q011,category,best EDR for small business,ok,4,4,0,2,2,8
+11,endpoint security software,q012,category,best XDR platform,ok,5,5,0,7,3,7
+11,endpoint security software,q013,category,best managed detection and response for small business,ok,4,4,0,2,3,7
+11,endpoint security software,q014,category,best antivirus for small business,ok,5,5,0,3,3,7
+11,endpoint security software,q015,category,best endpoint security for MSPs,ok,9,7,0,0,3,7
+11,endpoint security software,q016,category,best endpoint security software for healthcare organizations,ok,4,4,0,5,2,8
+11,endpoint security software,q017,category,best endpoint security software for schools,ok,7,5,2,2,4,6
+11,endpoint security software,q018,category,best endpoint security for law firms,ok,5,5,0,5,0,10
+11,endpoint security software,q019,category,best endpoint security for nonprofits,ok,4,3,1,2,2,8
+11,endpoint security software,q020,category,best endpoint security for manufacturing companies,ok,5,5,0,4,5,5
+11,endpoint security software,q021,category,best endpoint security software for startups,ok,5,5,0,2,2,8
+11,endpoint security software,q022,category,best endpoint security for accounting firms,ok,6,6,0,4,0,10
+11,endpoint security software,q023,category,best endpoint security for retail and ecommerce businesses,ok,5,5,0,3,4,6
+11,endpoint security software,q024,category,best endpoint security for defense contractors that need CMMC,ok,4,4,0,3,0,10
+11,endpoint security software,q025,category,best endpoint security for mac,ok,6,6,0,3,1,9
+11,endpoint security software,q026,category,best endpoint security software for remote workforces,ok,6,6,0,3,2,8
+11,endpoint security software,q027,category,simple endpoint protection platform for small teams,ok,4,4,0,3,4,6
+11,endpoint security software,q028,category,best endpoint security for a 10 person office,ok,7,7,0,5,3,7
+11,endpoint security software,q029,category,best ransomware protection for business,ok,4,4,0,4,2,8
+11,endpoint security software,q030,category,best endpoint security for financial services firms,ok,4,4,0,5,5,5
+11,endpoint security software,q031,comparison,crowdstrike vs sentinelone,ok,2,2,0,2,3,7
+11,endpoint security software,q032,comparison,crowdstrike vs microsoft defender,ok,2,2,0,2,0,10
+11,endpoint security software,q033,comparison,sentinelone vs microsoft defender,ok,2,2,0,5,2,8
+11,endpoint security software,q034,comparison,crowdstrike vs sophos,ok,2,2,0,2,3,7
+11,endpoint security software,q035,comparison,sophos vs bitdefender,ok,2,2,0,9,3,7
+11,endpoint security software,q036,comparison,bitdefender gravityzone vs eset,ok,2,2,0,3,0,10
+11,endpoint security software,q037,comparison,crowdstrike vs cortex xdr,ok,2,2,0,2,3,7
+11,endpoint security software,q038,comparison,huntress vs sentinelone,ok,3,2,0,2,2,8
+11,endpoint security software,q039,comparison,malwarebytes vs bitdefender for business,ok,2,2,0,1,3,7
+11,endpoint security software,q040,comparison,crowdstrike vs trend micro,ok,2,2,0,2,0,10
+11,endpoint security software,q041,comparison,eset vs sophos,ok,2,2,0,2,3,7
+11,endpoint security software,q042,comparison,webroot vs bitdefender,ok,2,2,0,1,0,10
+11,endpoint security software,q043,comparison,microsoft defender for business vs sophos,ok,2,2,0,2,3,7
+11,endpoint security software,q044,comparison,threatlocker vs crowdstrike,ok,2,2,0,2,0,10
+11,endpoint security software,q045,comparison,carbon black vs crowdstrike,ok,3,2,0,2,2,8
+11,endpoint security software,q046,comparison,sentinelone vs cybereason,ok,2,2,0,2,2,8
+11,endpoint security software,q047,comparison,crowdstrike vs sentinelone vs microsoft defender,ok,3,3,0,4,1,9
+11,endpoint security software,q048,comparison,sentinelone vs microsoft defender vs sophos,ok,3,3,0,3,3,7
+11,endpoint security software,q049,comparison,bitdefender vs eset vs malwarebytes,ok,3,3,0,2,1,9
+11,endpoint security software,q050,comparison,crowdstrike vs sentinelone vs huntress,ok,4,3,0,3,2,8
+11,endpoint security software,q051,comparison,sophos vs bitdefender vs trend micro,ok,3,3,0,2,0,10
+11,endpoint security software,q052,comparison,crowdstrike or sentinelone for a small business,ok,2,2,0,2,2,8
+11,endpoint security software,q053,comparison,crowdstrike or microsoft defender for small businesses,ok,2,2,0,2,2,8
+11,endpoint security software,q054,comparison,sentinelone or sophos for a startup,ok,2,2,0,3,4,6
+11,endpoint security software,q055,comparison,huntress or blackpoint for an MSP,ok,5,2,0,2,3,7
+11,endpoint security software,q056,comparison,bitdefender or eset for a 20 person office,ok,3,2,0,2,1,9
+11,endpoint security software,q057,comparison,microsoft defender or sentinelone for a company already on microsoft 365,ok,2,2,0,2,2,8
+11,endpoint security software,q058,comparison,sophos or crowdstrike for a school district,ok,3,2,0,4,2,8
+11,endpoint security software,q059,comparison,malwarebytes or webroot for a small business,ok,3,2,0,4,0,10
+11,endpoint security software,q060,comparison,sentinelone or crowdstrike for a hospital,ok,2,2,0,2,3,7
+11,endpoint security software,q061,alternative,crowdstrike alternatives,ok,8,7,0,2,3,7
+11,endpoint security software,q062,alternative,sentinelone alternatives,ok,9,8,0,2,4,6
+11,endpoint security software,q063,alternative,microsoft defender alternatives,ok,8,7,0,2,0,10
+11,endpoint security software,q064,alternative,sophos alternatives,ok,8,7,0,1,2,8
+11,endpoint security software,q065,alternative,bitdefender alternatives,ok,8,7,0,2,0,10
+11,endpoint security software,q066,alternative,cheaper alternative to crowdstrike,ok,6,5,0,6,4,6
+11,endpoint security software,q067,alternative,cheaper alternative to sentinelone,ok,5,1,3,4,5,5
+11,endpoint security software,q068,alternative,free alternative to crowdstrike,ok,6,5,0,3,2,8
+11,endpoint security software,q069,alternative,open source alternative to crowdstrike,ok,3,2,0,2,3,7
+11,endpoint security software,q070,alternative,crowdstrike alternative for small business,ok,6,5,0,3,4,6
+11,endpoint security software,q071,alternative,simpler alternative to sentinelone,ok,4,3,0,3,4,6
+11,endpoint security software,q072,alternative,webroot alternatives,ok,10,8,1,3,3,7
+11,endpoint security software,q073,alternative,malwarebytes alternatives,ok,8,6,1,1,1,9
+11,endpoint security software,q074,alternative,cheaper alternative to sophos,ok,3,2,0,3,1,9
+11,endpoint security software,q075,alternative,open source alternative to sentinelone,ok,4,3,0,2,5,5
+11,endpoint security software,q076,alternative,simpler alternative to crowdstrike,ok,6,5,0,4,4,6
+11,endpoint security software,q077,alternative,microsoft defender alternative for mac,ok,5,4,0,1,1,9
+11,endpoint security software,q078,alternative,sophos alternative for MSPs,ok,1,0,0,0,2,8
+11,endpoint security software,q079,alternative,trend micro alternatives,ok,8,1,6,1,0,10
+11,endpoint security software,q080,alternative,huntress alternatives,ok,14,8,4,5,1,9
+11,endpoint security software,q081,recommendation,which endpoint protection platform should I use for a 5 person team,ok,3,3,0,2,2,8
+11,endpoint security software,q082,recommendation,which endpoint protection platform should I use for a 50 person company,ok,0,0,0,0,3,7
+11,endpoint security software,q083,recommendation,what endpoint security software do you recommend for small businesses,ok,4,4,0,2,2,8
+11,endpoint security software,q084,recommendation,which endpoint protection platform is best for healthcare organizations,ok,5,5,0,2,4,6
+11,endpoint security software,q085,recommendation,recommend an endpoint protection platform for a small business owner,ok,4,4,0,2,4,6
+11,endpoint security software,q086,recommendation,what endpoint security software should I use for schools,ok,5,5,0,3,2,8
+11,endpoint security software,q087,recommendation,which endpoint protection platform is best value for money,ok,4,2,0,2,3,7
+11,endpoint security software,q088,recommendation,what endpoint security software should a growing startup use,ok,3,3,0,2,2,8
+11,endpoint security software,q089,recommendation,which endpoint protection platform works best with google workspace,ok,5,5,0,3,1,9
+11,endpoint security software,q090,recommendation,which endpoint security works best with microsoft 365,ok,5,5,0,3,4,6
+11,endpoint security software,q091,recommendation,what endpoint security should an MSP standardize on,ok,5,5,0,4,3,7
+11,endpoint security software,q092,recommendation,recommend endpoint security for a law firm,ok,3,3,0,3,2,8
+11,endpoint security software,q093,recommendation,what endpoint security do you recommend for a 200 person company,ok,5,5,0,6,0,10
+11,endpoint security software,q094,recommendation,which endpoint security should I use to meet cyber insurance requirements,ok,5,5,0,3,1,9
+11,endpoint security software,q095,recommendation,recommend an EDR for a company with no in-house security staff,ok,2,2,0,2,5,5
+11,endpoint security software,q096,recommendation,which endpoint security should a dental practice use,ok,4,4,0,1,0,10
+11,endpoint security software,q097,recommendation,what endpoint security should a nonprofit use on a tight budget,ok,1,1,0,2,0,10
+11,endpoint security software,q098,recommendation,which endpoint security is best for a company with mostly mac laptops,ok,4,4,0,5,4,6
+11,endpoint security software,q099,recommendation,what endpoint security should a manufacturing company use for its plant floor pcs,ok,4,2,0,2,1,9
+11,endpoint security software,q100,recommendation,what endpoint security software should I pick for remote workforces,ok,3,3,0,1,3,7
+12,business intelligence software,q001,category,best business intelligence software,ok,7,7,0,3,2,8
+12,business intelligence software,q002,category,best business intelligence software 2026,ok,8,8,0,1,1,9
+12,business intelligence software,q003,category,best BI tool for small business,ok,5,5,0,1,2,8
+12,business intelligence software,q004,category,best enterprise business intelligence software,ok,8,8,0,3,1,9
+12,business intelligence software,q005,category,best free business intelligence software,ok,5,5,0,3,2,8
+12,business intelligence software,q006,category,best open source BI tool,ok,7,5,0,4,1,9
+12,business intelligence software,q007,category,cheapest business intelligence software,ok,4,3,1,3,1,9
+12,business intelligence software,q008,category,easiest business intelligence software to use,ok,3,3,0,5,0,10
+12,business intelligence software,q009,category,most popular business intelligence software,ok,9,5,4,2,1,9
+12,business intelligence software,q010,category,top rated business intelligence software,ok,8,8,0,2,3,7
+12,business intelligence software,q011,category,best dashboard software,ok,3,3,0,3,4,6
+12,business intelligence software,q012,category,best data visualization tool,ok,4,4,0,6,2,8
+12,business intelligence software,q013,category,best self-service BI tool,ok,6,6,0,4,2,8
+12,business intelligence software,q014,category,best embedded analytics platform,ok,7,7,0,4,5,5
+12,business intelligence software,q015,category,best AI business intelligence tool,ok,5,5,0,3,1,9
+12,business intelligence software,q016,category,best business intelligence software for startups,ok,3,3,0,3,0,10
+12,business intelligence software,q017,category,best business intelligence software for finance teams,ok,7,7,0,6,2,8
+12,business intelligence software,q018,category,best business intelligence software for ecommerce companies,ok,5,4,1,4,1,9
+12,business intelligence software,q019,category,best business intelligence software for SaaS startups,ok,7,7,0,3,3,7
+12,business intelligence software,q020,category,best BI tool for healthcare,ok,5,5,0,3,0,10
+12,business intelligence software,q021,category,best BI tool for manufacturing,ok,3,3,0,3,3,7
+12,business intelligence software,q022,category,best reporting dashboard for marketing agencies,ok,6,6,0,1,1,9
+12,business intelligence software,q023,category,best BI tool for nonprofits,ok,4,4,0,1,0,10
+12,business intelligence software,q024,category,best BI tool for retail,ok,4,4,0,3,2,8
+12,business intelligence software,q025,category,best BI tool for higher education,ok,5,5,0,7,2,8
+12,business intelligence software,q026,category,best dashboard tool for sales teams,ok,3,3,0,3,5,5
+12,business intelligence software,q027,category,best BI tool for a snowflake data warehouse,ok,7,6,0,2,3,7
+12,business intelligence software,q028,category,best BI tool for excel users,ok,3,3,0,1,1,9
+12,business intelligence software,q029,category,simple BI tool for small teams,ok,5,5,0,3,1,9
+12,business intelligence software,q030,category,best KPI dashboard software for small business,ok,4,4,0,4,3,7
+12,business intelligence software,q031,comparison,power bi vs tableau,ok,2,2,0,2,2,8
+12,business intelligence software,q032,comparison,power bi vs looker,ok,2,2,0,2,0,10
+12,business intelligence software,q033,comparison,tableau vs looker,ok,2,2,0,1,1,9
+12,business intelligence software,q034,comparison,power bi vs qlik,ok,2,2,0,2,2,8
+12,business intelligence software,q035,comparison,tableau vs qlik,ok,3,2,0,3,2,8
+12,business intelligence software,q036,comparison,power bi vs domo,ok,2,2,0,2,3,7
+12,business intelligence software,q037,comparison,metabase vs superset,ok,2,2,0,2,2,8
+12,business intelligence software,q038,comparison,looker studio vs power bi,ok,2,2,0,1,0,10
+12,business intelligence software,q039,comparison,metabase vs looker studio,ok,2,2,0,1,0,9
+12,business intelligence software,q040,comparison,thoughtspot vs tableau,ok,2,0,0,0,1,9
+12,business intelligence software,q041,comparison,sigma computing vs looker,ok,2,2,0,2,2,8
+12,business intelligence software,q042,comparison,zoho analytics vs power bi,ok,2,2,0,2,3,7
+12,business intelligence software,q043,comparison,amazon quicksight vs power bi,ok,2,2,0,2,1,9
+12,business intelligence software,q044,comparison,hex vs mode analytics,ok,3,2,0,2,3,7
+12,business intelligence software,q045,comparison,tableau vs domo,ok,2,2,0,1,3,7
+12,business intelligence software,q046,comparison,power bi vs sisense,ok,2,2,0,2,1,9
+12,business intelligence software,q047,comparison,power bi vs tableau vs looker,ok,3,3,0,3,0,10
+12,business intelligence software,q048,comparison,tableau vs looker vs qlik,ok,3,3,0,2,1,9
+12,business intelligence software,q049,comparison,metabase vs superset vs redash,ok,3,3,0,3,0,10
+12,business intelligence software,q050,comparison,power bi vs tableau vs qlik sense,ok,3,3,0,2,2,8
+12,business intelligence software,q051,comparison,sigma computing vs thoughtspot vs looker,ok,3,3,0,3,1,9
+12,business intelligence software,q052,comparison,power bi or tableau for a small business,ok,2,2,0,5,2,8
+12,business intelligence software,q053,comparison,power bi or looker for small businesses,ok,2,2,0,2,0,10
+12,business intelligence software,q054,comparison,tableau or qlik for a startup,ok,2,2,0,2,4,6
+12,business intelligence software,q055,comparison,metabase or looker studio for a startup,ok,2,2,0,1,4,6
+12,business intelligence software,q056,comparison,power bi or tableau for a finance team,ok,2,2,0,2,1,9
+12,business intelligence software,q057,comparison,looker studio or databox for a marketing agency,ok,2,2,0,1,1,9
+12,business intelligence software,q058,comparison,sigma computing or looker for a company on snowflake,ok,2,2,0,3,2,8
+12,business intelligence software,q059,comparison,domo or power bi for a multi-location business,ok,2,2,0,2,0,10
+12,business intelligence software,q060,comparison,zoho analytics or power bi for a 20 person company,ok,2,2,0,2,4,6
+12,business intelligence software,q061,alternative,power bi alternatives,ok,9,8,0,4,3,7
+12,business intelligence software,q062,alternative,tableau alternatives,ok,8,7,0,4,2,8
+12,business intelligence software,q063,alternative,looker alternatives,ok,9,8,0,1,3,7
+12,business intelligence software,q064,alternative,qlik alternatives,ok,8,0,7,2,2,8
+12,business intelligence software,q065,alternative,domo alternatives,ok,14,12,0,3,0,10
+12,business intelligence software,q066,alternative,cheaper alternative to power bi,ok,5,4,0,2,3,7
+12,business intelligence software,q067,alternative,cheaper alternative to tableau,ok,6,5,0,3,0,10
+12,business intelligence software,q068,alternative,free alternative to power bi,ok,5,4,0,3,3,7
+12,business intelligence software,q069,alternative,open source alternative to power bi,ok,6,5,0,3,2,8
+12,business intelligence software,q070,alternative,power bi alternative for small business,ok,7,6,0,4,0,10
+12,business intelligence software,q071,alternative,simpler alternative to tableau,ok,5,4,0,4,3,7
+12,business intelligence software,q072,alternative,open source alternative to tableau,ok,6,5,0,3,1,9
+12,business intelligence software,q073,alternative,free alternative to tableau,ok,7,6,0,2,1,9
+12,business intelligence software,q074,alternative,looker studio alternatives,ok,9,8,0,4,4,6
+12,business intelligence software,q075,alternative,cheaper alternative to looker,ok,5,2,2,2,3,7
+12,business intelligence software,q076,alternative,sisense alternatives,ok,1,0,0,0,5,5
+12,business intelligence software,q077,alternative,metabase alternatives,ok,9,8,0,2,0,10
+12,business intelligence software,q078,alternative,power bi alternative for mac users,ok,6,5,0,6,2,8
+12,business intelligence software,q079,alternative,tableau alternative for embedded analytics,ok,11,9,0,6,4,6
+12,business intelligence software,q080,alternative,thoughtspot alternatives,ok,9,1,7,1,1,9
+12,business intelligence software,q081,recommendation,which BI tool should I use for a 5 person team,ok,4,4,0,3,2,8
+12,business intelligence software,q082,recommendation,which BI tool should I use for a 50 person company,ok,4,4,0,3,2,8
+12,business intelligence software,q083,recommendation,what business intelligence software do you recommend for small businesses,ok,5,5,0,2,1,9
+12,business intelligence software,q084,recommendation,which BI tool is best for finance teams,ok,5,5,0,3,1,9
+12,business intelligence software,q085,recommendation,recommend a BI tool for a small business owner,ok,3,3,0,4,1,9
+12,business intelligence software,q086,recommendation,what business intelligence software should I use for ecommerce companies,ok,3,3,0,3,0,10
+12,business intelligence software,q087,recommendation,which BI tool is best value for money,ok,4,4,0,2,3,7
+12,business intelligence software,q088,recommendation,what business intelligence software should a growing startup use,ok,6,6,0,3,1,9
+12,business intelligence software,q089,recommendation,which BI tool works best with google workspace,ok,2,2,0,2,1,9
+12,business intelligence software,q090,recommendation,what business intelligence software should I pick for SaaS startups,ok,7,6,0,3,0,10
+12,business intelligence software,q091,recommendation,which BI tool works best with microsoft 365,ok,3,3,0,2,2,8
+12,business intelligence software,q092,recommendation,which BI tool works best with salesforce,ok,4,4,0,2,2,8
+12,business intelligence software,q093,recommendation,what dashboard tool do you recommend for a marketing agency,ok,3,3,0,4,1,9
+12,business intelligence software,q094,recommendation,recommend a BI tool for a hospital system,ok,3,3,0,3,1,9
+12,business intelligence software,q095,recommendation,which BI tool should I use if my data is in postgres,ok,5,5,0,3,2,8
+12,business intelligence software,q096,recommendation,what BI tool should a nonprofit use on a small budget,ok,4,4,0,3,0,10
+12,business intelligence software,q097,recommendation,which BI tool should a manufacturing company use,ok,4,4,0,3,3,7
+12,business intelligence software,q098,recommendation,recommend a BI tool for non-technical users,ok,6,5,0,6,4,6
+12,business intelligence software,q099,recommendation,which BI tool should I use to embed dashboards in my SaaS product,ok,4,4,0,4,4,6
+12,business intelligence software,q100,recommendation,what BI tool should I use with bigquery,ok,3,3,0,3,0,10
+13,data warehouse and ETL tools,q001,category,best data warehouse,ok,5,5,0,2,2,8
+13,data warehouse and ETL tools,q002,category,best data warehouse 2026,ok,5,5,0,2,3,7
+13,data warehouse and ETL tools,q003,category,best cloud data warehouse for small business,ok,4,4,0,3,2,8
+13,data warehouse and ETL tools,q004,category,best data warehouse for startups,ok,5,5,0,3,1,9
+13,data warehouse and ETL tools,q005,category,best enterprise data warehouse,ok,5,5,0,3,5,5
+13,data warehouse and ETL tools,q006,category,best free data warehouse,ok,4,4,0,1,1,9
+13,data warehouse and ETL tools,q007,category,best open source data warehouse,ok,5,5,0,4,3,7
+13,data warehouse and ETL tools,q008,category,cheapest cloud data warehouse,ok,5,5,0,2,3,7
+13,data warehouse and ETL tools,q009,category,easiest data warehouse to use,ok,5,5,0,4,4,6
+13,data warehouse and ETL tools,q010,category,most popular data warehouse,ok,6,6,0,1,4,6
+13,data warehouse and ETL tools,q011,category,top rated data warehouse,ok,5,5,0,4,4,6
+13,data warehouse and ETL tools,q012,category,best ETL tool,ok,11,11,0,4,3,7
+13,data warehouse and ETL tools,q013,category,best ETL tool 2026,ok,11,7,0,4,3,7
+13,data warehouse and ETL tools,q014,category,best ELT tool for loading a cloud data warehouse,ok,9,4,0,3,3,7
+13,data warehouse and ETL tools,q015,category,best open source ETL tool,ok,9,5,0,3,2,8
+13,data warehouse and ETL tools,q016,category,best free ETL tool,ok,5,2,0,3,2,8
+13,data warehouse and ETL tools,q017,category,best data integration platform for enterprise,ok,4,4,0,5,3,7
+13,data warehouse and ETL tools,q018,category,best ETL tool for small business,ok,6,3,0,3,3,7
+13,data warehouse and ETL tools,q019,category,best reverse ETL tool,ok,7,2,0,3,0,10
+13,data warehouse and ETL tools,q020,category,best data warehouse for ecommerce companies,ok,4,4,0,5,1,9
+13,data warehouse and ETL tools,q021,category,best data warehouse for analytics teams,ok,5,4,0,4,4,6
+13,data warehouse and ETL tools,q022,category,best data warehouse for healthcare data,ok,5,4,1,4,0,10
+13,data warehouse and ETL tools,q023,category,best data warehouse for financial services,ok,4,4,0,3,0,10
+13,data warehouse and ETL tools,q024,category,best data pipeline tool for marketing agencies,ok,6,4,0,3,2,8
+13,data warehouse and ETL tools,q025,category,best data warehouse for real-time analytics,ok,4,4,0,3,3,7
+13,data warehouse and ETL tools,q026,category,best data lakehouse platform,ok,8,8,0,2,3,7
+13,data warehouse and ETL tools,q027,category,best modern data stack for a startup,ok,0,0,0,0,3,7
+13,data warehouse and ETL tools,q028,category,best data warehouse for manufacturing companies,ok,3,3,0,8,3,7
+13,data warehouse and ETL tools,q029,category,best data orchestration tool,ok,7,3,0,2,4,6
+13,data warehouse and ETL tools,q030,category,simple cloud data warehouse for small teams,ok,6,4,0,3,1,9
+13,data warehouse and ETL tools,q031,comparison,snowflake vs bigquery,ok,2,2,0,2,3,7
+13,data warehouse and ETL tools,q032,comparison,snowflake vs redshift,ok,4,2,0,2,0,10
+13,data warehouse and ETL tools,q033,comparison,bigquery vs redshift,ok,5,2,0,2,4,6
+13,data warehouse and ETL tools,q034,comparison,snowflake vs databricks,ok,2,2,0,2,1,9
+13,data warehouse and ETL tools,q035,comparison,databricks vs microsoft fabric,ok,2,2,0,2,1,9
+13,data warehouse and ETL tools,q036,comparison,snowflake vs clickhouse,ok,2,2,0,2,1,9
+13,data warehouse and ETL tools,q037,comparison,fivetran vs airbyte,ok,5,2,0,2,2,8
+13,data warehouse and ETL tools,q038,comparison,fivetran vs stitch,ok,5,2,0,2,0,10
+13,data warehouse and ETL tools,q039,comparison,airbyte vs meltano,ok,8,2,0,2,1,9
+13,data warehouse and ETL tools,q040,comparison,dbt vs matillion,ok,3,2,0,2,2,8
+13,data warehouse and ETL tools,q041,comparison,fivetran vs hevo,ok,5,2,0,2,5,5
+13,data warehouse and ETL tools,q042,comparison,azure data factory vs fivetran,ok,7,2,0,2,0,10
+13,data warehouse and ETL tools,q043,comparison,aws glue vs airbyte,ok,6,2,0,2,5,5
+13,data warehouse and ETL tools,q044,comparison,duckdb vs clickhouse,ok,3,2,0,3,2,8
+13,data warehouse and ETL tools,q045,comparison,informatica vs talend,ok,4,2,0,3,3,7
+13,data warehouse and ETL tools,q046,comparison,airflow vs dagster,ok,4,2,0,2,2,8
+13,data warehouse and ETL tools,q047,comparison,snowflake vs bigquery vs redshift,ok,4,3,0,3,3,7
+13,data warehouse and ETL tools,q048,comparison,bigquery vs redshift vs databricks,ok,3,3,0,2,2,8
+13,data warehouse and ETL tools,q049,comparison,fivetran vs airbyte vs stitch,ok,8,3,0,3,1,9
+13,data warehouse and ETL tools,q050,comparison,snowflake vs databricks vs microsoft fabric,ok,3,3,0,3,1,9
+13,data warehouse and ETL tools,q051,comparison,airflow vs dagster vs prefect,ok,6,3,1,3,0,10
+13,data warehouse and ETL tools,q052,comparison,snowflake or bigquery for a small business,ok,2,2,0,2,3,7
+13,data warehouse and ETL tools,q053,comparison,snowflake or redshift for startups,ok,3,2,0,2,1,9
+13,data warehouse and ETL tools,q054,comparison,bigquery or databricks for a startup,ok,6,2,0,2,4,6
+13,data warehouse and ETL tools,q055,comparison,fivetran or airbyte for a startup,ok,4,2,0,2,2,8
+13,data warehouse and ETL tools,q056,comparison,postgres or snowflake for a small analytics team,ok,2,2,0,3,1,9
+13,data warehouse and ETL tools,q057,comparison,motherduck or bigquery for a small data team,ok,4,2,0,2,1,9
+13,data warehouse and ETL tools,q058,comparison,clickhouse or snowflake for real-time dashboards,ok,2,2,0,2,4,6
+13,data warehouse and ETL tools,q059,comparison,fivetran or matillion for a snowflake shop,ok,4,2,0,2,4,6
+13,data warehouse and ETL tools,q060,comparison,azure synapse or microsoft fabric for a microsoft shop,ok,0,0,0,0,3,7
+13,data warehouse and ETL tools,q061,alternative,snowflake alternatives,ok,11,10,0,3,3,7
+13,data warehouse and ETL tools,q062,alternative,bigquery alternatives,ok,8,7,0,0,0,10
+13,data warehouse and ETL tools,q063,alternative,redshift alternatives,ok,10,9,0,4,0,10
+13,data warehouse and ETL tools,q064,alternative,databricks alternatives,ok,10,9,0,2,2,8
+13,data warehouse and ETL tools,q065,alternative,cheaper alternative to snowflake,ok,7,6,0,3,0,10
+13,data warehouse and ETL tools,q066,alternative,cheaper alternative to bigquery,ok,7,6,0,4,0,10
+13,data warehouse and ETL tools,q067,alternative,free alternative to snowflake,ok,4,3,0,5,4,6
+13,data warehouse and ETL tools,q068,alternative,open source alternative to snowflake,ok,6,4,0,2,5,5
+13,data warehouse and ETL tools,q069,alternative,snowflake alternative for small business,ok,8,6,0,3,1,9
+13,data warehouse and ETL tools,q070,alternative,simpler alternative to bigquery,ok,5,3,1,2,2,8
+13,data warehouse and ETL tools,q071,alternative,fivetran alternatives,ok,11,7,0,3,3,7
+13,data warehouse and ETL tools,q072,alternative,cheaper alternative to fivetran,ok,8,5,0,4,0,10
+13,data warehouse and ETL tools,q073,alternative,open source alternative to fivetran,ok,6,2,0,2,2,8
+13,data warehouse and ETL tools,q074,alternative,informatica alternatives,ok,16,11,0,3,2,8
+13,data warehouse and ETL tools,q075,alternative,airbyte alternatives,ok,11,6,0,5,3,7
+13,data warehouse and ETL tools,q076,alternative,simpler alternative to airflow,ok,4,2,0,3,3,7
+13,data warehouse and ETL tools,q077,alternative,matillion alternatives,ok,15,9,0,1,5,5
+13,data warehouse and ETL tools,q078,alternative,talend alternatives,ok,12,8,0,2,2,8
+13,data warehouse and ETL tools,q079,alternative,cheaper alternative to databricks,ok,8,6,1,4,1,9
+13,data warehouse and ETL tools,q080,alternative,stitch data alternatives,ok,13,7,0,3,4,6
+13,data warehouse and ETL tools,q081,recommendation,which cloud data warehouse should I use for a 5 person team,ok,3,3,0,0,2,8
+13,data warehouse and ETL tools,q082,recommendation,which cloud data warehouse should I use for a 50 person company,ok,5,4,0,4,1,9
+13,data warehouse and ETL tools,q083,recommendation,what data warehouse do you recommend for startups,ok,8,8,0,3,3,7
+13,data warehouse and ETL tools,q084,recommendation,which cloud data warehouse is best for analytics teams,ok,5,4,0,4,3,7
+13,data warehouse and ETL tools,q085,recommendation,recommend a cloud data warehouse for a small business owner,ok,4,4,0,1,1,9
+13,data warehouse and ETL tools,q086,recommendation,what data warehouse should I use for ecommerce companies,ok,5,4,0,3,3,7
+13,data warehouse and ETL tools,q087,recommendation,which cloud data warehouse is best value for money,ok,6,5,0,4,0,10
+13,data warehouse and ETL tools,q088,recommendation,what data warehouse should a growing startup use,ok,9,8,0,3,3,7
+13,data warehouse and ETL tools,q089,recommendation,which cloud data warehouse works best with google workspace,ok,4,3,0,2,2,8
+13,data warehouse and ETL tools,q090,recommendation,what data warehouse should I pick for a small data team,ok,7,7,0,3,2,8
+13,data warehouse and ETL tools,q091,recommendation,which ETL tool should I use to load salesforce and hubspot data into a warehouse,ok,11,7,0,3,3,7
+13,data warehouse and ETL tools,q092,recommendation,what ETL tool do you recommend for a 3 person data team,ok,12,7,0,4,3,7
+13,data warehouse and ETL tools,q093,recommendation,recommend a data warehouse for a healthcare company,ok,5,5,0,3,1,9
+13,data warehouse and ETL tools,q094,recommendation,which data warehouse works best with power bi,ok,5,5,0,1,2,8
+13,data warehouse and ETL tools,q095,recommendation,which data warehouse works best with aws,ok,6,4,1,1,4,6
+13,data warehouse and ETL tools,q096,recommendation,which ETL tool works best with bigquery,ok,7,4,0,2,5,5
+13,data warehouse and ETL tools,q097,recommendation,what data stack should an ecommerce brand on shopify use,ok,6,6,0,1,1,9
+13,data warehouse and ETL tools,q098,recommendation,recommend an open source ETL tool,ok,7,3,0,2,3,7
+13,data warehouse and ETL tools,q099,recommendation,which data warehouse should I use for a SaaS product with 10 million events a day,ok,4,4,0,4,2,8
+13,data warehouse and ETL tools,q100,recommendation,what data warehouse should a nonprofit use,ok,8,8,0,2,0,10
+14,ecommerce platforms,q001,category,best ecommerce platform,ok,5,5,0,3,2,8
+14,ecommerce platforms,q002,category,best ecommerce platform 2026,ok,4,4,0,4,0,10
+14,ecommerce platforms,q003,category,best ecommerce platform for small business,ok,4,4,0,4,3,7
+14,ecommerce platforms,q004,category,best ecommerce platform for startups,ok,4,4,0,4,0,10
+14,ecommerce platforms,q005,category,best enterprise ecommerce platform,ok,6,6,0,2,4,6
+14,ecommerce platforms,q006,category,best free ecommerce platform,ok,6,5,0,4,1,9
+14,ecommerce platforms,q007,category,best open source ecommerce platform,ok,6,6,0,4,1,9
+14,ecommerce platforms,q008,category,cheapest ecommerce platform,ok,5,5,0,3,1,9
+14,ecommerce platforms,q009,category,easiest ecommerce platform to use,ok,4,4,0,3,2,8
+14,ecommerce platforms,q010,category,most popular ecommerce platform,ok,4,2,2,3,0,10
+14,ecommerce platforms,q011,category,top rated ecommerce platform,ok,5,5,0,4,1,9
+14,ecommerce platforms,q012,category,best ecommerce platform for clothing brands,ok,5,5,0,5,4,6
+14,ecommerce platforms,q013,category,best ecommerce platform for dropshipping,ok,5,5,0,2,2,8
+14,ecommerce platforms,q014,category,best ecommerce platform for B2B wholesale,ok,6,6,0,5,2,8
+14,ecommerce platforms,q015,category,best ecommerce platform for selling digital products,ok,4,4,0,3,1,9
+14,ecommerce platforms,q016,category,best ecommerce platform for print on demand,ok,4,4,0,3,2,8
+14,ecommerce platforms,q017,category,best ecommerce platform for artists,ok,6,6,0,2,1,9
+14,ecommerce platforms,q018,category,best ecommerce platform for jewelry businesses,ok,5,5,0,1,0,10
+14,ecommerce platforms,q019,category,best ecommerce platform for subscription boxes,ok,1,1,0,2,3,7
+14,ecommerce platforms,q020,category,best ecommerce platform for food and beverage brands,ok,5,5,0,2,3,7
+14,ecommerce platforms,q021,category,best ecommerce platform for nonprofits selling merchandise,ok,4,4,0,2,1,9
+14,ecommerce platforms,q022,category,best ecommerce platform for a local retail store with in-person sales,ok,4,2,2,2,1,9
+14,ecommerce platforms,q023,category,best headless ecommerce platform,ok,5,5,0,3,3,7
+14,ecommerce platforms,q024,category,best ecommerce platform for international selling,ok,3,3,0,2,2,8
+14,ecommerce platforms,q025,category,best ecommerce platform for large catalogs,ok,4,4,0,2,3,7
+14,ecommerce platforms,q026,category,best ecommerce platform for SEO,ok,5,5,0,6,0,10
+14,ecommerce platforms,q027,category,best mid-market ecommerce platform,ok,4,4,0,3,0,10
+14,ecommerce platforms,q028,category,best online store builder for beginners,ok,3,3,0,3,1,9
+14,ecommerce platforms,q029,category,simple online store builder for small teams,ok,5,5,0,6,3,7
+14,ecommerce platforms,q030,category,best ecommerce platform for high volume sellers,ok,3,3,0,2,1,9
+14,ecommerce platforms,q031,comparison,shopify vs woocommerce,ok,3,2,0,2,1,9
+14,ecommerce platforms,q032,comparison,shopify vs bigcommerce,ok,2,2,0,2,1,9
+14,ecommerce platforms,q033,comparison,woocommerce vs bigcommerce,ok,2,2,0,2,1,9
+14,ecommerce platforms,q034,comparison,shopify vs squarespace,ok,2,2,0,2,2,8
+14,ecommerce platforms,q035,comparison,shopify vs wix,ok,2,2,0,2,1,9
+14,ecommerce platforms,q036,comparison,shopify vs magento,ok,2,2,0,2,1,9
+14,ecommerce platforms,q037,comparison,bigcommerce vs magento,ok,2,2,0,2,2,8
+14,ecommerce platforms,q038,comparison,woocommerce vs magento,ok,2,2,0,2,1,9
+14,ecommerce platforms,q039,comparison,shopify plus vs salesforce commerce cloud,ok,2,2,0,2,2,8
+14,ecommerce platforms,q040,comparison,ecwid vs shopify,ok,4,2,0,2,1,9
+14,ecommerce platforms,q041,comparison,big cartel vs etsy,ok,2,2,0,3,2,8
+14,ecommerce platforms,q042,comparison,prestashop vs woocommerce,ok,2,2,0,2,2,8
+14,ecommerce platforms,q043,comparison,medusa vs saleor,ok,3,2,0,3,0,10
+14,ecommerce platforms,q044,comparison,commercetools vs salesforce commerce cloud,ok,2,0,0,0,2,8
+14,ecommerce platforms,q045,comparison,wix vs squarespace for ecommerce,ok,3,3,0,2,1,9
+14,ecommerce platforms,q046,comparison,shopify vs woocommerce vs bigcommerce,ok,3,3,0,3,0,10
+14,ecommerce platforms,q047,comparison,woocommerce vs bigcommerce vs squarespace,ok,3,3,0,3,0,10
+14,ecommerce platforms,q048,comparison,shopify vs wix vs squarespace,ok,3,3,0,3,1,9
+14,ecommerce platforms,q049,comparison,magento vs bigcommerce vs salesforce commerce cloud,ok,3,3,0,0,1,9
+14,ecommerce platforms,q050,comparison,gumroad vs payhip vs sellfy,ok,3,3,0,3,2,8
+14,ecommerce platforms,q051,comparison,shopify or woocommerce for a small business,ok,2,2,0,2,2,8
+14,ecommerce platforms,q052,comparison,shopify or bigcommerce for clothing brands,ok,2,2,0,3,0,10
+14,ecommerce platforms,q053,comparison,woocommerce or squarespace for a startup,ok,2,2,0,2,1,9
+14,ecommerce platforms,q054,comparison,shopify or etsy for handmade goods,ok,0,0,0,0,3,7
+14,ecommerce platforms,q055,comparison,bigcommerce or shopify plus for B2B wholesale,ok,2,2,0,2,0,10
+14,ecommerce platforms,q056,comparison,shopify or wix for a first online store,ok,2,2,0,2,0,10
+14,ecommerce platforms,q057,comparison,square online or shopify for a local shop,ok,2,2,0,2,2,8
+14,ecommerce platforms,q058,comparison,kajabi or shopify for selling digital products,ok,2,2,0,2,3,7
+14,ecommerce platforms,q059,comparison,bigcommerce or woocommerce for a large catalog,ok,2,2,0,2,0,10
+14,ecommerce platforms,q060,comparison,squarespace or shopify for an artist,ok,2,2,0,2,1,9
+14,ecommerce platforms,q061,alternative,shopify alternatives,ok,9,8,0,3,5,5
+14,ecommerce platforms,q062,alternative,woocommerce alternatives,ok,8,7,0,1,1,9
+14,ecommerce platforms,q063,alternative,bigcommerce alternatives,ok,8,7,0,2,5,5
+14,ecommerce platforms,q064,alternative,squarespace alternatives,ok,4,3,0,11,1,9
+14,ecommerce platforms,q065,alternative,magento alternatives,ok,9,8,0,2,2,8
+14,ecommerce platforms,q066,alternative,wix alternatives for ecommerce,ok,6,5,0,4,1,9
+14,ecommerce platforms,q067,alternative,cheaper alternative to shopify,ok,7,6,0,2,3,7
+14,ecommerce platforms,q068,alternative,cheaper alternative to shopify plus,ok,5,4,0,2,1,9
+14,ecommerce platforms,q069,alternative,cheaper alternative to bigcommerce,ok,7,6,0,1,0,10
+14,ecommerce platforms,q070,alternative,free alternative to shopify,ok,6,5,0,4,0,10
+14,ecommerce platforms,q071,alternative,open source alternative to shopify,ok,6,5,0,6,0,10
+14,ecommerce platforms,q072,alternative,simpler alternative to woocommerce,ok,7,6,0,1,1,9
+14,ecommerce platforms,q073,alternative,simpler alternative to magento,ok,6,5,0,2,1,9
+14,ecommerce platforms,q074,alternative,shopify alternative for small business,ok,7,6,0,2,1,9
+14,ecommerce platforms,q075,alternative,shopify alternative for B2B wholesale,ok,6,5,0,5,0,10
+14,ecommerce platforms,q076,alternative,etsy alternatives for artists,ok,3,2,0,2,0,10
+14,ecommerce platforms,q077,alternative,gumroad alternatives,ok,7,6,0,4,0,10
+14,ecommerce platforms,q078,alternative,salesforce commerce cloud alternatives,ok,9,7,1,5,1,9
+14,ecommerce platforms,q079,alternative,ecwid alternatives,ok,8,7,0,2,2,8
+14,ecommerce platforms,q080,alternative,open source alternative to magento,ok,6,5,0,4,1,9
+14,ecommerce platforms,q081,recommendation,which ecommerce platform should I use for a 5 person team,ok,3,3,0,3,2,8
+14,ecommerce platforms,q082,recommendation,which ecommerce platform should I use for a 50 person company,ok,3,3,0,3,2,8
+14,ecommerce platforms,q083,recommendation,what ecommerce platform do you recommend for clothing brands,ok,5,5,0,3,1,9
+14,ecommerce platforms,q084,recommendation,which ecommerce platform is best for dropshipping,ok,4,4,0,2,2,8
+14,ecommerce platforms,q085,recommendation,recommend an ecommerce platform for a small business owner,ok,5,5,0,3,0,10
+14,ecommerce platforms,q086,recommendation,what ecommerce platform should I use for B2B wholesale,ok,4,4,0,5,2,8
+14,ecommerce platforms,q087,recommendation,which ecommerce platform is best value for money,ok,5,5,0,2,1,9
+14,ecommerce platforms,q088,recommendation,what ecommerce platform should a growing startup use,ok,4,4,0,2,2,8
+14,ecommerce platforms,q089,recommendation,what ecommerce platform should I pick for selling digital products,ok,3,3,0,3,0,10
+14,ecommerce platforms,q090,recommendation,which ecommerce platform works best with quickbooks,ok,6,5,1,5,1,9
+14,ecommerce platforms,q091,recommendation,which ecommerce platform works best if I also sell on amazon and ebay,ok,4,4,0,4,0,10
+14,ecommerce platforms,q092,recommendation,recommend an ecommerce platform for a bakery,ok,4,4,0,2,1,9
+14,ecommerce platforms,q093,recommendation,what ecommerce platform should an artist use to sell prints,ok,5,5,0,3,0,10
+14,ecommerce platforms,q094,recommendation,which ecommerce platform should I switch to from wix,ok,1,0,0,0,2,8
+14,ecommerce platforms,q095,recommendation,what ecommerce platform should a brand doing $10 million a year use,ok,4,3,0,2,1,9
+14,ecommerce platforms,q096,recommendation,recommend an ecommerce platform for a nonprofit,ok,2,2,0,3,0,10
+14,ecommerce platforms,q097,recommendation,which ecommerce platform should I use if I also sell in person,ok,4,4,0,4,1,9
+14,ecommerce platforms,q098,recommendation,what ecommerce platform should I use for a subscription business,ok,1,1,0,2,2,8
+14,ecommerce platforms,q099,recommendation,which ecommerce platform is best for a developer who wants full control,ok,4,4,0,4,1,9
+14,ecommerce platforms,q100,recommendation,what ecommerce platform do you recommend for selling internationally,ok,4,4,0,2,1,9
+15,website builders,q001,category,best website builder,ok,5,5,0,3,1,9
+15,website builders,q002,category,best website builder 2026,ok,6,6,0,4,2,8
+15,website builders,q003,category,best website builder for small business,ok,5,5,0,5,1,9
+15,website builders,q004,category,best website builder for startups,ok,4,4,0,3,0,10
+15,website builders,q005,category,best enterprise website builder,ok,2,2,0,5,0,10
+15,website builders,q006,category,best free website builder,ok,4,4,0,3,2,8
+15,website builders,q007,category,best open source website builder,ok,7,4,0,4,0,10
+15,website builders,q008,category,cheapest website builder,ok,4,4,0,3,1,9
+15,website builders,q009,category,easiest website builder to use,ok,4,4,0,4,3,7
+15,website builders,q010,category,most popular website builder,ok,5,5,0,5,1,9
+15,website builders,q011,category,top rated website builder,ok,5,5,0,5,0,10
+15,website builders,q012,category,best website builder for portfolios,ok,7,7,0,4,0,10
+15,website builders,q013,category,best website builder for restaurants,ok,4,4,0,6,2,8
+15,website builders,q014,category,best website builder for photographers,ok,4,4,0,3,2,8
+15,website builders,q015,category,best website builder for therapists,ok,5,5,0,3,2,8
+15,website builders,q016,category,best website builder for churches,ok,3,3,0,5,2,8
+15,website builders,q017,category,best website builder for law firms,ok,2,2,0,2,0,10
+15,website builders,q018,category,best website builder for nonprofits,ok,4,4,0,4,0,10
+15,website builders,q019,category,best website builder for artists,ok,5,5,0,2,0,10
+15,website builders,q020,category,best website builder for musicians,ok,5,5,0,2,0,10
+15,website builders,q021,category,best website builder for real estate agents,ok,4,4,0,3,1,9
+15,website builders,q022,category,best website builder for bloggers,ok,5,5,0,4,1,9
+15,website builders,q023,category,best website builder for SEO,ok,5,5,0,5,1,9
+15,website builders,q024,category,best AI website builder,ok,4,4,0,5,1,9
+15,website builders,q025,category,best website builder for designers,ok,3,3,0,3,0,10
+15,website builders,q026,category,best website builder for landing pages,ok,4,4,0,4,2,8
+15,website builders,q027,category,best website builder for agencies building client sites,ok,3,3,0,3,1,9
+15,website builders,q028,category,best website builder for a personal website,ok,5,5,0,3,0,10
+15,website builders,q029,category,best website builder for contractors,ok,4,4,0,4,3,7
+15,website builders,q030,category,simple website builder for small teams,ok,4,4,0,4,1,9
+15,website builders,q031,comparison,wix vs squarespace,ok,2,2,0,2,0,10
+15,website builders,q032,comparison,wix vs wordpress,ok,2,2,0,2,1,9
+15,website builders,q033,comparison,squarespace vs wordpress,ok,2,2,0,2,1,9
+15,website builders,q034,comparison,wix vs webflow,ok,2,2,0,2,1,9
+15,website builders,q035,comparison,squarespace vs webflow,ok,2,2,0,2,2,8
+15,website builders,q036,comparison,wordpress vs webflow,ok,2,2,0,2,1,9
+15,website builders,q037,comparison,webflow vs framer,ok,2,2,0,2,0,10
+15,website builders,q038,comparison,wix vs shopify,ok,2,2,0,2,0,10
+15,website builders,q039,comparison,squarespace vs shopify,ok,2,2,0,2,1,9
+15,website builders,q040,comparison,wix vs godaddy,ok,2,2,0,2,0,10
+15,website builders,q041,comparison,hostinger vs wix,ok,2,2,0,2,1,9
+15,website builders,q042,comparison,squarespace vs showit,ok,3,2,0,2,1,9
+15,website builders,q043,comparison,duda vs wix,ok,2,2,0,3,2,8
+15,website builders,q044,comparison,ghost vs wordpress,ok,2,2,0,2,3,7
+15,website builders,q045,comparison,wix vs weebly,ok,3,2,0,4,1,9
+15,website builders,q046,comparison,wix vs squarespace vs wordpress,ok,3,3,0,3,0,10
+15,website builders,q047,comparison,squarespace vs wordpress vs webflow,ok,3,3,0,4,1,9
+15,website builders,q048,comparison,webflow vs framer vs wix studio,ok,3,3,0,4,0,10
+15,website builders,q049,comparison,wix vs squarespace vs godaddy,ok,4,4,0,3,1,9
+15,website builders,q050,comparison,carrd vs framer vs squarespace,ok,3,3,0,4,2,8
+15,website builders,q051,comparison,wix or squarespace for a small business,ok,2,2,0,2,0,10
+15,website builders,q052,comparison,wix or wordpress for small businesses,ok,2,2,0,5,0,10
+15,website builders,q053,comparison,squarespace or webflow for a startup,ok,2,2,0,1,0,10
+15,website builders,q054,comparison,squarespace or wix for a photographer,ok,2,2,0,2,0,10
+15,website builders,q055,comparison,wordpress or squarespace for a blog,ok,2,2,0,2,0,10
+15,website builders,q056,comparison,webflow or framer for a design agency,ok,2,2,0,2,2,8
+15,website builders,q057,comparison,wix or godaddy for a contractor,ok,2,2,0,2,0,10
+15,website builders,q058,comparison,squarespace or bandzoogle for a musician,ok,2,2,0,2,1,9
+15,website builders,q059,comparison,elementor or webflow for a freelancer,ok,3,2,0,5,3,7
+15,website builders,q060,comparison,wordpress or wix for SEO,ok,2,2,0,2,0,10
+15,website builders,q061,alternative,wix alternatives,ok,8,7,0,2,2,8
+15,website builders,q062,alternative,squarespace alternatives,ok,8,7,0,10,2,8
+15,website builders,q063,alternative,wordpress alternatives,ok,9,8,0,1,0,10
+15,website builders,q064,alternative,webflow alternatives,ok,6,5,0,4,3,7
+15,website builders,q065,alternative,godaddy website builder alternatives,ok,9,8,0,3,0,10
+15,website builders,q066,alternative,framer alternatives,ok,7,6,0,4,0,10
+15,website builders,q067,alternative,cheaper alternative to wix,ok,5,2,2,4,1,9
+15,website builders,q068,alternative,cheaper alternative to squarespace,ok,5,4,0,4,0,10
+15,website builders,q069,alternative,cheaper alternative to webflow,ok,6,5,0,2,1,9
+15,website builders,q070,alternative,free alternative to wix,ok,6,4,1,5,2,8
+15,website builders,q071,alternative,free alternative to squarespace,ok,5,4,0,4,1,9
+15,website builders,q072,alternative,open source alternative to wix,ok,5,4,0,6,1,9
+15,website builders,q073,alternative,open source alternative to squarespace,ok,6,4,0,6,1,9
+15,website builders,q074,alternative,simpler alternative to wordpress,ok,8,6,0,3,2,8
+15,website builders,q075,alternative,simpler alternative to webflow,ok,5,4,0,5,0,10
+15,website builders,q076,alternative,wix alternative for small business,ok,7,6,0,2,2,8
+15,website builders,q077,alternative,squarespace alternative for photographers,ok,7,5,0,5,1,9
+15,website builders,q078,alternative,webflow alternative for agencies,ok,8,7,0,3,2,8
+15,website builders,q079,alternative,wordpress alternative for bloggers,ok,5,4,0,2,1,9
+15,website builders,q080,alternative,weebly alternatives,ok,9,8,0,4,0,10
+15,website builders,q081,recommendation,which website builder should I use for a 5 person team,ok,5,5,0,2,1,9
+15,website builders,q082,recommendation,which website builder should I use for a 50 person company,ok,5,5,0,2,0,10
+15,website builders,q083,recommendation,what website builder do you recommend for small businesses,ok,4,4,0,5,0,10
+15,website builders,q084,recommendation,recommend a website builder for a small business owner,ok,4,4,0,4,0,10
+15,website builders,q085,recommendation,what website builder should I use for restaurants,ok,2,2,0,3,2,8
+15,website builders,q086,recommendation,which website builder is best value for money,ok,5,5,0,4,0,10
+15,website builders,q087,recommendation,what website builder should a growing startup use,ok,3,3,0,2,0,10
+15,website builders,q088,recommendation,which website builder works best with google workspace,ok,4,4,0,2,4,6
+15,website builders,q089,recommendation,what website builder should I pick for photographers,ok,3,3,0,4,0,10
+15,website builders,q090,recommendation,recommend a website builder for a therapist in private practice,ok,3,3,0,3,2,8
+15,website builders,q091,recommendation,what website builder should a church use,ok,4,4,0,5,1,9
+15,website builders,q092,recommendation,which website builder should a law firm use,ok,4,4,0,2,1,9
+15,website builders,q093,recommendation,recommend a website builder for a nonprofit,ok,3,3,0,3,0,10
+15,website builders,q094,recommendation,what website builder should I use if I am not technical,ok,5,5,0,3,0,10
+15,website builders,q095,recommendation,which website builder is best for SEO,ok,4,4,0,4,1,9
+15,website builders,q096,recommendation,what website builder should a designer use for client work,ok,2,2,0,2,1,9
+15,website builders,q097,recommendation,which website builder works best with mailchimp,ok,4,4,0,2,2,8
+15,website builders,q098,recommendation,recommend a website builder for an artist selling prints,ok,2,2,0,3,0,10
+15,website builders,q099,recommendation,what website builder should a real estate agent use,ok,3,3,0,5,2,8
+15,website builders,q100,recommendation,which website builder should I use to replace my wordpress site,ok,6,5,0,3,0,10
+16,scheduling software,q001,category,best appointment scheduling software,ok,5,5,0,2,3,7
+16,scheduling software,q002,category,best appointment scheduling software 2026,ok,7,7,0,5,1,9
+16,scheduling software,q003,category,best scheduling tool for small business,ok,0,0,0,4,2,8
+16,scheduling software,q004,category,best enterprise appointment scheduling software,ok,4,4,0,5,1,9
+16,scheduling software,q005,category,best free appointment scheduling software,ok,6,6,0,2,5,5
+16,scheduling software,q006,category,best open source scheduling software,ok,0,0,0,5,4,6
+16,scheduling software,q007,category,cheapest appointment scheduling software,ok,3,3,0,3,3,7
+16,scheduling software,q008,category,easiest appointment scheduling software to use,ok,5,5,0,5,2,8
+16,scheduling software,q009,category,most popular appointment scheduling software,ok,9,8,0,2,2,8
+16,scheduling software,q010,category,top rated appointment scheduling software,ok,3,3,0,3,1,9
+16,scheduling software,q011,category,best meeting scheduling tool,ok,4,4,0,4,0,10
+16,scheduling software,q012,category,best appointment scheduling software for salons,ok,4,3,1,4,4,6
+16,scheduling software,q013,category,best appointment scheduling software for therapists,ok,5,4,0,5,3,7
+16,scheduling software,q014,category,best appointment scheduling software for sales teams,ok,3,3,0,1,1,9
+16,scheduling software,q015,category,best appointment scheduling software for consultants,ok,7,7,0,0,1,9
+16,scheduling software,q016,category,best booking software for barbershops,ok,5,5,0,3,2,8
+16,scheduling software,q017,category,best scheduling software for medical practices,ok,4,3,0,3,0,10
+16,scheduling software,q018,category,best appointment booking software for dentists,ok,2,1,0,4,3,7
+16,scheduling software,q019,category,best scheduling software for fitness studios,ok,2,2,0,8,3,7
+16,scheduling software,q020,category,best appointment scheduling software for law firms,ok,4,4,0,6,0,10
+16,scheduling software,q021,category,best booking software for photographers,ok,2,2,0,6,5,5
+16,scheduling software,q022,category,best scheduling software for tutors,ok,4,3,0,2,4,6
+16,scheduling software,q023,category,best scheduling software for churches,ok,1,1,0,2,2,8
+16,scheduling software,q024,category,best appointment scheduling software for home services,ok,3,2,0,2,3,7
+16,scheduling software,q025,category,best online booking system for spas,ok,4,4,0,3,5,5
+16,scheduling software,q026,category,best scheduling link tool,ok,5,5,0,2,3,7
+16,scheduling software,q027,category,best scheduling software for recruiting interviews,ok,1,1,0,5,1,9
+16,scheduling software,q028,category,best appointment scheduling software with payments,ok,5,5,0,4,3,7
+16,scheduling software,q029,category,best AI scheduling assistant,ok,3,3,0,3,1,9
+16,scheduling software,q030,category,best round robin scheduling tool,ok,0,0,0,4,3,7
+16,scheduling software,q031,comparison,calendly vs acuity scheduling,ok,3,2,0,2,3,7
+16,scheduling software,q032,comparison,calendly vs square appointments,ok,2,2,0,2,0,10
+16,scheduling software,q033,comparison,calendly vs cal.com,ok,2,2,0,2,4,6
+16,scheduling software,q034,comparison,calendly vs savvycal,ok,2,2,0,2,3,7
+16,scheduling software,q035,comparison,calendly vs hubspot meetings,ok,2,2,0,2,3,7
+16,scheduling software,q036,comparison,calendly vs microsoft bookings,ok,2,2,0,2,3,7
+16,scheduling software,q037,comparison,calendly vs chili piper,ok,2,2,0,2,3,7
+16,scheduling software,q038,comparison,acuity scheduling vs square appointments,ok,2,2,0,2,2,8
+16,scheduling software,q039,comparison,vagaro vs fresha,ok,2,2,0,2,2,8
+16,scheduling software,q040,comparison,booksy vs vagaro,ok,2,2,0,2,6,4
+16,scheduling software,q041,comparison,setmore vs square appointments,ok,2,2,0,2,4,6
+16,scheduling software,q042,comparison,simplepractice vs jane app,ok,2,2,0,2,1,9
+16,scheduling software,q043,comparison,calendly vs doodle,ok,2,2,0,2,4,6
+16,scheduling software,q044,comparison,motion vs reclaim.ai,ok,2,2,0,2,3,7
+16,scheduling software,q045,comparison,calendly vs zoho bookings,ok,2,2,0,2,1,9
+16,scheduling software,q046,comparison,calendly vs acuity scheduling vs square appointments,ok,3,3,0,3,2,8
+16,scheduling software,q047,comparison,calendly vs cal.com vs savvycal,ok,3,3,0,3,0,10
+16,scheduling software,q048,comparison,vagaro vs fresha vs booksy,ok,3,3,0,5,3,7
+16,scheduling software,q049,comparison,setmore vs simplybook.me vs acuity scheduling,ok,4,3,0,3,5,5
+16,scheduling software,q050,comparison,calendly vs chili piper vs hubspot meetings,ok,3,3,0,3,4,6
+16,scheduling software,q051,comparison,calendly or acuity scheduling for a small business,ok,3,2,0,3,0,10
+16,scheduling software,q052,comparison,calendly or square appointments for salons,ok,2,2,0,1,2,8
+16,scheduling software,q053,comparison,acuity scheduling or cal.com for a startup,ok,2,2,0,0,8,2
+16,scheduling software,q054,comparison,calendly or google calendar appointment schedules for a solo consultant,ok,2,2,0,2,3,7
+16,scheduling software,q055,comparison,vagaro or glossgenius for a hair stylist,ok,2,2,0,2,0,10
+16,scheduling software,q056,comparison,simplepractice or acuity scheduling for a therapist,ok,2,2,0,2,0,10
+16,scheduling software,q057,comparison,chili piper or calendly for inbound sales,ok,2,0,0,0,2,8
+16,scheduling software,q058,comparison,mindbody or vagaro for a yoga studio,ok,2,2,0,2,1,9
+16,scheduling software,q059,comparison,microsoft bookings or calendly for a company on microsoft 365,ok,2,2,0,2,4,6
+16,scheduling software,q060,comparison,setmore or calendly for a tutor,ok,2,2,0,1,2,8
+16,scheduling software,q061,alternative,calendly alternatives,ok,9,8,0,1,0,10
+16,scheduling software,q062,alternative,acuity scheduling alternatives,ok,7,6,0,4,4,6
+16,scheduling software,q063,alternative,square appointments alternatives,ok,7,5,1,2,0,10
+16,scheduling software,q064,alternative,cal.com alternatives,ok,9,8,0,1,3,7
+16,scheduling software,q065,alternative,cheaper alternative to calendly,ok,4,3,0,3,0,10
+16,scheduling software,q066,alternative,cheaper alternative to acuity scheduling,ok,6,5,0,2,4,6
+16,scheduling software,q067,alternative,free alternative to calendly,ok,5,4,0,5,2,8
+16,scheduling software,q068,alternative,open source alternative to calendly,ok,5,3,0,1,0,10
+16,scheduling software,q069,alternative,calendly alternative for small business,ok,8,7,0,4,3,7
+16,scheduling software,q070,alternative,simpler alternative to acuity scheduling,ok,5,4,0,2,4,6
+16,scheduling software,q071,alternative,chili piper alternatives,ok,4,3,0,3,3,7
+16,scheduling software,q072,alternative,vagaro alternatives,ok,7,6,0,4,4,6
+16,scheduling software,q073,alternative,mindbody alternatives,ok,4,3,0,4,1,9
+16,scheduling software,q074,alternative,doodle alternatives,ok,4,3,0,4,0,10
+16,scheduling software,q075,alternative,simplepractice alternatives for scheduling,ok,5,4,0,4,0,10
+16,scheduling software,q076,alternative,calendly alternative for sales teams,ok,4,3,0,3,3,7
+16,scheduling software,q077,alternative,cheaper alternative to mindbody,ok,4,2,1,5,1,9
+16,scheduling software,q078,alternative,setmore alternatives,ok,8,7,0,4,6,4
+16,scheduling software,q079,alternative,microsoft bookings alternatives,ok,9,8,0,2,3,7
+16,scheduling software,q080,alternative,calendly alternative for healthcare,ok,5,4,0,3,2,8
+16,scheduling software,q081,recommendation,which scheduling tool should I use for a 5 person team,ok,3,3,0,3,0,10
+16,scheduling software,q082,recommendation,which scheduling tool should I use for a 50 person company,ok,3,0,3,2,1,9
+16,scheduling software,q083,recommendation,what appointment scheduling software do you recommend for salons,ok,5,5,0,4,4,6
+16,scheduling software,q084,recommendation,which scheduling tool is best for therapists,ok,6,5,0,4,2,8
+16,scheduling software,q085,recommendation,recommend a scheduling tool for a small business owner,ok,4,4,0,5,1,9
+16,scheduling software,q086,recommendation,what appointment scheduling software should I use for sales teams,ok,5,5,0,1,2,8
+16,scheduling software,q087,recommendation,which scheduling tool is best value for money,ok,5,5,0,6,1,9
+16,scheduling software,q088,recommendation,what appointment scheduling software should a growing startup use,ok,3,3,0,3,1,9
+16,scheduling software,q089,recommendation,which scheduling tool works best with google workspace,ok,5,5,0,4,2,8
+16,scheduling software,q090,recommendation,what appointment scheduling software should I pick for consultants,ok,6,5,0,4,1,9
+16,scheduling software,q091,recommendation,which scheduling tool works best with microsoft 365 and outlook,ok,4,4,0,3,0,10
+16,scheduling software,q092,recommendation,recommend a booking system for a barbershop,ok,3,3,0,2,0,9
+16,scheduling software,q093,recommendation,what scheduling software should a dental office use,ok,2,1,0,5,0,10
+16,scheduling software,q094,recommendation,which booking tool should a personal trainer use,ok,3,3,0,2,4,6
+16,scheduling software,q095,recommendation,recommend a scheduling tool for a law firm,ok,2,2,0,2,0,10
+16,scheduling software,q096,recommendation,what scheduling tool should I use to take payments at booking,ok,3,3,0,3,3,7
+16,scheduling software,q097,recommendation,which scheduling tool should a recruiter use for interviews,ok,1,1,0,1,0,10
+16,scheduling software,q098,recommendation,recommend a scheduling tool that works with zoom,ok,2,2,0,2,2,8
+16,scheduling software,q099,recommendation,what booking software should a massage therapist use,ok,3,3,0,7,2,8
+16,scheduling software,q100,recommendation,which scheduling tool should a church use for volunteers,ok,1,1,0,3,1,9
+17,video conferencing and webinar software,q001,category,best video conferencing software,ok,5,5,0,2,1,9
+17,video conferencing and webinar software,q002,category,best video conferencing software 2026,ok,6,6,0,6,1,9
+17,video conferencing and webinar software,q003,category,best video meeting tool for small business,ok,3,3,0,2,0,10
+17,video conferencing and webinar software,q004,category,best enterprise video conferencing software,ok,4,4,0,4,2,8
+17,video conferencing and webinar software,q005,category,best free video conferencing software,ok,4,4,0,2,3,7
+17,video conferencing and webinar software,q006,category,best open source video conferencing software,ok,5,3,0,5,2,8
+17,video conferencing and webinar software,q007,category,cheapest video conferencing software,ok,5,3,2,2,2,8
+17,video conferencing and webinar software,q008,category,easiest video conferencing software to use,ok,3,3,0,3,2,8
+17,video conferencing and webinar software,q009,category,most popular video conferencing software,ok,6,6,0,4,0,10
+17,video conferencing and webinar software,q010,category,top rated video conferencing software,ok,7,6,1,5,1,9
+17,video conferencing and webinar software,q011,category,best webinar software,ok,5,5,0,0,0,10
+17,video conferencing and webinar software,q012,category,best webinar platform 2026,ok,6,6,0,3,2,8
+17,video conferencing and webinar software,q013,category,best free webinar software,ok,5,5,0,5,0,10
+17,video conferencing and webinar software,q014,category,best webinar software for small business,ok,4,4,0,4,0,10
+17,video conferencing and webinar software,q015,category,best video conferencing software for webinars,ok,4,4,0,3,1,9
+17,video conferencing and webinar software,q016,category,best video conferencing software for remote teams,ok,5,5,0,4,0,10
+17,video conferencing and webinar software,q017,category,most secure video conferencing software,ok,3,3,0,4,3,7
+17,video conferencing and webinar software,q018,category,best browser-based video conferencing with no download,ok,3,3,0,5,1,9
+17,video conferencing and webinar software,q019,category,best self-hosted video conferencing software,ok,5,3,0,3,0,10
+17,video conferencing and webinar software,q020,category,best video conferencing software for telehealth,ok,5,5,0,4,1,9
+17,video conferencing and webinar software,q021,category,best HIPAA compliant video conferencing for therapists,ok,6,4,0,3,0,10
+17,video conferencing and webinar software,q022,category,best video conferencing software for law firms,ok,3,3,0,3,2,8
+17,video conferencing and webinar software,q023,category,best video conferencing software for online teaching,ok,3,3,0,3,3,7
+17,video conferencing and webinar software,q024,category,best video conferencing software for schools,ok,3,3,0,3,0,10
+17,video conferencing and webinar software,q025,category,best video conferencing software for churches,ok,3,3,0,2,0,10
+17,video conferencing and webinar software,q026,category,best webinar software for B2B SaaS marketing,ok,5,5,0,7,0,10
+17,video conferencing and webinar software,q027,category,best video conferencing software for nonprofits,ok,3,3,0,2,0,10
+17,video conferencing and webinar software,q028,category,best video conferencing software for real estate agents,ok,3,3,0,3,0,10
+17,video conferencing and webinar software,q029,category,best video conferencing software for government agencies,ok,3,1,2,1,2,8
+17,video conferencing and webinar software,q030,category,best video conferencing software for sales demos,ok,5,5,0,3,1,9
+17,video conferencing and webinar software,q031,comparison,zoom vs microsoft teams,ok,2,2,0,2,1,9
+17,video conferencing and webinar software,q032,comparison,zoom vs google meet,ok,2,2,0,2,2,8
+17,video conferencing and webinar software,q033,comparison,microsoft teams vs google meet,ok,2,2,0,1,0,10
+17,video conferencing and webinar software,q034,comparison,zoom vs webex,ok,2,2,0,2,1,9
+17,video conferencing and webinar software,q035,comparison,microsoft teams vs webex,ok,2,2,0,2,2,8
+17,video conferencing and webinar software,q036,comparison,zoom vs goto meeting,ok,4,2,0,2,2,8
+17,video conferencing and webinar software,q037,comparison,zoom vs whereby,ok,2,2,0,4,1,9
+17,video conferencing and webinar software,q038,comparison,google meet vs jitsi,ok,2,2,0,2,2,8
+17,video conferencing and webinar software,q039,comparison,zoom vs ringcentral,ok,4,2,0,2,0,10
+17,video conferencing and webinar software,q040,comparison,goto webinar vs zoom webinars,ok,2,2,0,1,2,8
+17,video conferencing and webinar software,q041,comparison,on24 vs zoom webinars,ok,2,2,0,2,2,8
+17,video conferencing and webinar software,q042,comparison,livestorm vs demio,ok,2,2,0,2,2,8
+17,video conferencing and webinar software,q043,comparison,webinarjam vs demio,ok,3,2,0,2,2,8
+17,video conferencing and webinar software,q044,comparison,bigmarker vs on24,ok,2,2,0,2,0,10
+17,video conferencing and webinar software,q045,comparison,zoho meeting vs zoom,ok,2,2,0,1,4,6
+17,video conferencing and webinar software,q046,comparison,webex vs goto meeting,ok,3,2,0,2,2,8
+17,video conferencing and webinar software,q047,comparison,zoom vs microsoft teams vs google meet,ok,3,3,0,4,0,10
+17,video conferencing and webinar software,q048,comparison,microsoft teams vs google meet vs webex,ok,3,3,0,2,1,9
+17,video conferencing and webinar software,q049,comparison,livestorm vs demio vs zoom webinars,ok,3,3,0,2,0,10
+17,video conferencing and webinar software,q050,comparison,whereby vs jitsi vs google meet,ok,3,3,0,3,1,9
+17,video conferencing and webinar software,q051,comparison,zoom vs webex vs goto meeting,ok,3,3,0,3,1,9
+17,video conferencing and webinar software,q052,comparison,zoom or microsoft teams for a small business,ok,2,2,0,2,1,9
+17,video conferencing and webinar software,q053,comparison,zoom or google meet for webinars,ok,2,2,0,1,1,9
+17,video conferencing and webinar software,q054,comparison,microsoft teams or webex for a startup,ok,3,2,0,2,4,6
+17,video conferencing and webinar software,q055,comparison,zoom or doxy.me for telehealth,ok,2,2,0,1,4,6
+17,video conferencing and webinar software,q056,comparison,google meet or zoom for online teaching,ok,2,2,0,2,0,10
+17,video conferencing and webinar software,q057,comparison,zoom webinars or livestorm for saas webinars,ok,2,2,0,2,0,10
+17,video conferencing and webinar software,q058,comparison,microsoft teams or slack huddles for quick internal meetings,ok,2,2,0,2,2,8
+17,video conferencing and webinar software,q059,comparison,webinarjam or demio for course launches,ok,3,2,0,2,2,8
+17,video conferencing and webinar software,q060,comparison,ringcentral or zoom for phone and video in one platform,ok,2,2,0,2,1,9
+17,video conferencing and webinar software,q061,alternative,zoom alternatives,ok,9,8,0,2,1,9
+17,video conferencing and webinar software,q062,alternative,microsoft teams alternatives,ok,6,4,0,2,2,8
+17,video conferencing and webinar software,q063,alternative,google meet alternatives,ok,9,8,0,2,1,9
+17,video conferencing and webinar software,q064,alternative,webex alternatives,ok,9,8,0,3,0,10
+17,video conferencing and webinar software,q065,alternative,goto meeting alternatives,ok,9,8,0,1,3,7
+17,video conferencing and webinar software,q066,alternative,on24 alternatives,ok,9,8,0,2,0,10
+17,video conferencing and webinar software,q067,alternative,cheaper alternative to zoom,ok,5,4,0,3,1,9
+17,video conferencing and webinar software,q068,alternative,cheaper alternative to microsoft teams,ok,3,1,0,3,1,9
+17,video conferencing and webinar software,q069,alternative,cheaper alternative to on24,ok,6,5,0,6,3,7
+17,video conferencing and webinar software,q070,alternative,free alternative to zoom,ok,5,4,0,3,0,10
+17,video conferencing and webinar software,q071,alternative,free alternative to goto webinar,ok,6,5,0,4,1,9
+17,video conferencing and webinar software,q072,alternative,open source alternative to zoom,ok,4,3,0,2,1,9
+17,video conferencing and webinar software,q073,alternative,self-hosted alternative to microsoft teams,ok,3,1,0,4,1,9
+17,video conferencing and webinar software,q074,alternative,simpler alternative to microsoft teams,ok,5,3,0,1,3,7
+17,video conferencing and webinar software,q075,alternative,simpler alternative to webex,ok,5,4,0,4,3,7
+17,video conferencing and webinar software,q076,alternative,zoom alternative for small business,ok,7,6,0,2,0,10
+17,video conferencing and webinar software,q077,alternative,zoom alternative for telehealth,ok,7,6,0,6,2,8
+17,video conferencing and webinar software,q078,alternative,webinarjam alternatives,ok,8,6,0,4,1,9
+17,video conferencing and webinar software,q079,alternative,zoom webinars alternative for b2b marketing,ok,8,7,0,4,1,9
+17,video conferencing and webinar software,q080,alternative,skype alternatives,ok,6,5,0,1,0,10
+17,video conferencing and webinar software,q081,recommendation,which video meeting tool should I use for a 5 person team,ok,3,3,0,3,2,8
+17,video conferencing and webinar software,q082,recommendation,which video meeting tool should I use for a 50 person company,ok,3,3,0,3,0,10
+17,video conferencing and webinar software,q083,recommendation,what video conferencing software do you recommend for webinars,ok,3,3,0,3,1,9
+17,video conferencing and webinar software,q084,recommendation,what video conferencing software should I use for telehealth,ok,6,6,0,4,2,8
+17,video conferencing and webinar software,q085,recommendation,which video meeting tool is best value for money,ok,4,3,1,4,1,9
+17,video conferencing and webinar software,q086,recommendation,which video meeting tool works best with google workspace,ok,3,2,1,3,4,6
+17,video conferencing and webinar software,q087,recommendation,which video conferencing software works best with microsoft 365,ok,4,4,0,3,3,7
+17,video conferencing and webinar software,q088,recommendation,what video conferencing software should I pick for online teaching,ok,3,3,0,2,2,8
+17,video conferencing and webinar software,q089,recommendation,recommend a video conferencing tool for a law firm,ok,2,2,0,4,1,9
+17,video conferencing and webinar software,q090,recommendation,which webinar platform should I use for a b2b saas company,ok,5,5,0,4,1,9
+17,video conferencing and webinar software,q091,recommendation,what webinar software do you recommend for selling an online course,ok,3,3,0,4,0,10
+17,video conferencing and webinar software,q092,recommendation,recommend a video conferencing solution for a church,ok,3,3,0,2,1,9
+17,video conferencing and webinar software,q093,recommendation,which video conferencing tool should a nonprofit use,ok,2,2,0,2,0,10
+17,video conferencing and webinar software,q094,recommendation,what video conferencing software should a therapist use,ok,5,4,0,3,1,9
+17,video conferencing and webinar software,q095,recommendation,which video conferencing tool is most secure for confidential meetings,ok,2,2,0,3,3,7
+17,video conferencing and webinar software,q096,recommendation,what should I use for video calls with clients who don't want to install anything,ok,3,3,0,1,4,6
+17,video conferencing and webinar software,q097,recommendation,"which video conferencing platform should an enterprise with 5,000 employees use",ok,3,0,3,0,1,9
+17,video conferencing and webinar software,q098,recommendation,recommend a video conferencing tool for a remote-first startup,ok,3,3,0,2,0,10
+17,video conferencing and webinar software,q099,recommendation,"which webinar platform should I use for virtual events with 1,000 attendees",ok,4,4,0,4,2,8
+17,video conferencing and webinar software,q100,recommendation,what video conferencing software do you recommend for a real estate team,ok,3,3,0,6,0,10
+18,e-signature software,q001,category,best electronic signature software,ok,6,6,0,3,5,5
+18,e-signature software,q002,category,best electronic signature software 2026,ok,6,6,0,6,0,10
+18,e-signature software,q003,category,best e-signature tool for small business,ok,4,4,0,5,5,5
+18,e-signature software,q004,category,best enterprise electronic signature software,ok,5,4,0,4,3,7
+18,e-signature software,q005,category,best free electronic signature software,ok,7,7,0,7,6,4
+18,e-signature software,q006,category,best open source e-signature software,ok,3,2,0,1,3,7
+18,e-signature software,q007,category,cheapest e-signature software,ok,5,5,0,2,6,4
+18,e-signature software,q008,category,easiest electronic signature software to use,ok,5,5,0,3,2,8
+18,e-signature software,q009,category,most popular electronic signature software,ok,7,7,0,4,3,7
+18,e-signature software,q010,category,top rated electronic signature software,ok,9,7,0,1,0,10
+18,e-signature software,q011,category,best e-signature app for iphone,ok,6,5,0,4,3,7
+18,e-signature software,q012,category,best e-signature api for developers,ok,6,6,0,3,4,6
+18,e-signature software,q013,category,most secure e-signature software,ok,4,4,0,2,2,8
+18,e-signature software,q014,category,best self-hosted e-signature software,ok,0,0,0,0,0,10
+18,e-signature software,q015,category,best e-signature software for sending contracts in bulk,ok,5,5,0,4,2,8
+18,e-signature software,q016,category,best document signing software for startups,ok,6,6,0,5,4,6
+18,e-signature software,q017,category,best free way to sign a pdf online,ok,3,2,1,4,3,7
+18,e-signature software,q018,category,best proposal software with e-signature,ok,5,5,0,5,0,10
+18,e-signature software,q019,category,best e-signature software for contract management,ok,4,4,0,3,5,5
+18,e-signature software,q020,category,best electronic signature software for real estate,ok,4,4,0,3,1,9
+18,e-signature software,q021,category,best electronic signature software for HR documents,ok,4,4,0,3,2,8
+18,e-signature software,q022,category,best electronic signature software for law firms,ok,5,5,0,8,0,10
+18,e-signature software,q023,category,best electronic signature software for freelancers,ok,5,5,0,1,4,6
+18,e-signature software,q024,category,best HIPAA compliant e-signature software for healthcare,ok,6,6,0,5,2,8
+18,e-signature software,q025,category,best e-signature software for insurance agencies,ok,5,5,0,5,2,8
+18,e-signature software,q026,category,best e-signature software for accountants and CPA firms,ok,3,3,0,4,2,8
+18,e-signature software,q027,category,best e-signature software for construction contracts,ok,5,5,0,2,4,6
+18,e-signature software,q028,category,best e-signature software for government agencies,ok,3,3,0,3,5,5
+18,e-signature software,q029,category,best e-signature software for nonprofits,ok,3,3,0,2,4,6
+18,e-signature software,q030,category,best e-signature software for sales teams,ok,5,5,0,2,1,9
+18,e-signature software,q031,comparison,docusign vs pandadoc,ok,2,2,0,2,4,6
+18,e-signature software,q032,comparison,docusign vs adobe sign,ok,2,2,0,2,6,4
+18,e-signature software,q033,comparison,pandadoc vs adobe sign,ok,2,2,0,2,6,4
+18,e-signature software,q034,comparison,docusign vs dropbox sign,ok,2,0,0,0,0,10
+18,e-signature software,q035,comparison,docusign vs signnow,ok,2,2,0,2,5,5
+18,e-signature software,q036,comparison,pandadoc vs signnow,ok,2,2,0,2,3,7
+18,e-signature software,q037,comparison,docusign vs signwell,ok,2,2,0,2,4,6
+18,e-signature software,q038,comparison,dropbox sign vs signwell,ok,2,2,0,2,6,4
+18,e-signature software,q039,comparison,docusign vs zoho sign,ok,2,2,0,2,3,7
+18,e-signature software,q040,comparison,adobe acrobat sign vs dropbox sign,ok,2,2,0,2,5,5
+18,e-signature software,q041,comparison,signnow vs signwell,ok,2,2,0,2,2,8
+18,e-signature software,q042,comparison,docusign vs boldsign,ok,2,2,0,2,0,10
+18,e-signature software,q043,comparison,documenso vs docuseal,ok,2,2,0,2,0,10
+18,e-signature software,q044,comparison,pandadoc vs proposify,ok,2,2,0,2,5,5
+18,e-signature software,q045,comparison,docusign vs onespan sign,ok,2,2,0,5,4,6
+18,e-signature software,q046,comparison,docusign vs dotloop,ok,2,2,0,3,0,10
+18,e-signature software,q047,comparison,docusign vs pandadoc vs adobe sign,ok,3,3,0,3,0,10
+18,e-signature software,q048,comparison,pandadoc vs adobe sign vs dropbox sign,ok,0,0,0,0,6,4
+18,e-signature software,q049,comparison,signnow vs signwell vs boldsign,ok,3,3,0,3,3,7
+18,e-signature software,q050,comparison,documenso vs docuseal vs opensign,ok,4,3,0,5,0,10
+18,e-signature software,q051,comparison,pandadoc vs proposify vs qwilr,ok,3,3,0,3,1,9
+18,e-signature software,q052,comparison,docusign or pandadoc for a small business,ok,2,2,0,2,6,4
+18,e-signature software,q053,comparison,docusign or adobe sign for real estate,ok,2,2,0,2,1,9
+18,e-signature software,q054,comparison,pandadoc or dropbox sign for a startup,ok,2,0,0,0,6,4
+18,e-signature software,q055,comparison,docusign or dotloop for real estate agents,ok,2,2,0,2,4,6
+18,e-signature software,q056,comparison,dropbox sign or docusign for developers using an api,ok,2,2,0,3,2,8
+18,e-signature software,q057,comparison,zoho sign or docusign for a company already on zoho,ok,2,2,0,2,4,6
+18,e-signature software,q058,comparison,signnow or docusign for high volume sending,ok,2,2,0,2,6,4
+18,e-signature software,q059,comparison,docusign or clio for a law firm,ok,2,2,0,1,1,9
+18,e-signature software,q060,comparison,adobe acrobat sign or docusign for a company on microsoft 365,ok,0,0,0,0,0,10
+18,e-signature software,q061,alternative,docusign alternatives,ok,9,7,0,9,5,5
+18,e-signature software,q062,alternative,pandadoc alternatives,ok,9,8,0,4,0,10
+18,e-signature software,q063,alternative,adobe sign alternatives,ok,9,7,0,10,2,8
+18,e-signature software,q064,alternative,dropbox sign alternatives,ok,8,7,0,1,4,6
+18,e-signature software,q065,alternative,signnow alternatives,ok,8,5,2,4,2,8
+18,e-signature software,q066,alternative,cheaper alternative to docusign,ok,3,2,0,2,4,6
+18,e-signature software,q067,alternative,cheaper alternative to pandadoc,ok,7,6,0,3,2,8
+18,e-signature software,q068,alternative,cheaper alternative to adobe acrobat sign,ok,1,0,0,0,5,5
+18,e-signature software,q069,alternative,free alternative to docusign,ok,7,6,0,5,2,8
+18,e-signature software,q070,alternative,free alternative to dropbox sign,ok,5,4,0,4,4,6
+18,e-signature software,q071,alternative,open source alternative to docusign,ok,4,3,0,3,0,10
+18,e-signature software,q072,alternative,self-hosted alternative to docusign,ok,4,3,0,5,3,7
+18,e-signature software,q073,alternative,simpler alternative to pandadoc,ok,6,5,0,1,4,6
+18,e-signature software,q074,alternative,simpler alternative to docusign,ok,6,5,0,1,3,7
+18,e-signature software,q075,alternative,docusign alternative for small business,ok,6,5,0,3,1,9
+18,e-signature software,q076,alternative,docusign alternative for real estate,ok,7,6,0,6,2,8
+18,e-signature software,q077,alternative,pandadoc alternative for agencies,ok,5,4,0,5,3,7
+18,e-signature software,q078,alternative,hellosign alternatives,ok,10,8,0,4,6,4
+18,e-signature software,q079,alternative,docusign alternative for healthcare,ok,7,6,0,2,4,6
+18,e-signature software,q080,alternative,docusign api alternative for developers,ok,8,5,1,2,3,7
+18,e-signature software,q081,recommendation,which e-signature tool should I use for a 5 person team,ok,5,5,0,2,1,9
+18,e-signature software,q082,recommendation,which e-signature tool should I use for a 50 person company,ok,4,4,0,2,4,6
+18,e-signature software,q083,recommendation,what electronic signature software do you recommend for real estate,ok,6,5,0,5,5,5
+18,e-signature software,q084,recommendation,which e-signature tool is best for HR documents,ok,4,3,0,4,3,7
+18,e-signature software,q085,recommendation,which e-signature tool is best value for money,ok,6,6,0,5,5,5
+18,e-signature software,q086,recommendation,what electronic signature software should a growing startup use,ok,4,4,0,1,6,4
+18,e-signature software,q087,recommendation,which e-signature tool works best with google workspace,ok,4,4,0,4,4,6
+18,e-signature software,q088,recommendation,what electronic signature software should I pick for law firms,ok,3,3,0,4,4,6
+18,e-signature software,q089,recommendation,which e-signature tool works best with microsoft 365,ok,3,3,0,2,2,8
+18,e-signature software,q090,recommendation,which e-signature tool works best with salesforce,ok,3,3,0,4,4,6
+18,e-signature software,q091,recommendation,recommend an e-signature tool for a freelancer who sends a few contracts a month,ok,3,2,1,3,1,9
+18,e-signature software,q092,recommendation,what e-signature software should a healthcare practice use,ok,3,3,0,3,5,5
+18,e-signature software,q093,recommendation,recommend an e-signature tool for a property management company,ok,4,3,0,2,0,10
+18,e-signature software,q094,recommendation,which e-signature api should I use to embed signing in my app,ok,3,3,0,4,6,4
+18,e-signature software,q095,recommendation,what e-signature tool should I use if I only need to sign a few documents a year for free,ok,3,3,0,3,6,4
+18,e-signature software,q096,recommendation,which e-signature software should an insurance agency use,ok,5,5,0,3,0,10
+18,e-signature software,q097,recommendation,recommend an e-signature tool for a nonprofit,ok,3,3,0,2,4,6
+18,e-signature software,q098,recommendation,what e-signature software should a construction company use for subcontractor agreements,ok,2,2,0,3,2,8
+18,e-signature software,q099,recommendation,which e-signature tool is most legally defensible for enterprise contracts,ok,4,4,0,3,1,9
+18,e-signature software,q100,recommendation,what e-signature software do you recommend for a sales team sending proposals,ok,4,4,0,3,5,5
+19,marketing automation software,q001,category,best marketing automation software,ok,7,7,0,5,1,9
+19,marketing automation software,q002,category,best marketing automation software 2026,ok,7,7,0,7,4,6
+19,marketing automation software,q003,category,best marketing automation platform for small business,ok,6,6,0,4,0,10
+19,marketing automation software,q004,category,best enterprise marketing automation software,ok,6,5,0,6,1,9
+19,marketing automation software,q005,category,best free marketing automation software,ok,5,5,0,3,0,10
+19,marketing automation software,q006,category,best open source marketing automation software,ok,3,1,0,5,0,10
+19,marketing automation software,q007,category,cheapest marketing automation software,ok,3,3,0,3,2,8
+19,marketing automation software,q008,category,easiest marketing automation software to use,ok,5,5,0,3,0,10
+19,marketing automation software,q009,category,most popular marketing automation software,ok,11,10,0,3,1,9
+19,marketing automation software,q010,category,top rated marketing automation software,ok,9,9,0,4,1,9
+19,marketing automation software,q011,category,best marketing automation software for startups,ok,4,4,0,4,1,9
+19,marketing automation software,q012,category,best B2B marketing automation platform,ok,5,5,0,3,0,10
+19,marketing automation software,q013,category,best marketing automation software with a built-in CRM,ok,4,4,0,1,0,10
+19,marketing automation software,q014,category,best AI marketing automation tools,ok,7,7,0,4,0,10
+19,marketing automation software,q015,category,best marketing automation software for lead scoring and nurturing,ok,5,5,0,4,0,10
+19,marketing automation software,q016,category,best omnichannel marketing automation platform for email sms and push,ok,5,5,0,4,2,8
+19,marketing automation software,q017,category,best customer engagement platform for mobile apps,ok,4,4,0,3,3,7
+19,marketing automation software,q018,category,best marketing automation software for B2B SaaS,ok,6,6,0,3,2,8
+19,marketing automation software,q019,category,best marketing automation software for ecommerce,ok,3,3,0,3,0,10
+19,marketing automation software,q020,category,best marketing automation software for shopify stores,ok,5,5,0,2,0,10
+19,marketing automation software,q021,category,best marketing automation software for agencies,ok,5,5,0,4,1,9
+19,marketing automation software,q022,category,best marketing automation software for real estate agents,ok,2,2,0,8,2,8
+19,marketing automation software,q023,category,best marketing automation software for healthcare,ok,2,2,0,5,2,8
+19,marketing automation software,q024,category,best marketing automation software for law firms,ok,2,2,0,6,0,10
+19,marketing automation software,q025,category,best marketing automation software for financial advisors,ok,0,0,0,0,2,8
+19,marketing automation software,q026,category,best marketing automation software for nonprofits,ok,4,4,0,4,0,10
+19,marketing automation software,q027,category,best marketing automation software for higher education,ok,3,3,0,3,2,8
+19,marketing automation software,q028,category,best marketing automation software for coaches and course creators,ok,5,5,0,3,0,10
+19,marketing automation software,q029,category,best marketing automation software for franchises,ok,2,1,0,4,1,9
+19,marketing automation software,q030,category,best marketing automation software for manufacturers,ok,2,2,0,4,1,9
+19,marketing automation software,q031,comparison,hubspot vs marketo,ok,2,2,0,2,0,10
+19,marketing automation software,q032,comparison,hubspot vs activecampaign,ok,2,2,0,2,3,7
+19,marketing automation software,q033,comparison,marketo vs pardot,ok,2,2,0,3,1,9
+19,marketing automation software,q034,comparison,hubspot vs salesforce marketing cloud,ok,3,2,0,2,2,8
+19,marketing automation software,q035,comparison,activecampaign vs klaviyo,ok,2,2,0,2,0,10
+19,marketing automation software,q036,comparison,hubspot vs klaviyo,ok,2,2,0,2,3,7
+19,marketing automation software,q037,comparison,braze vs iterable,ok,2,2,0,2,1,9
+19,marketing automation software,q038,comparison,customer.io vs braze,ok,2,2,0,2,3,7
+19,marketing automation software,q039,comparison,marketo vs eloqua,ok,2,2,0,2,0,10
+19,marketing automation software,q040,comparison,activecampaign vs mailchimp,ok,2,2,0,2,2,8
+19,marketing automation software,q041,comparison,klaviyo vs omnisend,ok,2,2,0,1,2,8
+19,marketing automation software,q042,comparison,hubspot vs pardot,ok,2,2,0,1,2,8
+19,marketing automation software,q043,comparison,activecampaign vs keap,ok,2,2,0,2,2,8
+19,marketing automation software,q044,comparison,brevo vs activecampaign,ok,2,2,0,2,0,10
+19,marketing automation software,q045,comparison,highlevel vs hubspot,ok,2,2,0,2,2,8
+19,marketing automation software,q046,comparison,ortto vs activecampaign,ok,2,2,0,2,0,10
+19,marketing automation software,q047,comparison,hubspot vs marketo vs pardot,ok,3,3,0,3,3,7
+19,marketing automation software,q048,comparison,hubspot vs activecampaign vs brevo,ok,3,3,0,3,0,10
+19,marketing automation software,q049,comparison,braze vs iterable vs customer.io,ok,4,3,0,3,2,8
+19,marketing automation software,q050,comparison,marketo vs eloqua vs salesforce marketing cloud,ok,4,4,0,3,0,10
+19,marketing automation software,q051,comparison,klaviyo vs omnisend vs drip,ok,3,3,0,3,3,7
+19,marketing automation software,q052,comparison,hubspot or activecampaign for B2B SaaS,ok,2,2,0,2,1,9
+19,marketing automation software,q053,comparison,hubspot or marketo for a small business,ok,2,2,0,2,5,5
+19,marketing automation software,q054,comparison,klaviyo or mailchimp for a shopify store,ok,2,2,0,2,0,10
+19,marketing automation software,q055,comparison,marketo or pardot for a company that runs on salesforce crm,ok,2,2,0,2,1,9
+19,marketing automation software,q056,comparison,braze or customer.io for a mobile app,ok,2,2,0,2,3,7
+19,marketing automation software,q057,comparison,keap or activecampaign for a coaching business,ok,2,2,0,2,5,5
+19,marketing automation software,q058,comparison,highlevel or activecampaign for a marketing agency,ok,2,2,0,2,2,8
+19,marketing automation software,q059,comparison,hubspot or zoho marketing automation for a budget-conscious team,ok,2,2,0,3,2,8
+19,marketing automation software,q060,comparison,salesforce marketing cloud or braze for a large retailer,ok,2,2,0,2,3,7
+19,marketing automation software,q061,alternative,hubspot alternatives,ok,4,3,0,4,1,9
+19,marketing automation software,q062,alternative,marketo alternatives,ok,9,8,0,4,2,8
+19,marketing automation software,q063,alternative,pardot alternatives,ok,7,4,2,2,1,9
+19,marketing automation software,q064,alternative,activecampaign alternatives,ok,9,8,0,3,0,10
+19,marketing automation software,q065,alternative,klaviyo alternatives,ok,10,9,0,4,4,6
+19,marketing automation software,q066,alternative,salesforce marketing cloud alternatives,ok,12,10,0,3,2,8
+19,marketing automation software,q067,alternative,braze alternatives,ok,8,5,2,5,0,10
+19,marketing automation software,q068,alternative,cheaper alternative to hubspot,ok,1,0,0,2,2,8
+19,marketing automation software,q069,alternative,cheaper alternative to marketo,ok,6,5,0,4,0,10
+19,marketing automation software,q070,alternative,cheaper alternative to klaviyo,ok,7,6,0,4,0,10
+19,marketing automation software,q071,alternative,free alternative to hubspot,ok,3,2,0,4,1,9
+19,marketing automation software,q072,alternative,open source alternative to hubspot,ok,3,2,0,1,1,9
+19,marketing automation software,q073,alternative,self-hosted alternative to activecampaign,ok,1,0,0,0,0,10
+19,marketing automation software,q074,alternative,simpler alternative to marketo,ok,6,5,0,4,2,8
+19,marketing automation software,q075,alternative,simpler alternative to salesforce marketing cloud,ok,6,5,0,4,1,9
+19,marketing automation software,q076,alternative,hubspot alternative for small business,ok,4,3,0,3,1,9
+19,marketing automation software,q077,alternative,hubspot alternative for B2B SaaS,ok,3,2,0,5,0,10
+19,marketing automation software,q078,alternative,keap alternatives,ok,4,3,0,3,3,7
+19,marketing automation software,q079,alternative,eloqua alternatives,ok,7,6,0,3,3,7
+19,marketing automation software,q080,alternative,mailchimp alternative with better automation,ok,6,5,0,3,3,7
+19,marketing automation software,q081,recommendation,which marketing automation platform should I use for a 5 person team,ok,3,3,0,3,1,9
+19,marketing automation software,q082,recommendation,which marketing automation platform should I use for a 50 person company,ok,4,4,0,2,3,7
+19,marketing automation software,q083,recommendation,what marketing automation software do you recommend for B2B SaaS,ok,5,5,0,0,3,7
+19,marketing automation software,q084,recommendation,which marketing automation platform is best for ecommerce,ok,4,4,0,3,0,10
+19,marketing automation software,q085,recommendation,which marketing automation platform is best value for money,ok,0,0,0,0,2,8
+19,marketing automation software,q086,recommendation,what marketing automation software should a growing startup use,ok,3,3,0,2,2,8
+19,marketing automation software,q087,recommendation,which marketing automation platform works best with google workspace,ok,3,3,0,6,0,10
+19,marketing automation software,q088,recommendation,what marketing automation software should I pick for agencies,ok,4,4,0,4,1,9
+19,marketing automation software,q089,recommendation,which marketing automation platform works best with salesforce crm,ok,4,4,0,2,4,6
+19,marketing automation software,q090,recommendation,which marketing automation platform works best with shopify,ok,3,3,0,3,2,8
+19,marketing automation software,q091,recommendation,which marketing automation platform works best with microsoft dynamics,ok,4,4,0,2,1,9
+19,marketing automation software,q092,recommendation,recommend a marketing automation platform for a real estate brokerage,ok,2,2,0,3,0,10
+19,marketing automation software,q093,recommendation,what marketing automation software should a law firm use,ok,2,2,0,5,1,9
+19,marketing automation software,q094,recommendation,recommend a marketing automation tool for a financial advisor,ok,3,2,1,1,1,9
+19,marketing automation software,q095,recommendation,which marketing automation platform should a healthcare practice use,ok,2,2,0,3,0,10
+19,marketing automation software,q096,recommendation,what marketing automation software should a nonprofit use,ok,4,4,0,4,0,10
+19,marketing automation software,q097,recommendation,which marketing automation platform should I use for a mobile app,ok,2,2,0,4,2,8
+19,marketing automation software,q098,recommendation,what marketing automation tool should a solo coach use,ok,3,3,0,3,0,10
+19,marketing automation software,q099,recommendation,which marketing automation platform should an enterprise with a large sales team use,ok,4,4,0,3,3,7
+19,marketing automation software,q100,recommendation,what marketing automation software should I switch to from mailchimp,ok,6,5,0,3,3,7
+20,SEO tools,q001,category,best SEO software,ok,3,3,0,2,0,10
+20,SEO tools,q002,category,best SEO software 2026,ok,5,5,0,7,1,9
+20,SEO tools,q003,category,best SEO tool for small business,ok,2,2,0,2,1,9
+20,SEO tools,q004,category,best enterprise SEO software,ok,6,6,0,3,0,10
+20,SEO tools,q005,category,best free SEO software,ok,5,5,0,3,2,8
+20,SEO tools,q006,category,best SEO software for agencies,ok,3,3,0,3,2,8
+20,SEO tools,q007,category,cheapest SEO software,ok,5,5,0,3,0,10
+20,SEO tools,q008,category,easiest SEO software to use,ok,5,5,0,5,1,9
+20,SEO tools,q009,category,most popular SEO software,ok,8,8,0,4,0,10
+20,SEO tools,q010,category,top rated SEO software,ok,6,6,0,3,1,9
+20,SEO tools,q011,category,best SEO software for ecommerce sites,ok,4,4,0,3,0,10
+20,SEO tools,q012,category,best SEO software for content teams,ok,5,5,0,2,0,10
+20,SEO tools,q013,category,best rank tracking tool,ok,5,5,0,4,0,10
+20,SEO tools,q014,category,best rank tracker 2026,ok,4,4,0,3,0,10
+20,SEO tools,q015,category,best free rank tracker,ok,3,3,0,3,4,6
+20,SEO tools,q016,category,cheapest rank tracker,ok,2,1,1,4,4,6
+20,SEO tools,q017,category,best local rank tracker,ok,2,2,0,2,0,10
+20,SEO tools,q018,category,best local SEO tool,ok,5,5,0,4,2,8
+20,SEO tools,q019,category,best keyword research tool,ok,3,3,0,2,0,10
+20,SEO tools,q020,category,best backlink checker,ok,5,5,0,2,0,10
+20,SEO tools,q021,category,best technical SEO audit tool,ok,4,4,0,4,1,9
+20,SEO tools,q022,category,best SEO tool for bloggers,ok,5,5,0,4,2,8
+20,SEO tools,q023,category,best SEO tool for beginners,ok,3,3,0,4,2,8
+20,SEO tools,q024,category,best SEO tool for shopify stores,ok,3,3,0,3,0,10
+20,SEO tools,q025,category,best SEO plugin for wordpress,ok,3,3,0,3,0,10
+20,SEO tools,q026,category,best tool to track google AI overviews,ok,6,5,0,3,1,9
+20,SEO tools,q027,category,best AI visibility tracking tool,ok,4,4,0,3,1,9
+20,SEO tools,q028,category,best tool to track brand mentions in chatgpt and perplexity,ok,4,4,0,1,2,8
+20,SEO tools,q029,category,best rank tracker for agencies,ok,7,7,0,9,0,10
+20,SEO tools,q030,category,best SEO content optimization tool,ok,5,5,0,3,0,10
+20,SEO tools,q031,comparison,semrush vs ahrefs,ok,2,2,0,2,0,10
+20,SEO tools,q032,comparison,semrush vs moz,ok,2,2,0,2,0,10
+20,SEO tools,q033,comparison,ahrefs vs moz,ok,2,2,0,2,1,9
+20,SEO tools,q034,comparison,semrush vs se ranking,ok,2,2,0,3,2,8
+20,SEO tools,q035,comparison,ahrefs vs se ranking,ok,2,2,0,2,2,8
+20,SEO tools,q036,comparison,semrush vs similarweb,ok,2,2,0,6,0,10
+20,SEO tools,q037,comparison,accuranker vs wincher,ok,2,2,0,2,1,9
+20,SEO tools,q038,comparison,accuranker vs se ranking,ok,5,2,0,5,0,10
+20,SEO tools,q039,comparison,surfer seo vs clearscope,ok,2,0,0,0,2,8
+20,SEO tools,q040,comparison,surfer seo vs frase,ok,2,2,0,2,2,8
+20,SEO tools,q041,comparison,screaming frog vs sitebulb,ok,7,2,0,2,0,10
+20,SEO tools,q042,comparison,semrush vs spyfu,ok,2,2,0,2,2,8
+20,SEO tools,q043,comparison,ubersuggest vs semrush,ok,2,2,0,2,0,10
+20,SEO tools,q044,comparison,brightedge vs conductor,ok,2,2,0,2,0,10
+20,SEO tools,q045,comparison,yoast vs rank math,ok,2,2,0,2,0,10
+20,SEO tools,q046,comparison,profound vs peec ai,ok,2,2,0,2,0,10
+20,SEO tools,q047,comparison,semrush vs ahrefs vs moz,ok,3,3,0,2,1,9
+20,SEO tools,q048,comparison,ahrefs vs moz vs se ranking,ok,3,3,0,2,1,9
+20,SEO tools,q049,comparison,accuranker vs wincher vs se ranking,ok,3,3,0,3,2,8
+20,SEO tools,q050,comparison,surfer seo vs clearscope vs marketmuse,ok,4,3,0,3,0,10
+20,SEO tools,q051,comparison,brightedge vs conductor vs seoclarity,ok,3,3,0,5,5,5
+20,SEO tools,q052,comparison,semrush or ahrefs for a small business,ok,2,2,0,2,1,9
+20,SEO tools,q053,comparison,semrush or moz for agencies,ok,2,2,0,1,1,9
+20,SEO tools,q054,comparison,ahrefs or se ranking for a startup,ok,2,2,0,2,2,8
+20,SEO tools,q055,comparison,screaming frog or sitebulb for technical audits,ok,2,2,0,2,3,7
+20,SEO tools,q056,comparison,accuranker or wincher for local rank tracking,ok,2,2,0,2,1,9
+20,SEO tools,q057,comparison,semrush or ahrefs for tracking AI overviews,ok,3,2,0,2,3,7
+20,SEO tools,q058,comparison,mangools or ubersuggest for a beginner,ok,2,2,0,1,0,10
+20,SEO tools,q059,comparison,nightwatch or pro rank tracker for an agency,ok,2,2,0,2,4,6
+20,SEO tools,q060,comparison,brightedge or seoclarity for an enterprise,ok,2,2,0,2,0,10
+20,SEO tools,q061,alternative,semrush alternatives,ok,9,8,0,3,4,6
+20,SEO tools,q062,alternative,ahrefs alternatives,ok,9,8,0,9,0,10
+20,SEO tools,q063,alternative,moz alternatives,ok,7,6,0,1,3,7
+20,SEO tools,q064,alternative,se ranking alternatives,ok,9,0,8,6,1,9
+20,SEO tools,q065,alternative,screaming frog alternatives,ok,8,6,0,2,3,7
+20,SEO tools,q066,alternative,accuranker alternatives,ok,10,9,0,2,3,7
+20,SEO tools,q067,alternative,surfer seo alternatives,ok,6,5,0,5,1,9
+20,SEO tools,q068,alternative,similarweb alternatives,ok,7,5,0,4,0,10
+20,SEO tools,q069,alternative,cheaper alternative to semrush,ok,4,3,0,3,2,8
+20,SEO tools,q070,alternative,cheaper alternative to ahrefs,ok,5,4,0,2,0,10
+20,SEO tools,q071,alternative,cheaper alternative to accuranker,ok,7,6,0,4,0,10
+20,SEO tools,q072,alternative,free alternative to semrush,ok,8,7,0,3,0,10
+20,SEO tools,q073,alternative,free alternative to ahrefs,ok,7,6,0,5,3,7
+20,SEO tools,q074,alternative,free alternative to screaming frog,ok,2,1,0,5,2,8
+20,SEO tools,q075,alternative,simpler alternative to ahrefs,ok,5,4,0,6,3,7
+20,SEO tools,q076,alternative,simpler alternative to semrush,ok,7,6,0,2,3,7
+20,SEO tools,q077,alternative,semrush alternative for small business,ok,7,6,0,5,2,8
+20,SEO tools,q078,alternative,ahrefs alternative for agencies,ok,1,0,0,0,0,10
+20,SEO tools,q079,alternative,brightedge alternative for mid-size companies,ok,6,5,0,5,0,10
+20,SEO tools,q080,alternative,profound alternative for smaller brands,ok,0,0,0,4,0,10
+20,SEO tools,q081,recommendation,which SEO tool should I use for a 5 person team,ok,4,3,0,2,0,10
+20,SEO tools,q082,recommendation,what SEO software do you recommend for agencies,ok,3,3,0,3,1,9
+20,SEO tools,q083,recommendation,recommend an SEO tool for a small business owner,ok,5,5,0,2,1,9
+20,SEO tools,q084,recommendation,which SEO tool is best value for money,ok,8,8,0,5,1,9
+20,SEO tools,q085,recommendation,what SEO software should a growing startup use,ok,5,5,0,2,3,7
+20,SEO tools,q086,recommendation,which SEO tool works best with google workspace,ok,4,4,0,2,5,5
+20,SEO tools,q087,recommendation,what SEO software should I pick for ecommerce sites,ok,5,5,0,2,2,8
+20,SEO tools,q088,recommendation,which rank tracker should I use for 500 keywords,ok,5,5,0,4,1,9
+20,SEO tools,q089,recommendation,what rank tracker do you recommend for an agency with 50 clients,ok,6,5,0,5,1,9
+20,SEO tools,q090,recommendation,which SEO tool should I use to track rankings in AI overviews,ok,4,4,0,2,3,7
+20,SEO tools,q091,recommendation,recommend a local SEO tool for a plumbing company,ok,4,4,0,3,1,9
+20,SEO tools,q092,recommendation,which SEO tool should a solo blogger use,ok,5,5,0,6,1,9
+20,SEO tools,q093,recommendation,what SEO tool should a beginner start with,ok,2,2,0,1,2,8
+20,SEO tools,q094,recommendation,which SEO tool works best with wordpress,ok,4,3,0,3,1,9
+20,SEO tools,q095,recommendation,which SEO tool works best with shopify,ok,3,3,0,3,0,10
+20,SEO tools,q096,recommendation,what enterprise SEO platform do you recommend for a site with 100k pages,ok,7,6,0,4,3,7
+20,SEO tools,q097,recommendation,which tool should I use to see if chatgpt mentions my brand,ok,1,1,0,4,0,10
+20,SEO tools,q098,recommendation,recommend an SEO tool for a nonprofit,ok,5,5,0,3,0,10
+20,SEO tools,q099,recommendation,what SEO tool should an in-house marketing team of 3 use,ok,2,2,0,2,0,10
+20,SEO tools,q100,recommendation,which keyword research tool should I use if I can only pay for one,ok,2,2,0,2,2,8
+21,AI writing tools,q001,category,best AI writing tool,ok,3,3,0,3,1,9
+21,AI writing tools,q002,category,best AI writing tool 2026,ok,6,6,0,3,0,10
+21,AI writing tools,q003,category,best AI writing assistant for small business,ok,5,5,0,2,0,10
+21,AI writing tools,q004,category,best enterprise AI writing tool,ok,3,3,0,3,1,9
+21,AI writing tools,q005,category,best free AI writing tool,ok,7,7,0,4,3,7
+21,AI writing tools,q006,category,cheapest AI writing tool,ok,3,3,0,2,0,10
+21,AI writing tools,q007,category,easiest AI writing tool to use,ok,4,4,0,5,2,8
+21,AI writing tools,q008,category,most popular AI writing tool,ok,9,1,6,3,0,10
+21,AI writing tools,q009,category,top rated AI writing tool,ok,5,5,0,4,1,9
+21,AI writing tools,q010,category,best AI writing tool for marketing teams,ok,4,4,0,3,1,9
+21,AI writing tools,q011,category,best AI writing tool for bloggers,ok,4,4,0,3,2,8
+21,AI writing tools,q012,category,best AI tool for writing blog posts,ok,5,5,0,5,5,5
+21,AI writing tools,q013,category,best AI writing tool for SEO content,ok,4,4,0,4,0,10
+21,AI writing tools,q014,category,best AI copywriting tool,ok,5,5,0,5,3,7
+21,AI writing tools,q015,category,best AI tool for marketing copy,ok,3,3,0,3,2,8
+21,AI writing tools,q016,category,best AI writing tool for fiction writers,ok,4,3,0,2,3,7
+21,AI writing tools,q017,category,best AI tool for writing a novel,ok,4,3,0,3,0,10
+21,AI writing tools,q018,category,best AI writing tool for students,ok,5,5,0,0,2,8
+21,AI writing tools,q019,category,best AI writing tool for academic writing,ok,2,2,0,4,0,10
+21,AI writing tools,q020,category,best AI tool for writing emails,ok,5,5,0,3,0,10
+21,AI writing tools,q021,category,best AI tool for writing product descriptions,ok,4,4,0,3,3,7
+21,AI writing tools,q022,category,best AI writing tool for ecommerce,ok,7,7,0,1,2,8
+21,AI writing tools,q023,category,best AI writing tool for nonprofits,ok,4,4,0,2,0,10
+21,AI writing tools,q024,category,best AI tool for grant writing,ok,2,2,0,4,1,9
+21,AI writing tools,q025,category,best AI grammar checker,ok,4,4,0,5,3,7
+21,AI writing tools,q026,category,best AI paraphrasing tool,ok,3,3,0,5,1,9
+21,AI writing tools,q027,category,best AI writing tool for social media posts,ok,2,2,0,8,2,8
+21,AI writing tools,q028,category,best AI writing tool for long-form content,ok,5,5,0,3,0,10
+21,AI writing tools,q029,category,best AI writing assistant for teams,ok,6,6,0,2,3,7
+21,AI writing tools,q030,category,best AI writing tool for startups,ok,5,5,0,2,0,10
+21,AI writing tools,q031,comparison,jasper vs copy.ai,ok,3,2,0,2,1,9
+21,AI writing tools,q032,comparison,jasper vs writesonic,ok,4,2,0,2,2,8
+21,AI writing tools,q033,comparison,copy.ai vs writesonic,ok,2,2,0,5,4,6
+21,AI writing tools,q034,comparison,jasper vs grammarly,ok,2,2,0,2,2,8
+21,AI writing tools,q035,comparison,chatgpt vs claude for writing,ok,2,2,0,1,0,10
+21,AI writing tools,q036,comparison,chatgpt vs jasper,ok,2,2,0,4,1,9
+21,AI writing tools,q037,comparison,claude vs gemini for writing,ok,2,2,0,2,0,10
+21,AI writing tools,q038,comparison,grammarly vs quillbot,ok,2,2,0,2,2,8
+21,AI writing tools,q039,comparison,grammarly vs prowritingaid,ok,2,2,0,2,1,9
+21,AI writing tools,q040,comparison,quillbot vs wordtune,ok,2,2,0,2,3,7
+21,AI writing tools,q041,comparison,sudowrite vs novelai,ok,4,2,0,2,0,10
+21,AI writing tools,q042,comparison,jasper vs rytr,ok,2,2,0,2,2,8
+21,AI writing tools,q043,comparison,writesonic vs rytr,ok,4,2,0,2,0,10
+21,AI writing tools,q044,comparison,surfer seo vs frase,ok,3,2,0,2,2,8
+21,AI writing tools,q045,comparison,notion ai vs chatgpt,ok,2,2,0,2,0,10
+21,AI writing tools,q046,comparison,microsoft copilot vs chatgpt for writing,ok,2,2,0,2,0,10
+21,AI writing tools,q047,comparison,jasper vs copy.ai vs writesonic,ok,6,3,0,3,0,10
+21,AI writing tools,q048,comparison,chatgpt vs claude vs gemini for writing,ok,3,3,0,3,0,10
+21,AI writing tools,q049,comparison,grammarly vs quillbot vs wordtune,ok,3,3,0,2,2,8
+21,AI writing tools,q050,comparison,copy.ai vs writesonic vs grammarly,ok,5,3,0,3,4,6
+21,AI writing tools,q051,comparison,sudowrite vs novelcrafter vs novelai,ok,3,3,0,3,2,8
+21,AI writing tools,q052,comparison,jasper or copy.ai for a small business,ok,2,2,0,3,3,7
+21,AI writing tools,q053,comparison,jasper or writesonic for marketing teams,ok,4,2,0,2,2,8
+21,AI writing tools,q054,comparison,copy.ai or grammarly for a startup,ok,2,2,0,2,1,9
+21,AI writing tools,q055,comparison,chatgpt or claude for writing a novel,ok,2,2,0,2,0,10
+21,AI writing tools,q056,comparison,grammarly or quillbot for students,ok,2,2,0,2,0,10
+21,AI writing tools,q057,comparison,koala or writesonic for SEO blog posts,ok,2,2,0,5,0,10
+21,AI writing tools,q058,comparison,claude or jasper for brand voice,ok,2,2,0,2,1,9
+21,AI writing tools,q059,comparison,gemini or microsoft copilot for writing emails,ok,2,2,0,3,1,9
+21,AI writing tools,q060,comparison,jenni ai or paperpal for academic writing,ok,2,2,0,2,0,10
+21,AI writing tools,q061,alternative,jasper alternatives,ok,10,9,0,3,1,9
+21,AI writing tools,q062,alternative,copy.ai alternatives,ok,9,8,0,2,0,10
+21,AI writing tools,q063,alternative,writesonic alternatives,ok,8,7,0,5,1,9
+21,AI writing tools,q064,alternative,grammarly alternatives,ok,8,7,0,0,1,9
+21,AI writing tools,q065,alternative,quillbot alternatives,ok,8,7,0,3,1,9
+21,AI writing tools,q066,alternative,sudowrite alternatives,ok,6,5,0,5,0,10
+21,AI writing tools,q067,alternative,rytr alternatives,ok,8,7,0,4,1,9
+21,AI writing tools,q068,alternative,notion ai alternatives,ok,2,1,0,2,0,10
+21,AI writing tools,q069,alternative,cheaper alternative to jasper,ok,6,5,0,4,1,9
+21,AI writing tools,q070,alternative,cheaper alternative to copy.ai,ok,5,4,0,4,3,7
+21,AI writing tools,q071,alternative,cheaper alternative to grammarly premium,ok,5,4,0,4,0,10
+21,AI writing tools,q072,alternative,free alternative to jasper,ok,6,5,0,6,2,8
+21,AI writing tools,q073,alternative,free alternative to grammarly,ok,6,5,0,4,0,10
+21,AI writing tools,q074,alternative,free alternative to chatgpt for writing,ok,6,5,0,4,2,8
+21,AI writing tools,q075,alternative,simpler alternative to copy.ai,ok,5,4,0,6,1,9
+21,AI writing tools,q076,alternative,simpler alternative to jasper,ok,5,4,0,7,0,10
+21,AI writing tools,q077,alternative,jasper alternative for small business,ok,7,6,0,4,0,10
+21,AI writing tools,q078,alternative,grammarly alternative for academic writing,ok,5,4,0,4,2,8
+21,AI writing tools,q079,alternative,chatgpt alternative for writing blog posts,ok,6,5,0,5,2,8
+21,AI writing tools,q080,alternative,quillbot alternative for students,ok,4,3,0,3,2,8
+21,AI writing tools,q081,recommendation,which AI writing assistant should I use for a 5 person team,ok,5,3,0,2,0,10
+21,AI writing tools,q082,recommendation,which AI writing assistant should I use for a 50 person company,ok,3,3,0,2,0,10
+21,AI writing tools,q083,recommendation,what AI writing tool do you recommend for marketing teams,ok,5,5,0,2,0,10
+21,AI writing tools,q084,recommendation,which AI writing assistant is best value for money,ok,6,6,0,5,0,10
+21,AI writing tools,q085,recommendation,what AI writing tool should a growing startup use,ok,5,5,0,2,0,10
+21,AI writing tools,q086,recommendation,which AI writing assistant works best with google workspace,ok,5,3,0,3,2,8
+21,AI writing tools,q087,recommendation,which AI writing assistant works best with microsoft 365,ok,3,3,0,2,4,6
+21,AI writing tools,q088,recommendation,what AI writing tool should I pick for fiction writers,ok,5,4,0,2,0,10
+21,AI writing tools,q089,recommendation,recommend an AI writing tool for a nonprofit,ok,2,2,0,2,0,10
+21,AI writing tools,q090,recommendation,recommend an AI writing tool for a shopify store owner,ok,3,3,0,1,2,8
+21,AI writing tools,q091,recommendation,which AI tool should I use to write SEO blog posts,ok,5,5,0,1,1,9
+21,AI writing tools,q092,recommendation,what AI writing tool should a college student use,ok,2,2,0,8,0,10
+21,AI writing tools,q093,recommendation,what AI tool should I use to edit my dissertation,ok,4,4,0,2,1,9
+21,AI writing tools,q094,recommendation,which AI tool should I use to write cold emails,ok,2,2,0,4,0,10
+21,AI writing tools,q095,recommendation,what AI writing tool do you recommend for a real estate agent,ok,3,3,0,3,0,10
+21,AI writing tools,q096,recommendation,which AI writing tool keeps my brand voice consistent,ok,5,5,0,3,2,8
+21,AI writing tools,q097,recommendation,what AI writing tool is safest for confidential company documents,ok,3,2,1,2,0,10
+21,AI writing tools,q098,recommendation,which AI tool should I use to write a novel,ok,5,4,0,2,0,10
+21,AI writing tools,q099,recommendation,recommend an AI writing tool for a freelance copywriter,ok,3,3,0,3,0,10
+21,AI writing tools,q100,recommendation,what AI writing tool should a non-native English speaker use,ok,3,3,0,2,0,10

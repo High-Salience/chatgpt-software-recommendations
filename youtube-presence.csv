@@ -1,0 +1,701 @@
+category,id,intent,query,ai_overview_shown,ai_overview_source_links,ai_overview_youtube_links,youtube_in_google_top10,youtube_best_google_rank,chatgpt_citations,chatgpt_youtube_citations
+Project management,q001,category,best project management software,1,9,4,0,,4,0
+Project management,q002,category,best project management software 2026,1,11,4,1,8,3,0
+Project management,q003,category,best project management tools for small teams,1,26,7,1,8,4,0
+Project management,q004,category,best project management software for small business,1,23,4,1,9,5,0
+Project management,q005,category,best project management software for startups,1,0,0,1,8,5,0
+Project management,q006,category,best enterprise project management software,1,0,0,1,9,10,0
+Project management,q007,category,best free project management software,1,5,3,1,6,2,0
+Project management,q008,category,best project management app for remote teams,1,0,0,0,,3,0
+Project management,q009,category,best project management software for agencies,1,6,0,0,,3,0
+Project management,q010,category,best project management software for marketing teams,1,7,2,1,8,4,0
+Project management,q011,category,best project management software for software development,1,0,0,1,10,3,0
+Project management,q012,category,best project management software for construction,1,0,0,1,8,6,0
+Project management,q013,category,best project management tool for freelancers,1,0,0,0,,5,0
+Project management,q014,category,best project management software for nonprofits,1,5,0,0,,3,0
+Project management,q015,category,best kanban software,1,0,0,1,7,4,0
+Project management,q016,category,best gantt chart software,1,6,1,1,6,4,0
+Project management,q017,category,best task management software for teams,1,5,0,0,,5,0
+Project management,q018,category,best project management software for consultants,1,0,0,0,,5,0
+Project management,q019,category,affordable project management software,1,5,1,0,,4,0
+Project management,q020,category,simple project management software for small teams,1,0,0,0,,3,0
+Project management,q021,category,project management software with time tracking,1,9,1,0,,2,0
+Project management,q022,category,project management software with client portal,1,6,0,0,,3,0
+Project management,q023,category,most popular project management software,1,8,0,1,5,7,0
+Project management,q024,category,easiest project management software to use,1,9,3,0,,9,0
+Project management,q025,category,best project management platform for large teams,1,0,0,1,7,2,0
+Project management,q026,category,top rated project management software,1,9,4,1,8,1,0
+Project management,q027,category,best project management software for mac,1,6,1,1,8,5,0
+Project management,q028,category,best project management tools for product teams,1,0,0,0,,11,0
+Project management,q029,category,best project management software for creative teams,1,20,3,1,10,6,0
+Project management,q030,category,best project management software for engineering teams,1,0,0,0,,3,0
+Project management,q031,comparison,asana vs monday.com,1,7,4,0,,6,0
+Project management,q032,comparison,asana vs clickup,1,11,2,0,,2,0
+Project management,q033,comparison,clickup vs monday.com,1,9,3,0,,4,0
+Project management,q034,comparison,trello vs asana,1,7,1,0,,4,0
+Project management,q035,comparison,trello vs monday.com,1,13,3,0,,2,0
+Project management,q036,comparison,notion vs asana,1,7,1,0,,2,0
+Project management,q037,comparison,notion vs clickup,1,5,1,1,6,2,0
+Project management,q038,comparison,jira vs asana,1,8,2,0,,2,0
+Project management,q039,comparison,jira vs clickup,1,9,3,1,10,2,0
+Project management,q040,comparison,jira vs monday.com,1,7,2,0,,4,0
+Project management,q041,comparison,wrike vs asana,1,8,1,0,,2,0
+Project management,q042,comparison,wrike vs monday.com,1,9,3,0,,6,0
+Project management,q043,comparison,smartsheet vs monday.com,1,9,4,0,,2,0
+Project management,q044,comparison,smartsheet vs asana,1,9,1,1,10,3,0
+Project management,q045,comparison,basecamp vs asana,1,9,4,0,,2,0
+Project management,q046,comparison,basecamp vs trello,1,9,4,0,,4,0
+Project management,q047,comparison,teamwork vs asana,1,7,2,0,,2,0
+Project management,q048,comparison,zoho projects vs asana,1,11,4,0,,2,0
+Project management,q049,comparison,airtable vs monday.com,1,7,3,0,,4,0
+Project management,q050,comparison,airtable vs notion,1,8,3,0,,2,0
+Project management,q051,comparison,asana vs clickup vs monday.com,1,14,7,0,,3,0
+Project management,q052,comparison,trello vs asana vs monday.com,1,12,6,0,,7,0
+Project management,q053,comparison,notion vs clickup vs asana,1,14,9,1,6,2,0
+Project management,q054,comparison,jira vs trello vs asana,1,12,6,0,,2,0
+Project management,q055,comparison,microsoft planner vs asana,1,7,1,0,,2,0
+Project management,q056,comparison,microsoft project vs smartsheet,1,8,4,1,5,2,0
+Project management,q057,comparison,asana or monday.com for a marketing team,1,0,0,1,7,2,0
+Project management,q058,comparison,clickup or notion for a startup,1,0,0,1,7,6,0
+Project management,q059,comparison,trello or asana for a small team,1,0,0,1,7,2,0
+Project management,q060,comparison,jira or clickup for software development,1,0,0,0,,2,0
+Project management,q061,alternative,asana alternatives,1,10,3,1,6,3,0
+Project management,q062,alternative,monday.com alternatives,1,8,2,1,9,2,0
+Project management,q063,alternative,clickup alternatives,1,8,1,1,8,4,0
+Project management,q064,alternative,trello alternatives,1,6,2,1,9,3,0
+Project management,q065,alternative,jira alternatives,1,11,2,1,7,4,0
+Project management,q066,alternative,notion alternatives for project management,1,8,2,0,,2,0
+Project management,q067,alternative,basecamp alternatives,1,8,2,0,,4,0
+Project management,q068,alternative,wrike alternatives,1,4,2,0,,3,0
+Project management,q069,alternative,smartsheet alternatives,1,9,2,1,6,5,0
+Project management,q070,alternative,airtable alternatives,1,8,5,0,,2,0
+Project management,q071,alternative,cheaper alternative to monday.com,1,0,0,1,6,3,0
+Project management,q072,alternative,cheaper alternative to asana,1,0,0,0,,5,0
+Project management,q073,alternative,free alternative to jira,1,9,3,0,,3,0
+Project management,q074,alternative,free alternative to trello,1,7,4,1,10,4,0
+Project management,q075,alternative,open source alternative to asana,1,8,0,0,,3,0
+Project management,q076,alternative,open source alternative to jira,1,8,1,1,4,3,0
+Project management,q077,alternative,simpler alternative to clickup,1,0,0,0,,4,0
+Project management,q078,alternative,simpler alternative to jira,1,0,0,0,,2,0
+Project management,q079,alternative,asana alternative for small business,1,0,0,0,,1,0
+Project management,q080,alternative,monday.com alternative for agencies,1,0,0,1,10,6,0
+Project management,q081,recommendation,which project management software should I use for a 5 person team,1,0,0,1,1,3,0
+Project management,q082,recommendation,which project management tool should I use for a 50 person company,1,0,0,1,1,4,0
+Project management,q083,recommendation,what project management software do you recommend for a marketing agency,1,0,0,0,,3,0
+Project management,q084,recommendation,what project management tool do you recommend for a software startup,1,0,0,0,,2,0
+Project management,q085,recommendation,which project management app is best for a remote team,1,0,0,0,,1,0
+Project management,q086,recommendation,what project management software should a construction company use,1,0,0,0,,7,0
+Project management,q087,recommendation,which project management tool is best for a solo consultant,1,0,0,0,,4,0
+Project management,q088,recommendation,what project management software should I use for client work,1,0,0,0,,3,0
+Project management,q089,recommendation,recommend a project management tool for a nonprofit,1,0,0,0,,3,0
+Project management,q090,recommendation,recommend project management software for a design agency,1,0,0,0,,4,0
+Project management,q091,recommendation,what is the best project management software for a team that uses slack,1,0,0,1,5,5,0
+Project management,q092,recommendation,which project management software works best with google workspace,1,22,1,1,9,2,0
+Project management,q093,recommendation,which project management tool should I use if I need gantt charts,1,0,0,1,8,4,0
+Project management,q094,recommendation,what project management software should I pick for a law firm,1,0,0,0,,3,0
+Project management,q095,recommendation,which project management tool is best for managing multiple clients,1,0,0,1,6,6,0
+Project management,q096,recommendation,recommend a simple project management tool for a small business owner,1,0,0,0,,4,0
+Project management,q097,recommendation,what project management software is best for a growing startup,1,0,0,0,,5,0
+Project management,q098,recommendation,which project management tool should an engineering team use,1,0,0,0,,2,0
+Project management,q099,recommendation,what project management software should I use to replace spreadsheets,1,0,0,0,,4,0
+Project management,q100,recommendation,which project management platform is best value for money,1,0,0,1,7,4,0
+CRM,q001,category,best CRM software,1,7,2,1,6,4,0
+CRM,q002,category,best CRM software 2026,1,8,2,0,,4,0
+CRM,q003,category,best CRM for small teams,1,13,3,1,10,3,0
+CRM,q004,category,best CRM for small business,1,10,3,1,10,5,0
+CRM,q005,category,best CRM software for startups,1,6,2,0,,2,0
+CRM,q006,category,best enterprise CRM software,1,9,1,0,,4,0
+CRM,q007,category,best free CRM software,1,9,3,1,7,5,0
+CRM,q008,category,best CRM for remote sales teams,1,0,0,0,,2,0
+CRM,q009,category,best CRM for agencies,1,6,0,0,,9,0
+CRM,q010,category,best CRM for marketing teams,1,0,0,1,9,4,0
+CRM,q011,category,best CRM for B2B SaaS companies,1,0,0,0,,3,0
+CRM,q012,category,best CRM for real estate agents,1,9,1,1,10,1,0
+CRM,q013,category,best CRM for freelancers,1,7,0,0,,2,0
+CRM,q014,category,best CRM for nonprofits,1,11,0,0,,3,0
+CRM,q015,category,best sales pipeline software,1,0,0,1,10,2,0
+CRM,q016,category,best contact management software,1,9,1,0,,2,0
+CRM,q017,category,best CRM with built-in email marketing,1,0,0,0,,3,0
+CRM,q018,category,best CRM for consultants,0,0,0,1,10,6,0
+CRM,q019,category,affordable CRM software,1,2,1,1,10,3,0
+CRM,q020,category,simple CRM for small teams,1,0,0,1,9,5,0
+CRM,q021,category,CRM software with a built-in phone dialer,1,0,0,1,9,3,0
+CRM,q022,category,CRM software with project management,0,0,0,0,,3,0
+CRM,q023,category,most popular CRM software,1,9,2,1,5,4,0
+CRM,q024,category,easiest CRM software to use,1,5,0,0,,5,0
+CRM,q025,category,best CRM platform for large sales teams,1,0,0,0,,3,0
+CRM,q026,category,top rated CRM software,1,7,2,1,9,1,0
+CRM,q027,category,best CRM for mac,1,0,0,1,9,3,0
+CRM,q028,category,best CRM for ecommerce businesses,1,0,0,0,,5,0
+CRM,q029,category,best CRM for insurance agents,1,6,0,0,,4,0
+CRM,q030,category,best CRM for financial advisors,1,6,1,0,,5,0
+CRM,q031,comparison,salesforce vs hubspot,1,13,6,1,6,2,0
+CRM,q032,comparison,hubspot vs zoho crm,1,9,1,0,,5,0
+CRM,q033,comparison,salesforce vs zoho crm,1,10,3,0,,2,0
+CRM,q034,comparison,pipedrive vs hubspot,1,10,4,1,7,2,0
+CRM,q035,comparison,pipedrive vs salesforce,1,12,5,1,4,1,0
+CRM,q036,comparison,zoho crm vs pipedrive,1,12,6,1,5,3,0
+CRM,q037,comparison,salesforce vs microsoft dynamics 365,1,10,3,0,,2,0
+CRM,q038,comparison,hubspot vs microsoft dynamics 365,1,13,5,0,,2,0
+CRM,q039,comparison,freshsales vs hubspot,1,0,0,0,,1,0
+CRM,q040,comparison,freshsales vs zoho crm,1,0,0,1,9,2,0
+CRM,q041,comparison,monday crm vs hubspot,1,12,4,1,10,2,0
+CRM,q042,comparison,close vs pipedrive,0,0,0,0,,2,0
+CRM,q043,comparison,copper vs hubspot,1,9,2,0,,2,0
+CRM,q044,comparison,insightly vs hubspot,1,13,5,0,,1,0
+CRM,q045,comparison,keap vs hubspot,1,12,3,0,,2,0
+CRM,q046,comparison,activecampaign vs hubspot crm,1,0,0,1,7,4,0
+CRM,q047,comparison,nutshell vs pipedrive,1,0,0,0,,0,0
+CRM,q048,comparison,capsule crm vs pipedrive,1,8,2,1,3,2,0
+CRM,q049,comparison,attio vs hubspot,1,13,1,0,,4,0
+CRM,q050,comparison,folk vs attio,1,9,2,0,,2,0
+CRM,q051,comparison,salesforce vs hubspot vs zoho crm,1,0,0,0,,3,0
+CRM,q052,comparison,hubspot vs pipedrive vs zoho crm,1,0,0,1,6,3,0
+CRM,q053,comparison,salesforce vs hubspot vs microsoft dynamics 365,1,0,0,0,,3,0
+CRM,q054,comparison,pipedrive vs close vs freshsales,1,0,0,0,,4,0
+CRM,q055,comparison,sugarcrm vs salesforce,1,7,3,1,6,2,0
+CRM,q056,comparison,zendesk sell vs pipedrive,1,0,0,1,9,2,0
+CRM,q057,comparison,hubspot or salesforce for a small business,1,0,0,1,7,2,0
+CRM,q058,comparison,pipedrive or hubspot for a startup,1,0,0,1,6,2,0
+CRM,q059,comparison,zoho crm or hubspot for a small team,1,0,0,0,,2,0
+CRM,q060,comparison,salesforce or dynamics 365 for enterprise sales,1,0,0,0,,2,0
+CRM,q061,alternative,salesforce alternatives,1,6,1,0,,4,0
+CRM,q062,alternative,hubspot alternatives,1,10,2,1,7,6,0
+CRM,q063,alternative,zoho crm alternatives,1,7,1,0,,4,0
+CRM,q064,alternative,pipedrive alternatives,0,0,0,0,,4,0
+CRM,q065,alternative,microsoft dynamics 365 alternatives,1,0,0,1,9,4,0
+CRM,q066,alternative,monday crm alternatives,1,4,0,0,,5,0
+CRM,q067,alternative,keap alternatives,1,7,0,0,,1,0
+CRM,q068,alternative,copper crm alternatives,1,0,0,0,,1,0
+CRM,q069,alternative,insightly alternatives,1,0,0,1,5,3,0
+CRM,q070,alternative,close crm alternatives,1,0,0,1,10,6,0
+CRM,q071,alternative,cheaper alternative to salesforce,1,0,0,0,,7,0
+CRM,q072,alternative,cheaper alternative to hubspot,1,0,0,1,7,1,0
+CRM,q073,alternative,free alternative to salesforce,0,0,0,0,,3,0
+CRM,q074,alternative,free alternative to hubspot crm,1,0,0,0,,2,0
+CRM,q075,alternative,open source alternative to salesforce,0,0,0,1,10,4,0
+CRM,q076,alternative,open source alternative to hubspot,1,6,0,0,,5,0
+CRM,q077,alternative,simpler alternative to salesforce,1,0,0,0,,4,0
+CRM,q078,alternative,simpler alternative to hubspot,1,0,0,1,10,0,0
+CRM,q079,alternative,salesforce alternative for small business,1,0,0,0,,6,0
+CRM,q080,alternative,hubspot alternative for agencies,1,0,0,0,,6,0
+CRM,q081,recommendation,which CRM should I use for a 5 person sales team,1,0,0,1,4,3,0
+CRM,q082,recommendation,which CRM should I use for a 50 person company,1,0,0,1,2,3,0
+CRM,q083,recommendation,what CRM do you recommend for a marketing agency,1,0,0,1,6,5,0
+CRM,q084,recommendation,what CRM do you recommend for a software startup,1,0,0,1,8,3,0
+CRM,q085,recommendation,which CRM is best for a remote sales team,1,0,0,0,,1,0
+CRM,q086,recommendation,what CRM should a real estate brokerage use,1,0,0,1,6,3,0
+CRM,q087,recommendation,which CRM is best for a solo consultant,1,0,0,0,,5,0
+CRM,q088,recommendation,what CRM should I use for client work,1,0,0,0,,2,0
+CRM,q089,recommendation,recommend a CRM for a nonprofit,1,0,0,0,,3,0
+CRM,q090,recommendation,recommend a CRM for a law firm,1,0,0,1,9,1,0
+CRM,q091,recommendation,what is the best CRM for a team that uses slack,1,0,0,0,,3,0
+CRM,q092,recommendation,which CRM works best with google workspace,1,0,0,0,,3,0
+CRM,q093,recommendation,which CRM should I use if I need email sequences,1,0,0,0,,2,0
+CRM,q094,recommendation,what CRM should I pick for an insurance agency,1,0,0,1,7,5,0
+CRM,q095,recommendation,which CRM is best for managing multiple clients,1,0,0,0,,3,0
+CRM,q096,recommendation,recommend a simple CRM for a small business owner,1,0,0,1,10,3,0
+CRM,q097,recommendation,what CRM is best for a growing startup,1,0,0,0,,3,0
+CRM,q098,recommendation,which CRM should a B2B SaaS sales team use,1,0,0,0,,7,0
+CRM,q099,recommendation,what CRM should I use to replace spreadsheets,1,0,0,1,7,6,0
+CRM,q100,recommendation,which CRM is best value for money,1,0,0,1,7,4,0
+Email marketing,q001,category,best email marketing software,1,6,4,0,,4,0
+Email marketing,q002,category,best email marketing software 2026,1,8,1,0,,4,0
+Email marketing,q003,category,best email marketing tool for small teams,1,0,0,0,,11,0
+Email marketing,q004,category,best email marketing software for small business,0,0,0,0,,5,0
+Email marketing,q005,category,best email marketing platform for startups,0,0,0,0,,11,0
+Email marketing,q006,category,best enterprise email marketing software,1,0,0,0,,4,0
+Email marketing,q007,category,best free email marketing software,1,6,2,0,,2,0
+Email marketing,q008,category,best email marketing platform for ecommerce,0,0,0,1,6,4,0
+Email marketing,q009,category,best email marketing software for agencies,1,0,0,1,10,1,0
+Email marketing,q010,category,best email marketing platform for creators,0,0,0,0,,3,0
+Email marketing,q011,category,best email marketing software for B2B SaaS,1,0,0,0,,3,0
+Email marketing,q012,category,best email marketing software for real estate agents,1,0,0,0,,4,0
+Email marketing,q013,category,best email marketing tool for bloggers,1,0,0,0,,4,0
+Email marketing,q014,category,best email marketing software for nonprofits,1,7,1,0,,3,0
+Email marketing,q015,category,best newsletter platform,1,10,1,0,,8,0
+Email marketing,q016,category,best email automation software,1,9,4,0,,8,0
+Email marketing,q017,category,best email marketing software with a built-in CRM,1,0,0,0,,9,0
+Email marketing,q018,category,best email marketing software for coaches,1,0,0,0,,3,0
+Email marketing,q019,category,affordable email marketing software,1,7,2,0,,5,0
+Email marketing,q020,category,simple email marketing tool for small teams,1,0,0,0,,4,0
+Email marketing,q021,category,email marketing software with SMS marketing,1,0,0,0,,3,0
+Email marketing,q022,category,email marketing software with landing pages,1,0,0,0,,8,0
+Email marketing,q023,category,most popular email marketing software,1,0,0,0,,5,0
+Email marketing,q024,category,easiest email marketing software to use,1,0,0,0,,7,0
+Email marketing,q025,category,best email marketing platform for large lists,1,0,0,0,,1,0
+Email marketing,q026,category,top rated email marketing software,1,6,4,1,7,3,0
+Email marketing,q027,category,best email marketing software for Shopify stores,1,0,0,1,8,4,0
+Email marketing,q028,category,best email marketing software for restaurants,1,0,0,0,,4,0
+Email marketing,q029,category,best email marketing software for churches,1,0,0,0,,2,0
+Email marketing,q030,category,best email marketing software for financial advisors,1,0,0,0,,6,0
+Email marketing,q031,comparison,mailchimp vs klaviyo,1,11,0,1,8,5,0
+Email marketing,q032,comparison,mailchimp vs constant contact,1,10,3,0,,2,0
+Email marketing,q033,comparison,mailchimp vs brevo,1,8,2,1,10,4,0
+Email marketing,q034,comparison,mailchimp vs activecampaign,0,0,0,0,,2,0
+Email marketing,q035,comparison,mailchimp vs mailerlite,1,11,3,0,,2,0
+Email marketing,q036,comparison,mailchimp vs kit,1,8,0,1,9,2,0
+Email marketing,q037,comparison,klaviyo vs omnisend,1,12,4,1,10,2,0
+Email marketing,q038,comparison,klaviyo vs activecampaign,0,0,0,1,5,2,0
+Email marketing,q039,comparison,brevo vs mailerlite,1,11,6,0,,2,0
+Email marketing,q040,comparison,activecampaign vs hubspot,1,12,3,1,9,2,0
+Email marketing,q041,comparison,kit vs beehiiv,1,9,2,0,,2,0
+Email marketing,q042,comparison,beehiiv vs substack,1,6,1,1,7,2,0
+Email marketing,q043,comparison,mailerlite vs kit,1,9,5,0,,6,0
+Email marketing,q044,comparison,constant contact vs activecampaign,1,9,2,1,9,2,0
+Email marketing,q045,comparison,getresponse vs mailchimp,1,0,0,1,7,2,0
+Email marketing,q046,comparison,aweber vs mailchimp,1,8,2,1,7,2,0
+Email marketing,q047,comparison,campaign monitor vs mailchimp,1,0,0,0,,1,0
+Email marketing,q048,comparison,drip vs klaviyo,1,0,0,1,9,3,0
+Email marketing,q049,comparison,customer.io vs braze,1,10,0,0,,2,0
+Email marketing,q050,comparison,braze vs iterable,1,10,0,0,,3,0
+Email marketing,q051,comparison,klaviyo vs mailchimp vs omnisend,1,0,0,0,,3,0
+Email marketing,q052,comparison,mailchimp vs brevo vs mailerlite,1,0,0,1,8,3,0
+Email marketing,q053,comparison,activecampaign vs hubspot vs klaviyo,1,0,0,1,6,3,0
+Email marketing,q054,comparison,kit vs beehiiv vs substack,1,0,0,1,9,3,0
+Email marketing,q055,comparison,mailchimp vs hubspot,1,11,3,1,7,2,0
+Email marketing,q056,comparison,moosend vs mailerlite,1,0,0,0,,4,0
+Email marketing,q057,comparison,mailchimp or klaviyo for a shopify store,1,0,0,1,7,2,0
+Email marketing,q058,comparison,kit or mailerlite for a newsletter,1,0,0,0,,2,0
+Email marketing,q059,comparison,brevo or mailchimp for a small business,1,0,0,1,4,2,0
+Email marketing,q060,comparison,activecampaign or hubspot for a b2b company,1,0,0,1,5,2,0
+Email marketing,q061,alternative,mailchimp alternatives,1,7,2,0,,4,0
+Email marketing,q062,alternative,klaviyo alternatives,0,0,0,1,10,5,0
+Email marketing,q063,alternative,constant contact alternatives,1,11,4,0,,3,0
+Email marketing,q064,alternative,activecampaign alternatives,0,0,0,0,,2,0
+Email marketing,q065,alternative,kit alternatives for creators,1,0,0,1,10,6,0
+Email marketing,q066,alternative,mailerlite alternatives,1,7,3,0,,1,0
+Email marketing,q067,alternative,brevo alternatives,1,0,0,0,,2,0
+Email marketing,q068,alternative,hubspot email marketing alternatives,1,0,0,0,,7,0
+Email marketing,q069,alternative,beehiiv alternatives,1,8,0,1,8,4,0
+Email marketing,q070,alternative,substack alternatives for newsletters,1,0,0,0,,2,0
+Email marketing,q071,alternative,cheaper alternative to mailchimp,1,12,2,1,9,9,0
+Email marketing,q072,alternative,cheaper alternative to klaviyo,1,6,1,0,,2,0
+Email marketing,q073,alternative,free alternative to mailchimp,0,0,0,1,9,6,0
+Email marketing,q074,alternative,free alternative to constant contact,0,0,0,1,10,3,0
+Email marketing,q075,alternative,open source alternative to mailchimp,1,6,0,0,,6,0
+Email marketing,q076,alternative,open source alternative to klaviyo,1,0,0,1,6,4,0
+Email marketing,q077,alternative,simpler alternative to activecampaign,1,0,0,0,,4,0
+Email marketing,q078,alternative,simpler alternative to hubspot marketing hub,1,0,0,0,,3,0
+Email marketing,q079,alternative,mailchimp alternative for small business,1,0,0,0,,2,0
+Email marketing,q080,alternative,klaviyo alternative for shopify,1,8,0,0,,4,0
+Email marketing,q081,recommendation,which email marketing tool should I use for a 5 person team,1,0,0,1,3,3,0
+Email marketing,q082,recommendation,which email marketing platform should I use for a 50 person company,1,0,0,1,1,3,0
+Email marketing,q083,recommendation,what email marketing software do you recommend for a marketing agency,1,0,0,1,8,3,0
+Email marketing,q084,recommendation,what email marketing tool do you recommend for a software startup,1,0,0,1,7,3,0
+Email marketing,q085,recommendation,which email marketing platform is best for an ecommerce store,1,0,0,1,8,4,0
+Email marketing,q086,recommendation,what email marketing software should a real estate agent use,1,0,0,0,,4,0
+Email marketing,q087,recommendation,which email marketing tool is best for a solo creator newsletter,1,0,0,1,8,2,0
+Email marketing,q088,recommendation,what email marketing software should I use for client work,1,0,0,0,,2,0
+Email marketing,q089,recommendation,recommend an email marketing tool for a nonprofit,1,0,0,0,,2,0
+Email marketing,q090,recommendation,recommend an email marketing tool for a law firm,1,0,0,0,,5,0
+Email marketing,q091,recommendation,what is the best email marketing software for a team that uses slack,1,0,0,1,9,3,0
+Email marketing,q092,recommendation,which email marketing tool works best with google workspace,1,0,0,0,,1,0
+Email marketing,q093,recommendation,which email marketing tool should I use if I need automation workflows,1,0,0,1,9,2,0
+Email marketing,q094,recommendation,what email marketing software should I pick for a restaurant,1,0,0,0,,6,0
+Email marketing,q095,recommendation,which email marketing tool is best for managing multiple clients,1,0,0,1,10,4,0
+Email marketing,q096,recommendation,recommend a simple email marketing tool for a small business owner,1,0,0,0,,8,0
+Email marketing,q097,recommendation,what email marketing software is best for a growing startup,1,0,0,0,,3,0
+Email marketing,q098,recommendation,which email marketing tool should a B2B SaaS marketing team use,1,0,0,0,,3,0
+Email marketing,q099,recommendation,what email marketing software should I use to replace mailchimp,1,0,0,0,,5,0
+Email marketing,q100,recommendation,which email marketing platform is best value for money,1,0,0,0,,3,0
+Help desk,q001,category,best help desk software,1,7,0,0,,5,0
+Help desk,q002,category,best help desk software 2026,1,0,0,0,,3,0
+Help desk,q003,category,best help desk software for small teams,1,0,0,0,,6,0
+Help desk,q004,category,best help desk software for small business,1,7,0,0,,5,0
+Help desk,q005,category,best customer support software for startups,0,0,0,0,,8,0
+Help desk,q006,category,best enterprise help desk software,1,0,0,0,,2,0
+Help desk,q007,category,best free help desk software,1,7,0,0,,5,0
+Help desk,q008,category,best customer support software for ecommerce,0,0,0,0,,3,0
+Help desk,q009,category,best help desk software for agencies,1,0,0,0,,3,0
+Help desk,q010,category,best customer support software for SaaS companies,0,0,0,0,,3,0
+Help desk,q011,category,best help desk software for B2B companies,1,0,0,0,,3,0
+Help desk,q012,category,best help desk software for IT teams,1,0,0,0,,3,0
+Help desk,q013,category,best ticketing system for small business,1,5,0,0,,2,0
+Help desk,q014,category,best help desk software for nonprofits,1,0,0,0,,3,0
+Help desk,q015,category,best live chat software for customer support,0,0,0,0,,6,0
+Help desk,q016,category,best shared inbox software for support teams,1,0,0,1,10,6,0
+Help desk,q017,category,best help desk software with a knowledge base,1,0,0,0,,4,0
+Help desk,q018,category,best customer support software for MSPs,0,0,0,0,,4,0
+Help desk,q019,category,affordable help desk software,1,0,0,0,,8,0
+Help desk,q020,category,simple help desk software for small teams,0,0,0,0,,0,0
+Help desk,q021,category,help desk software with AI chatbot,1,0,0,0,,2,0
+Help desk,q022,category,customer support software with phone support,0,0,0,1,5,7,0
+Help desk,q023,category,most popular help desk software,1,6,1,0,,2,0
+Help desk,q024,category,easiest help desk software to use,1,0,0,0,,6,0
+Help desk,q025,category,best customer support platform for large teams,0,0,0,0,,3,0
+Help desk,q026,category,top rated help desk software,1,7,0,1,9,2,0
+Help desk,q027,category,best help desk software for Shopify stores,1,0,0,0,,5,0
+Help desk,q028,category,best help desk software for schools,1,0,0,0,,6,0
+Help desk,q029,category,best help desk software for healthcare,1,0,0,0,,1,0
+Help desk,q030,category,best help desk software for law firms,1,0,0,0,,2,0
+Help desk,q031,comparison,zendesk vs freshdesk,1,10,1,1,8,2,0
+Help desk,q032,comparison,zendesk vs intercom,1,9,2,1,9,2,0
+Help desk,q033,comparison,freshdesk vs intercom,1,0,0,1,7,2,0
+Help desk,q034,comparison,zendesk vs help scout,0,0,0,0,,2,0
+Help desk,q035,comparison,help scout vs freshdesk,1,7,0,1,6,2,0
+Help desk,q036,comparison,zendesk vs hubspot service hub,1,0,0,0,,2,0
+Help desk,q037,comparison,intercom vs hubspot service hub,1,0,0,0,,4,0
+Help desk,q038,comparison,zoho desk vs freshdesk,1,7,0,0,,2,0
+Help desk,q039,comparison,zoho desk vs zendesk,1,8,0,0,,2,0
+Help desk,q040,comparison,zendesk vs salesforce service cloud,0,0,0,0,,6,0
+Help desk,q041,comparison,jira service management vs zendesk,1,10,1,0,,4,0
+Help desk,q042,comparison,jira service management vs freshservice,0,0,0,1,8,1,0
+Help desk,q043,comparison,freshservice vs servicenow,1,10,2,1,5,2,0
+Help desk,q044,comparison,gorgias vs zendesk,1,10,0,1,5,2,0
+Help desk,q045,comparison,gorgias vs re:amaze,1,0,0,1,5,4,0
+Help desk,q046,comparison,front vs help scout,1,8,1,1,10,6,0
+Help desk,q047,comparison,front vs zendesk,1,11,0,0,,2,0
+Help desk,q048,comparison,kayako vs zendesk,1,0,0,1,10,4,0
+Help desk,q049,comparison,happyfox vs freshdesk,1,0,0,0,,2,0
+Help desk,q050,comparison,helpdesk vs livechat,1,0,0,0,,2,0
+Help desk,q051,comparison,zendesk vs freshdesk vs intercom,1,0,0,1,10,2,0
+Help desk,q052,comparison,zendesk vs help scout vs freshdesk,1,0,0,0,,3,0
+Help desk,q053,comparison,intercom vs zendesk vs hubspot,1,0,0,0,,3,0
+Help desk,q054,comparison,gorgias vs zendesk vs freshdesk,1,0,0,0,,5,0
+Help desk,q055,comparison,zendesk vs servicenow,1,5,0,1,8,5,0
+Help desk,q056,comparison,tidio vs intercom,1,0,0,1,9,2,0
+Help desk,q057,comparison,zendesk or freshdesk for a small business,1,0,0,0,,4,0
+Help desk,q058,comparison,intercom or zendesk for a saas startup,1,0,0,0,,2,0
+Help desk,q059,comparison,help scout or freshdesk for a small team,1,0,0,1,9,2,0
+Help desk,q060,comparison,zendesk or gorgias for an ecommerce store,1,0,0,1,5,5,0
+Help desk,q061,alternative,zendesk alternatives,0,0,0,0,,4,0
+Help desk,q062,alternative,intercom alternatives,1,6,0,0,,5,0
+Help desk,q063,alternative,freshdesk alternatives,1,7,0,0,,6,0
+Help desk,q064,alternative,help scout alternatives,1,4,0,0,,5,0
+Help desk,q065,alternative,hubspot service hub alternatives,1,0,0,1,9,5,0
+Help desk,q066,alternative,zoho desk alternatives,1,6,0,0,,4,0
+Help desk,q067,alternative,gorgias alternatives,1,9,0,0,,0,0
+Help desk,q068,alternative,jira service management alternatives,1,6,0,1,10,2,0
+Help desk,q069,alternative,front alternatives for shared inbox,1,0,0,0,,5,0
+Help desk,q070,alternative,servicenow alternatives for small business,1,0,0,1,9,5,0
+Help desk,q071,alternative,cheaper alternative to zendesk,1,0,0,0,,1,0
+Help desk,q072,alternative,cheaper alternative to intercom,1,0,0,1,10,3,0
+Help desk,q073,alternative,free alternative to zendesk,0,0,0,0,,3,0
+Help desk,q074,alternative,free alternative to freshdesk,0,0,0,1,10,2,0
+Help desk,q075,alternative,open source alternative to zendesk,1,7,1,0,,5,0
+Help desk,q076,alternative,open source alternative to intercom,1,8,3,0,,2,0
+Help desk,q077,alternative,simpler alternative to zendesk,1,0,0,0,,3,0
+Help desk,q078,alternative,simpler alternative to jira service management,1,0,0,0,,4,0
+Help desk,q079,alternative,zendesk alternative for small business,1,0,0,0,,4,0
+Help desk,q080,alternative,intercom alternative for startups,1,0,0,0,,4,0
+Help desk,q081,recommendation,which help desk software should I use for a 5 person support team,1,0,0,1,2,4,0
+Help desk,q082,recommendation,which help desk software should I use for a 50 person company,1,0,0,1,7,3,0
+Help desk,q083,recommendation,what customer support software do you recommend for a marketing agency,0,0,0,1,9,2,0
+Help desk,q084,recommendation,what help desk software do you recommend for a software startup,1,0,0,0,,2,0
+Help desk,q085,recommendation,which customer support platform is best for an ecommerce store,0,0,0,0,,2,0
+Help desk,q086,recommendation,what help desk software should a real estate brokerage use,1,0,0,0,,6,0
+Help desk,q087,recommendation,which help desk tool is best for a solo founder,1,0,0,0,,3,0
+Help desk,q088,recommendation,what customer support software should I use for client work,0,0,0,0,,2,0
+Help desk,q089,recommendation,recommend a help desk tool for a nonprofit,1,0,0,0,,0,0
+Help desk,q090,recommendation,recommend a help desk tool for a law firm,1,0,0,0,,7,0
+Help desk,q091,recommendation,what is the best help desk software for a team that uses slack,1,0,0,0,,4,0
+Help desk,q092,recommendation,which help desk software works best with google workspace,1,0,0,0,,4,0
+Help desk,q093,recommendation,which help desk should I use if I need an AI chatbot,1,0,0,0,,4,0
+Help desk,q094,recommendation,what help desk software should I pick for an IT department,1,0,0,1,9,3,0
+Help desk,q095,recommendation,which help desk software is best for managing multiple clients,1,0,0,0,,3,0
+Help desk,q096,recommendation,recommend a simple help desk tool for a small business owner,1,0,0,0,,6,0
+Help desk,q097,recommendation,what customer support software is best for a growing startup,0,0,0,0,,1,0
+Help desk,q098,recommendation,which help desk should a B2B SaaS support team use,1,0,0,0,,4,0
+Help desk,q099,recommendation,what help desk software should I use to replace a shared gmail inbox,1,0,0,0,,3,0
+Help desk,q100,recommendation,which help desk software is best value for money,1,0,0,0,,4,0
+Accounting,q001,category,best accounting software,1,8,1,0,,6,0
+Accounting,q002,category,best accounting software 2026,1,6,0,1,6,2,0
+Accounting,q003,category,best accounting software for small teams,1,0,0,1,7,4,0
+Accounting,q004,category,best accounting software for small business,1,6,1,1,7,2,0
+Accounting,q005,category,best accounting software for startups,1,7,2,0,,3,0
+Accounting,q006,category,best enterprise accounting software,1,4,0,0,,0,0
+Accounting,q007,category,best free accounting software,1,6,2,0,,2,0
+Accounting,q008,category,best accounting software for ecommerce,1,0,0,0,,4,0
+Accounting,q009,category,best accounting software for agencies,1,0,0,1,10,3,0
+Accounting,q010,category,best accounting software for SaaS companies,1,0,0,0,,3,0
+Accounting,q011,category,best bookkeeping software for small business,1,6,1,1,9,3,0
+Accounting,q012,category,best accounting software for real estate investors,1,17,0,0,,4,0
+Accounting,q013,category,best accounting software for freelancers,1,6,1,1,5,5,0
+Accounting,q014,category,best accounting software for nonprofits,1,8,2,1,9,5,0
+Accounting,q015,category,best invoicing software for small business,1,7,2,0,,3,0
+Accounting,q016,category,best expense tracking software for small business,1,3,0,1,9,2,0
+Accounting,q017,category,best accounting software with payroll,1,0,0,1,7,2,0
+Accounting,q018,category,best accounting software for consultants,1,0,0,0,,1,0
+Accounting,q019,category,affordable accounting software,0,0,0,0,,6,0
+Accounting,q020,category,simple accounting software for small teams,1,0,0,0,,3,0
+Accounting,q021,category,accounting software with inventory management,1,10,2,0,,2,0
+Accounting,q022,category,accounting software with project accounting,1,0,0,0,,3,0
+Accounting,q023,category,most popular accounting software,1,9,1,1,10,2,0
+Accounting,q024,category,easiest accounting software to use,1,7,2,0,,5,0
+Accounting,q025,category,best accounting software for mid-size companies,1,6,1,0,,5,0
+Accounting,q026,category,top rated accounting software,1,8,1,0,,4,0
+Accounting,q027,category,best accounting software for mac,1,5,1,0,,5,0
+Accounting,q028,category,best accounting software for restaurants,1,6,0,1,9,2,0
+Accounting,q029,category,best accounting software for contractors,1,6,0,1,8,3,0
+Accounting,q030,category,best accounting software for law firms,1,8,0,0,,2,0
+Accounting,q031,comparison,quickbooks vs xero,1,13,3,1,8,2,0
+Accounting,q032,comparison,quickbooks vs freshbooks,1,10,3,1,9,4,0
+Accounting,q033,comparison,xero vs freshbooks,1,11,5,1,8,7,0
+Accounting,q034,comparison,quickbooks vs wave,1,7,4,0,,3,0
+Accounting,q035,comparison,quickbooks vs zoho books,1,9,3,1,4,2,0
+Accounting,q036,comparison,xero vs zoho books,1,10,5,1,10,2,0
+Accounting,q037,comparison,quickbooks vs sage,1,9,5,1,5,2,0
+Accounting,q038,comparison,quickbooks vs netsuite,0,0,0,1,7,2,0
+Accounting,q039,comparison,xero vs sage,1,10,4,0,,0,0
+Accounting,q040,comparison,freshbooks vs wave,0,0,0,0,,3,0
+Accounting,q041,comparison,quickbooks online vs quickbooks desktop,1,7,2,0,,1,0
+Accounting,q042,comparison,netsuite vs sage intacct,1,11,5,0,,1,0
+Accounting,q043,comparison,sage intacct vs quickbooks,1,12,2,0,,2,0
+Accounting,q044,comparison,zoho books vs freshbooks,1,5,1,1,8,2,0
+Accounting,q045,comparison,wave vs zoho books,1,12,4,1,9,2,0
+Accounting,q046,comparison,quickbooks vs bench,0,0,0,1,9,2,0
+Accounting,q047,comparison,quickbooks vs odoo,1,14,5,0,,1,0
+Accounting,q048,comparison,xero vs myob,0,0,0,1,3,2,0
+Accounting,q049,comparison,quickbooks vs kashoo,1,0,0,0,,2,0
+Accounting,q050,comparison,freshbooks vs invoice ninja,1,0,0,1,10,4,0
+Accounting,q051,comparison,quickbooks vs xero vs freshbooks,1,10,1,1,8,3,0
+Accounting,q052,comparison,quickbooks vs wave vs zoho books,1,0,0,1,10,3,0
+Accounting,q053,comparison,netsuite vs sage intacct vs quickbooks,1,0,0,0,,4,0
+Accounting,q054,comparison,xero vs freshbooks vs zoho books,1,0,0,1,10,3,0
+Accounting,q055,comparison,quickbooks vs sage 50,1,10,2,1,10,2,0
+Accounting,q056,comparison,quickbooks vs puzzle,1,7,2,1,10,1,0
+Accounting,q057,comparison,quickbooks or xero for a small business,1,0,0,1,5,2,0
+Accounting,q058,comparison,freshbooks or quickbooks for a freelancer,1,0,0,1,9,4,0
+Accounting,q059,comparison,wave or zoho books for a startup,1,0,0,0,,2,0
+Accounting,q060,comparison,netsuite or sage intacct for a growing company,1,0,0,0,,6,0
+Accounting,q061,alternative,quickbooks alternatives,1,8,2,1,8,2,0
+Accounting,q062,alternative,xero alternatives,1,9,5,0,,5,0
+Accounting,q063,alternative,freshbooks alternatives,1,8,1,0,,3,0
+Accounting,q064,alternative,wave accounting alternatives,1,7,2,1,5,6,0
+Accounting,q065,alternative,sage alternatives,1,8,0,0,,3,0
+Accounting,q066,alternative,netsuite alternatives,1,10,1,0,,1,0
+Accounting,q067,alternative,zoho books alternatives,1,0,0,1,7,4,0
+Accounting,q068,alternative,quickbooks desktop alternatives,1,9,3,0,,3,0
+Accounting,q069,alternative,bench accounting alternatives,1,0,0,0,,6,0
+Accounting,q070,alternative,sage intacct alternatives,1,6,0,0,,2,0
+Accounting,q071,alternative,cheaper alternative to quickbooks,1,8,2,1,7,0,0
+Accounting,q072,alternative,cheaper alternative to netsuite,1,0,0,0,,2,0
+Accounting,q073,alternative,free alternative to quickbooks,1,7,1,1,5,3,0
+Accounting,q074,alternative,free alternative to xero,1,0,0,0,,4,0
+Accounting,q075,alternative,open source alternative to quickbooks,1,5,0,1,10,4,0
+Accounting,q076,alternative,open source alternative to xero,1,0,0,0,,1,0
+Accounting,q077,alternative,simpler alternative to quickbooks,1,8,2,0,,2,0
+Accounting,q078,alternative,simpler alternative to netsuite,1,0,0,0,,6,0
+Accounting,q079,alternative,quickbooks alternative for small business,1,4,0,0,,3,0
+Accounting,q080,alternative,xero alternative for freelancers,1,0,0,1,9,5,0
+Accounting,q081,recommendation,which accounting software should I use for a 5 person company,1,0,0,1,1,1,0
+Accounting,q082,recommendation,which accounting software should I use for a 50 person company,1,0,0,1,2,5,0
+Accounting,q083,recommendation,what accounting software do you recommend for a marketing agency,1,0,0,1,8,2,0
+Accounting,q084,recommendation,what accounting software do you recommend for a software startup,1,0,0,1,10,5,0
+Accounting,q085,recommendation,which accounting software is best for an ecommerce store,1,0,0,1,4,3,0
+Accounting,q086,recommendation,what accounting software should a real estate brokerage use,1,0,0,0,,3,0
+Accounting,q087,recommendation,which accounting software is best for a solo consultant,1,0,0,0,,4,0
+Accounting,q088,recommendation,what accounting software should I use for client work,1,0,0,0,,2,0
+Accounting,q089,recommendation,recommend accounting software for a nonprofit,1,0,0,0,,3,0
+Accounting,q090,recommendation,recommend accounting software for a law firm,1,0,0,1,10,4,0
+Accounting,q091,recommendation,what is the best accounting software for a team that uses slack,1,0,0,1,4,3,0
+Accounting,q092,recommendation,which accounting software works best with google workspace,1,0,0,0,,3,0
+Accounting,q093,recommendation,which accounting software should I use if I need multi-currency,1,0,0,0,,3,0
+Accounting,q094,recommendation,what accounting software should I pick for a construction company,1,0,0,1,4,5,0
+Accounting,q095,recommendation,which accounting software is best for managing multiple clients,1,0,0,0,,3,0
+Accounting,q096,recommendation,recommend simple accounting software for a small business owner,1,0,0,0,,3,0
+Accounting,q097,recommendation,what accounting software is best for a growing startup,1,0,0,1,10,3,0
+Accounting,q098,recommendation,which accounting software should a B2B SaaS company use,1,0,0,0,,5,0
+Accounting,q099,recommendation,what accounting software should I use to replace spreadsheets,1,0,0,0,,2,0
+Accounting,q100,recommendation,which accounting software is best value for money,1,0,0,1,5,3,0
+Payment processing,q001,category,best payment processing companies,1,7,0,1,9,4,0
+Payment processing,q002,category,best payment processor 2026,1,9,2,1,10,2,0
+Payment processing,q003,category,best payment processing for small business,1,11,2,1,8,2,0
+Payment processing,q004,category,best payment processor for startups,1,0,0,0,,9,0
+Payment processing,q005,category,best enterprise payment processing platform,1,0,0,0,,4,0
+Payment processing,q006,category,cheapest payment processing for small business,1,7,0,1,6,3,0
+Payment processing,q007,category,best payment processor for ecommerce,1,10,1,0,,1,0
+Payment processing,q008,category,best payment processor for online business,1,10,1,1,10,3,0
+Payment processing,q009,category,best payment gateway for a website,1,0,0,0,,1,0
+Payment processing,q010,category,best payment processor for SaaS subscriptions,1,0,0,0,,8,0
+Payment processing,q011,category,best payment processing for restaurants,1,0,0,1,10,3,0
+Payment processing,q012,category,best payment processor for retail stores,1,0,0,0,,2,0
+Payment processing,q013,category,best mobile card reader for small business,0,0,0,1,10,3,0
+Payment processing,q014,category,best payment processing for nonprofits,1,9,1,0,,2,0
+Payment processing,q015,category,best payment processor for high risk businesses,1,0,0,1,10,5,0
+Payment processing,q016,category,best payment processor for international payments,1,0,0,1,9,3,0
+Payment processing,q017,category,best payment processing for contractors,1,0,0,0,,2,0
+Payment processing,q018,category,best payment processor for freelancers,0,0,0,0,,3,0
+Payment processing,q019,category,best interchange plus payment processor,1,0,0,0,,3,0
+Payment processing,q020,category,best flat rate payment processor,1,0,0,0,,3,0
+Payment processing,q021,category,best payment processor with no monthly fee,1,0,0,1,8,3,0
+Payment processing,q022,category,best payment processor for B2B invoices,1,0,0,0,,2,0
+Payment processing,q023,category,most popular payment processors,1,7,0,0,,9,0
+Payment processing,q024,category,easiest payment processor to set up,1,0,0,0,,4,0
+Payment processing,q025,category,best payment processor for high volume businesses,1,0,0,0,,3,0
+Payment processing,q026,category,top rated merchant services providers,1,0,0,0,,1,0
+Payment processing,q027,category,best payment processor for Shopify stores,1,0,0,0,,1,0
+Payment processing,q028,category,best payment processing for medical practices,1,0,0,0,,3,0
+Payment processing,q029,category,best payment processing for law firms,1,0,0,0,,3,0
+Payment processing,q030,category,best payment processor for marketplaces,1,0,0,0,,3,0
+Payment processing,q031,comparison,stripe vs square,1,9,1,1,8,2,0
+Payment processing,q032,comparison,stripe vs paypal,1,11,1,1,6,2,0
+Payment processing,q033,comparison,square vs paypal,1,9,2,1,6,2,0
+Payment processing,q034,comparison,stripe vs adyen,1,5,1,1,8,2,0
+Payment processing,q035,comparison,stripe vs braintree,1,9,2,1,5,1,0
+Payment processing,q036,comparison,stripe vs authorize.net,1,12,2,1,7,2,0
+Payment processing,q037,comparison,square vs clover,1,12,4,1,4,4,0
+Payment processing,q038,comparison,square vs toast,1,0,0,1,5,3,0
+Payment processing,q039,comparison,helcim vs square,1,0,0,1,8,2,0
+Payment processing,q040,comparison,helcim vs stripe,1,9,3,1,4,1,0
+Payment processing,q041,comparison,stax vs helcim,1,7,5,0,,3,0
+Payment processing,q042,comparison,payment depot vs helcim,1,0,0,1,5,2,0
+Payment processing,q043,comparison,stripe vs checkout.com,1,9,1,1,5,2,0
+Payment processing,q044,comparison,adyen vs checkout.com,1,0,0,0,,2,0
+Payment processing,q045,comparison,adyen vs braintree,1,0,0,0,,2,0
+Payment processing,q046,comparison,paypal vs braintree,1,8,1,1,10,1,0
+Payment processing,q047,comparison,stripe vs paddle,1,7,1,0,,4,0
+Payment processing,q048,comparison,paddle vs lemon squeezy,0,0,0,0,,3,0
+Payment processing,q049,comparison,stripe vs shopify payments,1,9,1,1,9,2,0
+Payment processing,q050,comparison,square vs sumup,1,6,0,1,6,1,0
+Payment processing,q051,comparison,stripe vs square vs paypal,0,0,0,1,4,2,0
+Payment processing,q052,comparison,helcim vs stax vs payment depot,1,0,0,0,,3,0
+Payment processing,q053,comparison,stripe vs adyen vs checkout.com,1,0,0,0,,3,0
+Payment processing,q054,comparison,square vs clover vs toast,1,11,3,0,,5,0
+Payment processing,q055,comparison,quickbooks payments vs stripe,1,8,1,1,6,2,0
+Payment processing,q056,comparison,gocardless vs stripe,1,7,3,1,9,2,0
+Payment processing,q057,comparison,stripe or square for a retail store,1,0,0,1,7,2,0
+Payment processing,q058,comparison,stripe or paypal for an online store,1,0,0,1,6,2,0
+Payment processing,q059,comparison,helcim or square for a small business,1,0,0,1,10,4,0
+Payment processing,q060,comparison,stripe or braintree for a saas company,1,0,0,1,4,1,0
+Payment processing,q061,alternative,stripe alternatives,1,0,0,1,3,2,0
+Payment processing,q062,alternative,square alternatives,1,7,2,1,9,5,0
+Payment processing,q063,alternative,paypal alternatives for business,1,8,1,1,8,4,0
+Payment processing,q064,alternative,adyen alternatives,1,7,1,0,,4,0
+Payment processing,q065,alternative,braintree alternatives,1,4,0,0,,6,0
+Payment processing,q066,alternative,authorize.net alternatives,1,6,1,0,,3,0
+Payment processing,q067,alternative,helcim alternatives,1,1,0,1,5,4,0
+Payment processing,q068,alternative,clover alternatives,1,7,1,0,,4,0
+Payment processing,q069,alternative,shopify payments alternatives,0,0,0,0,,1,0
+Payment processing,q070,alternative,paddle alternatives,1,8,1,0,,3,0
+Payment processing,q071,alternative,cheaper alternative to stripe,1,0,0,0,,3,0
+Payment processing,q072,alternative,cheaper alternative to square,1,4,1,1,5,3,0
+Payment processing,q073,alternative,cheaper alternative to paypal,1,6,0,1,9,2,0
+Payment processing,q074,alternative,stripe alternative with lower fees,1,0,0,0,,2,0
+Payment processing,q075,alternative,open source alternative to stripe,1,0,0,1,9,4,0
+Payment processing,q076,alternative,stripe alternative for high risk businesses,1,0,0,0,,1,0
+Payment processing,q077,alternative,simpler alternative to adyen,1,0,0,0,,3,0
+Payment processing,q078,alternative,square alternative for restaurants,1,0,0,1,10,5,0
+Payment processing,q079,alternative,stripe alternative for small business,1,0,0,1,4,4,0
+Payment processing,q080,alternative,paypal alternative for freelancers,1,8,1,1,3,5,0
+Payment processing,q081,recommendation,which payment processor should I use for a 5 person company,1,0,0,1,4,1,0
+Payment processing,q082,recommendation,which payment processor should I use for a 50 person company,1,0,0,1,3,3,0
+Payment processing,q083,recommendation,what payment processor do you recommend for a marketing agency,1,0,0,1,5,2,0
+Payment processing,q084,recommendation,what payment processor do you recommend for a software startup,1,0,0,1,6,8,0
+Payment processing,q085,recommendation,which payment processor is best for an ecommerce store,1,0,0,0,,3,0
+Payment processing,q086,recommendation,what payment processor should a real estate agent use,1,0,0,0,,4,0
+Payment processing,q087,recommendation,which payment processor is best for a solo consultant,1,0,0,0,,3,0
+Payment processing,q088,recommendation,what payment processor should I use to invoice clients,1,0,0,0,,2,0
+Payment processing,q089,recommendation,recommend a payment processor for a nonprofit,1,0,0,0,,3,0
+Payment processing,q090,recommendation,recommend a payment processor for a law firm,1,0,0,0,,3,0
+Payment processing,q091,recommendation,what is the best payment processor for a business that uses quickbooks,1,0,0,0,,1,0
+Payment processing,q092,recommendation,which payment processor works best with wordpress,1,0,0,0,,1,0
+Payment processing,q093,recommendation,which payment processor should I use if I need recurring billing,1,0,0,1,10,3,0
+Payment processing,q094,recommendation,what payment processor should I pick for a restaurant,1,0,0,0,,4,0
+Payment processing,q095,recommendation,which payment processor is best for selling at farmers markets,1,0,0,1,6,3,0
+Payment processing,q096,recommendation,recommend a simple payment processor for a small business owner,1,0,0,0,,3,0
+Payment processing,q097,recommendation,what payment processor is best for a growing startup,1,0,0,1,2,11,0
+Payment processing,q098,recommendation,which payment processor should a B2B SaaS company use,1,0,0,0,,2,0
+Payment processing,q099,recommendation,what payment processor should I use to replace stripe,1,0,0,0,,4,0
+Payment processing,q100,recommendation,which payment processor is best value for money,1,0,0,1,6,2,0
+Payroll,q001,category,best payroll software,1,8,1,0,,3,0
+Payroll,q002,category,best payroll software 2026,1,6,2,1,7,2,0
+Payroll,q003,category,best payroll software for small teams,0,0,0,0,,3,0
+Payroll,q004,category,best payroll software for small business,1,11,1,0,,2,0
+Payroll,q005,category,best payroll software for startups,1,0,0,1,7,3,0
+Payroll,q006,category,best enterprise payroll software,1,0,0,1,8,2,0
+Payroll,q007,category,best free payroll software,1,8,3,1,8,4,0
+Payroll,q008,category,best payroll software for hourly employees,1,0,0,1,6,4,0
+Payroll,q009,category,best payroll software for agencies,1,0,0,1,9,2,0
+Payroll,q010,category,best payroll software for remote teams,1,0,0,0,,8,0
+Payroll,q011,category,best payroll software for international employees,0,0,0,0,,2,0
+Payroll,q012,category,best payroll software for restaurants,1,0,0,0,,6,0
+Payroll,q013,category,best payroll software for contractors and freelancers,1,0,0,0,,6,0
+Payroll,q014,category,best payroll software for nonprofits,1,0,0,0,,2,0
+Payroll,q015,category,best payroll service for one employee,1,11,3,1,8,2,0
+Payroll,q016,category,best payroll software with HR features,0,0,0,0,,4,0
+Payroll,q017,category,best payroll software with time tracking,0,0,0,1,10,3,0
+Payroll,q018,category,best payroll software for accountants,1,5,1,1,9,1,0
+Payroll,q019,category,affordable payroll software,1,6,2,1,10,2,0
+Payroll,q020,category,simple payroll software for small teams,0,0,0,0,,2,0
+Payroll,q021,category,payroll software with benefits administration,1,0,0,0,,5,0
+Payroll,q022,category,payroll software that files taxes automatically,1,0,0,0,,4,0
+Payroll,q023,category,most popular payroll software,1,6,1,0,,10,0
+Payroll,q024,category,easiest payroll software to use,1,8,3,1,9,3,0
+Payroll,q025,category,best payroll platform for large companies,1,0,0,0,,3,0
+Payroll,q026,category,top rated payroll software,0,0,0,0,,3,0
+Payroll,q027,category,best payroll software for construction companies,1,9,1,1,10,5,0
+Payroll,q028,category,best payroll software for household employers,0,0,0,0,,5,0
+Payroll,q029,category,best payroll software for healthcare practices,1,0,0,1,7,5,0
+Payroll,q030,category,best payroll software for law firms,1,0,0,1,6,3,0
+Payroll,q031,comparison,gusto vs adp,1,9,3,1,4,2,0
+Payroll,q032,comparison,gusto vs rippling,1,12,2,1,5,2,0
+Payroll,q033,comparison,gusto vs quickbooks payroll,1,8,2,1,9,2,0
+Payroll,q034,comparison,gusto vs paychex,1,9,1,1,5,2,0
+Payroll,q035,comparison,gusto vs onpay,1,10,2,1,6,2,0
+Payroll,q036,comparison,gusto vs justworks,1,8,0,0,,2,0
+Payroll,q037,comparison,rippling vs justworks,1,8,2,1,6,3,0
+Payroll,q038,comparison,rippling vs deel,1,7,1,1,6,3,0
+Payroll,q039,comparison,deel vs remote,1,9,2,1,6,2,0
+Payroll,q040,comparison,adp vs paychex,1,6,1,1,7,4,0
+Payroll,q041,comparison,adp vs paycor,1,9,1,0,,3,0
+Payroll,q042,comparison,paylocity vs paycom,1,9,1,0,,4,0
+Payroll,q043,comparison,paycor vs paylocity,1,7,0,0,,5,0
+Payroll,q044,comparison,gusto vs square payroll,1,9,2,0,,2,0
+Payroll,q045,comparison,onpay vs quickbooks payroll,1,0,0,1,6,1,0
+Payroll,q046,comparison,patriot payroll vs gusto,1,8,2,1,7,3,0
+Payroll,q047,comparison,surepayroll vs gusto,1,10,3,0,,2,0
+Payroll,q048,comparison,justworks vs trinet,1,10,2,1,6,2,0
+Payroll,q049,comparison,rippling vs bamboohr,1,11,3,1,10,2,0
+Payroll,q050,comparison,workday vs adp,1,8,1,1,7,2,0
+Payroll,q051,comparison,gusto vs rippling vs justworks,1,14,7,0,,2,0
+Payroll,q052,comparison,gusto vs adp vs paychex,1,0,0,1,4,3,0
+Payroll,q053,comparison,deel vs remote vs rippling,1,0,0,1,10,4,0
+Payroll,q054,comparison,quickbooks payroll vs gusto vs onpay,1,0,0,1,5,3,0
+Payroll,q055,comparison,paychex vs paycor,1,5,0,0,,2,0
+Payroll,q056,comparison,homebase vs gusto,1,6,1,1,4,2,0
+Payroll,q057,comparison,gusto or adp for a small business,1,0,0,1,5,2,0
+Payroll,q058,comparison,rippling or gusto for a startup,1,0,0,0,,4,0
+Payroll,q059,comparison,deel or remote for international contractors,1,0,0,1,9,2,0
+Payroll,q060,comparison,adp or paychex for a mid-size company,1,0,0,0,,2,0
+Payroll,q061,alternative,gusto alternatives,1,9,0,1,6,6,0
+Payroll,q062,alternative,adp alternatives,1,8,0,0,,3,0
+Payroll,q063,alternative,rippling alternatives,1,8,1,0,,4,0
+Payroll,q064,alternative,paychex alternatives,1,8,3,1,6,2,0
+Payroll,q065,alternative,quickbooks payroll alternatives,1,8,2,1,10,3,0
+Payroll,q066,alternative,justworks alternatives,1,7,1,1,5,5,0
+Payroll,q067,alternative,deel alternatives,1,8,0,0,,4,0
+Payroll,q068,alternative,paylocity alternatives,1,8,1,1,8,4,0
+Payroll,q069,alternative,onpay alternatives,1,2,0,1,6,1,0
+Payroll,q070,alternative,trinet alternatives,1,0,0,1,10,2,0
+Payroll,q071,alternative,cheaper alternative to gusto,1,0,0,1,6,2,0
+Payroll,q072,alternative,cheaper alternative to adp,1,0,0,0,,3,0
+Payroll,q073,alternative,free alternative to gusto,1,0,0,1,6,4,0
+Payroll,q074,alternative,free alternative to quickbooks payroll,1,0,0,1,10,5,0
+Payroll,q075,alternative,open source alternative to gusto,1,0,0,1,6,4,0
+Payroll,q076,alternative,open source payroll software alternative to adp,1,0,0,0,,3,0
+Payroll,q077,alternative,simpler alternative to adp,1,0,0,1,9,3,0
+Payroll,q078,alternative,simpler alternative to rippling,1,0,0,0,,4,0
+Payroll,q079,alternative,gusto alternative for small business,1,0,0,1,9,4,0
+Payroll,q080,alternative,adp alternative for startups,1,0,0,1,10,4,0
+Payroll,q081,recommendation,which payroll software should I use for a 5 person company,0,0,0,1,5,4,0
+Payroll,q082,recommendation,which payroll software should I use for a 50 person company,1,0,0,1,5,6,0
+Payroll,q083,recommendation,what payroll software do you recommend for a marketing agency,1,0,0,1,7,2,0
+Payroll,q084,recommendation,what payroll software do you recommend for a software startup,1,0,0,1,9,3,0
+Payroll,q085,recommendation,which payroll software is best for an ecommerce store,1,0,0,1,5,2,0
+Payroll,q086,recommendation,what payroll software should a real estate brokerage use,1,0,0,0,,3,0
+Payroll,q087,recommendation,which payroll service is best for a solo business owner,1,0,0,1,7,2,0
+Payroll,q088,recommendation,what payroll software should I use to pay contractors,1,0,0,1,6,4,0
+Payroll,q089,recommendation,recommend payroll software for a nonprofit,1,0,0,0,,3,0
+Payroll,q090,recommendation,recommend payroll software for a law firm,1,0,0,0,,2,0
+Payroll,q091,recommendation,what is the best payroll software for a team that uses slack,1,0,0,1,1,2,0
+Payroll,q092,recommendation,which payroll software works best with quickbooks,1,0,0,0,,2,0
+Payroll,q093,recommendation,which payroll software should I use if I have employees in multiple states,1,0,0,0,,3,0
+Payroll,q094,recommendation,what payroll software should I pick for a construction company,1,0,0,1,7,3,0
+Payroll,q095,recommendation,which payroll software is best for managing multiple client companies,1,0,0,1,5,3,0
+Payroll,q096,recommendation,recommend simple payroll software for a small business owner,1,0,0,1,10,2,0
+Payroll,q097,recommendation,what payroll software is best for a growing startup,1,0,0,0,,3,0
+Payroll,q098,recommendation,which payroll software should a B2B SaaS company use,1,0,0,1,7,3,0
+Payroll,q099,recommendation,what payroll software should I use to replace my accountant running payroll,1,0,0,1,5,3,0
+Payroll,q100,recommendation,which payroll software is best value for money,0,0,0,0,,4,0

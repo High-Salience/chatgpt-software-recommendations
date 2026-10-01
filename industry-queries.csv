@@ -1,0 +1,101 @@
+id,intent,query
+q001,fintech,best budgeting app
+q002,fintech,best high yield savings account
+q003,fintech,best credit card for building credit
+q004,fintech,best online bank
+q005,fintech,best app for investing for beginners
+q006,fintech,best robo advisor
+q007,fintech,best personal loan lenders
+q008,fintech,best buy now pay later app
+q009,fintech,best way to send money internationally
+q010,fintech,best business checking account for small business
+q011,fintech,is chime a real bank
+q012,fintech,best credit monitoring service
+q013,fintech,best tax software
+q014,fintech,best app to pay back friends
+q015,fintech,best crypto exchange for beginners
+q016,fintech,how to choose a high yield savings account
+q017,fintech,best student loan refinance companies
+q018,fintech,best mortgage lenders for first time buyers
+q019,fintech,best credit card for travel rewards
+q020,fintech,how do i improve my credit score fast
+q021,fintech,best expense tracker app
+q022,fintech,best payment app for small business
+q023,fintech,best invoicing software for freelancers
+q024,fintech,is it safe to use a fintech app instead of a bank
+q025,fintech,best cash back credit card
+q026,healthcare,best hospital for knee replacement
+q027,healthcare,how to choose a primary care doctor
+q028,healthcare,best telehealth service
+q029,healthcare,best online therapy service
+q030,healthcare,best dermatologist near me
+q031,healthcare,what are the symptoms of sleep apnea
+q032,healthcare,best treatment for lower back pain
+q033,healthcare,how to find a good orthopedic surgeon
+q034,healthcare,best urgent care vs emergency room
+q035,healthcare,best physical therapy for sciatica
+q036,healthcare,best weight loss program covered by insurance
+q037,healthcare,how to choose a health insurance plan
+q038,healthcare,best cancer hospitals in the us
+q039,healthcare,how to find a therapist that takes my insurance
+q040,healthcare,best clinics for fertility treatment
+q041,healthcare,what does a cardiologist do
+q042,healthcare,best dental implant options
+q043,healthcare,best online doctor for prescriptions
+q044,healthcare,how to choose a pediatrician
+q045,healthcare,best mental health apps
+q046,healthcare,best hearing aids
+q047,healthcare,best lasik surgery providers
+q048,healthcare,what to expect from a colonoscopy
+q049,healthcare,best addiction treatment centers
+q050,healthcare,best at home lab testing companies
+q051,legal,how to choose a personal injury lawyer
+q052,legal,best divorce lawyer
+q053,legal,do i need a lawyer after a car accident
+q054,legal,how much does a personal injury lawyer cost
+q055,legal,best online will maker
+q056,legal,best estate planning attorney
+q057,legal,how to find a good criminal defense lawyer
+q058,legal,best immigration lawyer
+q059,legal,what does a workers comp lawyer do
+q060,legal,best dui lawyer
+q061,legal,best online legal services
+q062,legal,how to file for bankruptcy
+q063,legal,best employment lawyer for wrongful termination
+q064,legal,should i use legalzoom or a lawyer
+q065,legal,best medical malpractice lawyer
+q066,legal,how to choose a business attorney
+q067,legal,best trademark registration service
+q068,legal,how much does a divorce lawyer cost
+q069,legal,best law firm for a truck accident
+q070,legal,best llc formation service
+q071,legal,how to find a pro bono lawyer
+q072,legal,best tenant rights lawyer
+q073,legal,do i need a lawyer to write a will
+q074,legal,best social security disability lawyer
+q075,legal,how to check if a lawyer is good
+q076,ecommerce,best running shoes for flat feet
+q077,ecommerce,best mattress for back pain
+q078,ecommerce,best wireless earbuds
+q079,ecommerce,best robot vacuum
+q080,ecommerce,best air purifier for allergies
+q081,ecommerce,best coffee maker
+q082,ecommerce,best office chair for back pain
+q083,ecommerce,best laptop for college students
+q084,ecommerce,best skincare brands for acne
+q085,ecommerce,best protein powder
+q086,ecommerce,best standing desk
+q087,ecommerce,best luggage for international travel
+q088,ecommerce,best dog food brand
+q089,ecommerce,best electric toothbrush
+q090,ecommerce,best meal kit delivery service
+q091,ecommerce,best sheets for hot sleepers
+q092,ecommerce,best blender
+q093,ecommerce,best baby stroller
+q094,ecommerce,best hiking boots
+q095,ecommerce,best water bottle
+q096,ecommerce,best gaming mouse
+q097,ecommerce,best sunscreen for face
+q098,ecommerce,best vacuum for pet hair
+q099,ecommerce,best smartwatch for fitness
+q100,ecommerce,best cookware set
