@@ -122,4 +122,4 @@ Please cite as: High Salience (2026). *ChatGPT Software Recommendations: 21 Cate
 
 The data is released under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). You may use and adapt it, including commercially, with a credit and a link to High Salience.
 
-Questions and corrections: info@highsalience.com
+Questions and corrections: hello@highsalience.com
