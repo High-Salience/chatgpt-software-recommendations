@@ -81,7 +81,7 @@ The primary dataset is our own collection (ChatGPT scraper, Gemini scraper, Goog
 
 Agreement between our coded results and either tool is reported as agreement in direction (same brand order), not as equivalence of numbers, because the tools sample different prompt sets over different windows. Snapshots are read in the same week as our collection and saved with the dataset.
 
-**Approval record:** queries_v1.csv (1,000 queries) and brands_v1.csv (160 brands) approved without changes by Bike Hawley on September 8, 2026, before collection. Frozen copies: queries_v1_APPROVED_2026-09-08.csv, brands_v1_APPROVED_2026-09-08.csv. Collection waits for account funding so that all runs fall inside one seven-day window as the methodology requires; no partial run will be started on the remaining starter balance.
+**Approval record:** queries_v1.csv (1,000 queries) and brands_v1.csv (160 brands) approved without changes by Bike Hawley on September 8, 2026, before collection. Frozen copies: queries_v1_APPROVED_2026-09-08.csv, brands_v1_APPROVED_2026-09-08.csv.
 
 ## Amendment v1.4 (September 17, 2026, after the CRM teardown collection, before its publication)
 

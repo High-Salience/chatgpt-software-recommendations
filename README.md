@@ -21,7 +21,7 @@ It is published by [High Salience](https://highsalience.com/), an AI search and 
 - **Surface:** ChatGPT with web search on, United States, English, one run per question, collected through the DataForSEO scraper.
 - **Dates:** September 8 to September 26, 2026. The collection date of each category is in `teardowns.csv`.
 - **Questions:** 100 per category in four intents: category ("best CRM software"), comparison ("salesforce vs hubspot"), alternative ("salesforce alternatives") and recommendation ("which CRM should I use for a 5 person sales team").
-- **Control:** Google's organic top 10 for the same question on the same date.
+- **Control:** Google's organic top 10 for the same question on the same date, except where Google served a swapped results page that day: for those questions, Google's page for the same question on October 23, 2026 (see Corrections).
 - **Brands:** only brands in each category's dictionary (`brands.csv`) are coded. Aliases and domains are listed per brand.
 
 ## How the answers were coded
@@ -51,6 +51,8 @@ The codes, strongest first:
 | `industry-queries.csv` | 100 | One buyer question in fintech, healthcare, legal or ecommerce (25 each), collected September 26, 2026 |
 | `industry-per-question.csv` | 100 | Google top 10, AI Overview sources and ChatGPT cited domains for each industry question |
 | `industry-chatgpt-citations.csv` | 554 | One ChatGPT citation on an industry question |
+| `google-control.csv` | 1,400 | One question from categories 8 to 21: the Google top 10 used as the control, and for a swapped page, the September 26 page it replaced |
+| `industry-google-control.csv` | 100 | The same for the industry questions |
 | `codebook.md` | | Coding rulebook, version 1.0 through amendment 2.0 |
 | `reader-protocol.md` | | The protocol the AI readers followed |
 
@@ -115,6 +117,13 @@ The same files are on Hugging Face at [highsalience/chatgpt-software-recommendat
 - The readers are AI models. Their agreement with each other is high, but it is not the same as agreement with a human panel.
 - Only dictionary brands are coded. An answer can recommend a brand outside the dictionary, and that brand does not appear in `mentions.csv`.
 - United States, English, September 2026. Answers change over time and by location.
+- For the questions listed under Corrections, the Google control is four weeks newer than the ChatGPT answer.
+
+## Corrections
+
+**October 23, 2026: the Google control for categories 8 to 21 and the industry questions.** Since late September 2026, Google has answered many automated searches with swapped results pages full of the wrong sites. We checked every Google page collected on September 26, 2026 (categories 8 to 21 and the 100 industry questions) against Google's page for the same question on October 23, 2026 (DataForSEO, Web results only). 481 of the 1,400 category pages and 28 of the 100 industry pages shared fewer than half of their sites with it, so for those questions the control is now the October 23 page. Categories 1 to 7, collected September 8 to 21, were checked the same way and are unchanged.
+
+Columns that changed: `brand_domain_in_google_top10` in `mentions.csv`, `domain_in_google_top10` in `citations.csv`, `google_top10_brand_sites` and `google_top10_third_party` in `observations.csv`, `google_top10` in `industry-per-question.csv` and `in_google_top10` in `industry-chatgpt-citations.csv`. Every ChatGPT answer, brand code and citation is unchanged. Across the 21 categories, the share of recommended mentions going to brands whose own site was not in Google's top 10 moves from 78 to 74 percent. `google-control.csv` and `industry-google-control.csv` list every question with the page used and the page it replaced. The AI Overview columns of `industry-per-question.csv` are as collected on September 26 and include the swapped pages.
 
 ## Citation and license
 

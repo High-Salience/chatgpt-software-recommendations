@@ -11,17 +11,17 @@ q002,fintech,best high yield savings account,ally.com,https://www.ally.com/bank/
 q002,fintech,best high yield savings account,nerdwallet.com,https://www.nerdwallet.com/banking/best/high-yield-online-savings-accounts?msockid=207311f1ddb66cd8172b07addc626d9b&utm_source=chatgpt.com,1
 q003,fintech,best credit card for building credit,chase.com,https://creditcards.chase.com/cash-back-credit-cards/freedom/rise?utm_source=chatgpt.com,0
 q003,fintech,best credit card for building credit,chase.com,https://www.chase.com/personal/credit-cards/education/chase-cards/everything-to-know-about-chase-freedom-rise-starter-card?utm_source=chatgpt.com,0
-q003,fintech,best credit card for building credit,capitalone.com,https://www.capitalone.com/credit-cards/platinum-secured/?utm_source=chatgpt.com,0
-q003,fintech,best credit card for building credit,capitalone.com,https://www.capitalone.com/learn-grow/money-management/how-to-help-build-credit-with-secured-credit-card/?utm_source=chatgpt.com,0
-q003,fintech,best credit card for building credit,capitalone.com,https://www.capitalone.com/learn-grow/money-management/how-to-help-build-credit-with-secured-credit-card/?utm_source=chatgpt.com,0
+q003,fintech,best credit card for building credit,capitalone.com,https://www.capitalone.com/credit-cards/platinum-secured/?utm_source=chatgpt.com,1
+q003,fintech,best credit card for building credit,capitalone.com,https://www.capitalone.com/learn-grow/money-management/how-to-help-build-credit-with-secured-credit-card/?utm_source=chatgpt.com,1
+q003,fintech,best credit card for building credit,capitalone.com,https://www.capitalone.com/learn-grow/money-management/how-to-help-build-credit-with-secured-credit-card/?utm_source=chatgpt.com,1
 q003,fintech,best credit card for building credit,chase.com,https://www.chase.com/personal/credit-cards/freedom/rise?utm_source=chatgpt.com,0
 q004,fintech,best online bank,wsj.com,https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?utm_source=chatgpt.com,0
-q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/best/online-brokers-for-beginners?utm_source=chatgpt.com,0
-q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/learn/charles-schwab-vs-robinhood?utm_source=chatgpt.com,0
-q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/best/online-brokers-for-beginners?utm_source=chatgpt.com,0
+q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/best/online-brokers-for-beginners?utm_source=chatgpt.com,1
+q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/learn/charles-schwab-vs-robinhood?utm_source=chatgpt.com,1
+q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/best/online-brokers-for-beginners?utm_source=chatgpt.com,1
 q005,fintech,best app for investing for beginners,elevation-finance.com,https://elevation-finance.com/articles/best-investing-apps-for-beginners/?utm_source=chatgpt.com,0
 q005,fintech,best app for investing for beginners,wealthvieu.com,https://wealthvieu.com/investing/brokerage-accounts/best-investing-apps/?utm_source=chatgpt.com,0
-q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/learn/charles-schwab-vs-robinhood?utm_source=chatgpt.com,0
+q005,fintech,best app for investing for beginners,nerdwallet.com,https://www.nerdwallet.com/investing/learn/charles-schwab-vs-robinhood?utm_source=chatgpt.com,1
 q006,fintech,best robo advisor,wealthfront.com,https://www.wealthfront.com/pricing?utm_source=chatgpt.com,0
 q006,fintech,best robo advisor,betterment.com,https://www.betterment.com/help/fees?utm_source=chatgpt.com,0
 q006,fintech,best robo advisor,fidelity.com,https://www.fidelity.com/managed-accounts/fidelity-go/investment-account-faqs?utm_source=chatgpt.com,0
@@ -41,9 +41,9 @@ q008,fintech,best buy now pay later app,consumerfinance.gov,https://www.consumer
 q009,fintech,best way to send money internationally,westernunion.com,https://www.westernunion.com/us/en/transfer-fees.html?utm_source=chatgpt.com,1
 q009,fintech,best way to send money internationally,consumerfinance.gov,https://www.consumerfinance.gov/consumer-tools/sending-money/?utm_source=chatgpt.com,0
 q009,fintech,best way to send money internationally,consumerfinance.gov,https://www.consumerfinance.gov/compliance/circulars/consumer-financial-protection-circular-2024-02/?utm_source=chatgpt.com,0
-q010,fintech,best business checking account for small business,bluevine.com,https://www.bluevine.com/checking-interest?utm_source=chatgpt.com,0
+q010,fintech,best business checking account for small business,bluevine.com,https://www.bluevine.com/checking-interest?utm_source=chatgpt.com,1
 q010,fintech,best business checking account for small business,mercury.com,https://support.mercury.com/hc/en-us/articles/28769703794580-Mercury-pricing-plans?utm_source=chatgpt.com,0
-q010,fintech,best business checking account for small business,chase.com,https://account.chase.com/consumer/business/PP22422?utm_source=chatgpt.com,1
+q010,fintech,best business checking account for small business,chase.com,https://account.chase.com/consumer/business/PP22422?utm_source=chatgpt.com,0
 q011,fintech,is chime a real bank,chime.com,https://help.chime.com/is-chime-a-bank-b88da701?utm_source=chatgpt.com,1
 q011,fintech,is chime a real bank,chime.com,https://www.chime.com/disclosures/?utm_source=chatgpt.com,1
 q011,fintech,is chime a real bank,chime.com,https://www.chime.com/about-us/?utm_source=chatgpt.com,1
@@ -88,15 +88,15 @@ q018,fintech,best mortgage lenders for first time buyers,bankrate.com,https://ww
 q018,fintech,best mortgage lenders for first time buyers,nerdwallet.com,https://www.nerdwallet.com/mortgages/best/mortgage-lenders-first-time-home-buyers?utm_source=chatgpt.com,1
 q018,fintech,best mortgage lenders for first time buyers,consumerfinance.gov,https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/?utm_source=chatgpt.com,0
 q018,fintech,best mortgage lenders for first time buyers,consumerfinance.gov,https://www.consumerfinance.gov/consumer-tools/mortgages/shopping-for-a-mortgage/?utm_source=chatgpt.com,0
-q019,fintech,best credit card for travel rewards,chase.com,https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred?utm_source=chatgpt.com,0
+q019,fintech,best credit card for travel rewards,chase.com,https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred?utm_source=chatgpt.com,1
 q019,fintech,best credit card for travel rewards,capitalone.com,https://www.capitalone.com/credit-cards/venture-x/?utm_source=chatgpt.com,0
 q019,fintech,best credit card for travel rewards,capitalone.com,https://www.capitalone.com/credit-cards/compare/?utm_source=chatgpt.com,0
-q019,fintech,best credit card for travel rewards,americanexpress.com,https://www.americanexpress.com/en-us/credit-cards/credit-intel/gold-card-annual-fee/?searchresult=How+to+cancel+this+card&utm_source=chatgpt.com,0
-q019,fintech,best credit card for travel rewards,americanexpress.com,https://global.americanexpress.com/card-benefits/detail/airline-fee-credit/gold?utm_source=chatgpt.com,0
-q019,fintech,best credit card for travel rewards,chase.com,https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred?utm_source=chatgpt.com,0
+q019,fintech,best credit card for travel rewards,americanexpress.com,https://www.americanexpress.com/en-us/credit-cards/credit-intel/gold-card-annual-fee/?searchresult=How+to+cancel+this+card&utm_source=chatgpt.com,1
+q019,fintech,best credit card for travel rewards,americanexpress.com,https://global.americanexpress.com/card-benefits/detail/airline-fee-credit/gold?utm_source=chatgpt.com,1
+q019,fintech,best credit card for travel rewards,chase.com,https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred?utm_source=chatgpt.com,1
 q019,fintech,best credit card for travel rewards,capitalone.com,https://www.capitalone.com/credit-cards/venture-x/?utm_source=chatgpt.com,0
 q019,fintech,best credit card for travel rewards,capitalone.com,https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/?utm_source=chatgpt.com,0
-q019,fintech,best credit card for travel rewards,americanexpress.com,https://www.americanexpress.com/en-us/credit-cards/credit-intel/gold-card-annual-fee/?searchresult=How+to+cancel+this+card&utm_source=chatgpt.com,0
+q019,fintech,best credit card for travel rewards,americanexpress.com,https://www.americanexpress.com/en-us/credit-cards/credit-intel/gold-card-annual-fee/?searchresult=How+to+cancel+this+card&utm_source=chatgpt.com,1
 q019,fintech,best credit card for travel rewards,capitalone.com,https://www.capitalone.com/credit-cards/venture-x/?utm_source=chatgpt.com,0
 q020,fintech,how do i improve my credit score fast,consumerfinance.gov,https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/understand-your-credit-score/?utm_source=chatgpt.com,0
 q020,fintech,how do i improve my credit score fast,myfico.com,https://www.myfico.com/credit-education/improve-your-credit-score?utm_source=chatgpt.com,0
@@ -141,14 +141,14 @@ q027,healthcare,how to choose a primary care doctor,medlineplus.gov,https://medl
 q027,healthcare,how to choose a primary care doctor,medlineplus.gov,https://medlineplus.gov/ency/article/001939.htm?utm_source=chatgpt.com,1
 q027,healthcare,how to choose a primary care doctor,aafp.org,https://www.aafp.org/about/policies/professional-self-regulation?utm_source=chatgpt.com,0
 q027,healthcare,how to choose a primary care doctor,medlineplus.gov,https://medlineplus.gov/ency/article/001939.htm?utm_source=chatgpt.com,1
-q028,healthcare,best telehealth service,teladochealth.com,https://www.teladochealth.com/?utm_source=chatgpt.com,0
-q028,healthcare,best telehealth service,teladochealth.com,https://www.teladochealth.com/helpcenter/article/billing-and-insurance-faqs?utm_source=chatgpt.com,0
-q028,healthcare,best telehealth service,mdlive.com,https://www.mdlive.com/frequently-asked-questions/primary-care?utm_source=chatgpt.com,0
-q028,healthcare,best telehealth service,mdlive.com,https://www.mdlive.com/?utm_source=chatgpt.com,0
+q028,healthcare,best telehealth service,teladochealth.com,https://www.teladochealth.com/?utm_source=chatgpt.com,1
+q028,healthcare,best telehealth service,teladochealth.com,https://www.teladochealth.com/helpcenter/article/billing-and-insurance-faqs?utm_source=chatgpt.com,1
+q028,healthcare,best telehealth service,mdlive.com,https://www.mdlive.com/frequently-asked-questions/primary-care?utm_source=chatgpt.com,1
+q028,healthcare,best telehealth service,mdlive.com,https://www.mdlive.com/?utm_source=chatgpt.com,1
 q029,healthcare,best online therapy service,healthline.com,https://www.healthline.com/health/mental-health/online-therapy-that-takes-insurance?utm_source=chatgpt.com,0
 q029,healthcare,best online therapy service,healthline.com,https://www.healthline.com/health/our-top-10-online-therapy-picks?utm_source=chatgpt.com,0
-q029,healthcare,best online therapy service,talkspace.com,https://coverage.talkspace.com/coverage/insurance?utm_source=chatgpt.com,0
-q029,healthcare,best online therapy service,talkspace.com,https://help.talkspace.com/hc/en-us/articles/31816215918107-Using-Health-Insurance-Benefits-for-Talkspace?utm_source=chatgpt.com,0
+q029,healthcare,best online therapy service,talkspace.com,https://coverage.talkspace.com/coverage/insurance?utm_source=chatgpt.com,1
+q029,healthcare,best online therapy service,talkspace.com,https://help.talkspace.com/hc/en-us/articles/31816215918107-Using-Health-Insurance-Benefits-for-Talkspace?utm_source=chatgpt.com,1
 q029,healthcare,best online therapy service,healthline.com,https://www.healthline.com/health/talkspace-vs-betterhelp?utm_source=chatgpt.com,0
 q029,healthcare,best online therapy service,healthline.com,https://www.healthline.com/health/mental-health/betterhelp-review?utm_source=chatgpt.com,0
 q029,healthcare,best online therapy service,healthline.com,https://www.healthline.com/health/our-top-10-online-therapy-picks?utm_source=chatgpt.com,0
@@ -294,8 +294,8 @@ q051,legal,how to choose a personal injury lawyer,floridabar.org,https://www.flo
 q052,legal,best divorce lawyer,justia.com,https://www.justia.com/lawyers/family-law/ohio/warren?utm_source=chatgpt.com,1
 q052,legal,best divorce lawyer,avvo.com,https://www.avvo.com/family-lawyer/oh/warren.html?sort=most_reviewed&utm_source=chatgpt.com,1
 q052,legal,best divorce lawyer,justia.com,https://www.justia.com/lawyers/divorce/ohio/warren?utm_source=chatgpt.com,1
-q052,legal,best divorce lawyer,superlawyers.com,https://attorneys.superlawyers.com/divorce/ohio/warren/?utm_source=chatgpt.com,0
-q052,legal,best divorce lawyer,superlawyers.com,https://attorneys.superlawyers.com/family-law/ohio/warren/?utm_source=chatgpt.com,0
+q052,legal,best divorce lawyer,superlawyers.com,https://attorneys.superlawyers.com/divorce/ohio/warren/?utm_source=chatgpt.com,1
+q052,legal,best divorce lawyer,superlawyers.com,https://attorneys.superlawyers.com/family-law/ohio/warren/?utm_source=chatgpt.com,1
 q053,legal,do i need a lawyer after a car accident,nolo.com,https://www.nolo.com/legal-encyclopedia/when-to-represent-yourself-in-a-car-accident-claim.html?utm_source=chatgpt.com,0
 q053,legal,do i need a lawyer after a car accident,nolo.com,https://www.nolo.com/legal-encyclopedia/car-accident-claims-your-options-after-a-crash.html?utm_source=chatgpt.com,0
 q053,legal,do i need a lawyer after a car accident,nolo.com,https://www.nolo.com/legal-encyclopedia/how-attorney-can-help-with-your-car-accident-claim.html?utm_source=chatgpt.com,0
@@ -375,11 +375,11 @@ q068,legal,how much does a divorce lawyer cost,findlaw.com,https://www.findlaw.c
 q068,legal,how much does a divorce lawyer cost,findlaw.com,https://www.findlaw.com/state/pennsylvania-law/how-much-does-a-divorce-cost-in-pennsylvania.html?utm_source=chatgpt.com,0
 q068,legal,how much does a divorce lawyer cost,findlaw.com,https://www.findlaw.com/family/divorce/how-much-does-a-divorce-cost-by-state.html?utm_source=chatgpt.com,0
 q069,legal,best law firm for a truck accident,expertise.com,https://www.expertise.com/legal/truck-accident-lawyers/new-york/nyc?utm_source=chatgpt.com,0
-q070,legal,best llc formation service,nerdwallet.com,https://www.nerdwallet.com/business/legal/learn/best-llc-services?utm_source=chatgpt.com,0
+q070,legal,best llc formation service,nerdwallet.com,https://www.nerdwallet.com/business/legal/learn/best-llc-services?utm_source=chatgpt.com,1
 q070,legal,best llc formation service,llcstarters.com,https://llcstarters.com/how-to-start-an-llc/reviews/best-llc-services/?utm_source=chatgpt.com,0
 q070,legal,best llc formation service,bizee.com,https://bizee.com/form/incorporate-illinois?utm_source=chatgpt.com,0
-q070,legal,best llc formation service,nerdwallet.com,https://www.nerdwallet.com/business/legal/learn/best-llc-services?utm_source=chatgpt.com,0
-q070,legal,best llc formation service,zenbusiness.com,https://www.zenbusiness.com/pricing-formation-plans/?utm_source=chatgpt.com,1
+q070,legal,best llc formation service,nerdwallet.com,https://www.nerdwallet.com/business/legal/learn/best-llc-services?utm_source=chatgpt.com,1
+q070,legal,best llc formation service,zenbusiness.com,https://www.zenbusiness.com/pricing-formation-plans/?utm_source=chatgpt.com,0
 q070,legal,best llc formation service,legalzoom.com,https://www.legalzoom.com/business/business-formation/?utm_source=chatgpt.com,0
 q071,legal,how to find a pro bono lawyer,lsc.gov,https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help?utm_source=chatgpt.com,1
 q071,legal,how to find a pro bono lawyer,lsc.gov,https://www.lsc.gov/?utm_source=chatgpt.com,1
@@ -400,9 +400,9 @@ q074,legal,best social security disability lawyer,justia.com,https://www.justia.
 q074,legal,best social security disability lawyer,superlawyers.com,https://attorneys.superlawyers.com/social-security-disability/michigan/grand-rapids/?utm_source=chatgpt.com,1
 q074,legal,best social security disability lawyer,expertise.com,https://www.expertise.com/legal/disability-lawyers/michigan/grand-rapids?utm_source=chatgpt.com,0
 q074,legal,best social security disability lawyer,expertise.com,https://www.expertise.com/legal/disability-lawyers/michigan/grand-rapids?utm_source=chatgpt.com,0
-q075,legal,how to check if a lawyer is good,americanbar.org,https://www.americanbar.org/groups/legal_services/flh-home/flh-lawyer-licensing/?utm_source=chatgpt.com,0
-q075,legal,how to check if a lawyer is good,americanbar.org,https://www.americanbar.org/groups/legal_services/flh-home/flh-lawyer-licensing/?utm_source=chatgpt.com,0
-q075,legal,how to check if a lawyer is good,americanbar.org,https://www.americanbar.org/groups/professional_responsibility/services/databank/?utm_source=chatgpt.com,0
+q075,legal,how to check if a lawyer is good,americanbar.org,https://www.americanbar.org/groups/legal_services/flh-home/flh-lawyer-licensing/?utm_source=chatgpt.com,1
+q075,legal,how to check if a lawyer is good,americanbar.org,https://www.americanbar.org/groups/legal_services/flh-home/flh-lawyer-licensing/?utm_source=chatgpt.com,1
+q075,legal,how to check if a lawyer is good,americanbar.org,https://www.americanbar.org/groups/professional_responsibility/services/databank/?utm_source=chatgpt.com,1
 q076,ecommerce,best running shoes for flat feet,podiatristtested.com,https://podiatristtested.com/best-running-shoes-for-flat-feet/?utm_source=chatgpt.com,0
 q076,ecommerce,best running shoes for flat feet,runrepeat.com,https://runrepeat.com/guides/best-flat-feet-running-shoes?utm_source=chatgpt.com,1
 q076,ecommerce,best running shoes for flat feet,runnersworld.com,https://www.runnersworld.com/gear/a25750345/running-shoes-flat-feet/?utm_source=chatgpt.com,1
@@ -453,13 +453,13 @@ q082,ecommerce,best office chair for back pain,workwisesetup.com,https://workwis
 q082,ecommerce,best office chair for back pain,topsfive.com,https://www.topsfive.com/compare/steelcase-series-2-vs-herman-miller-aeron?utm_source=chatgpt.com,0
 q082,ecommerce,best office chair for back pain,medhelperpro.com,https://www.medhelperpro.com/blog/best-office-chairs-for-back-pain.html?utm_source=chatgpt.com,0
 q083,ecommerce,best laptop for college students,wired.com,https://www.wired.com/story/best-college-laptops/?utm_source=chatgpt.com,0
-q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,0
+q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,1
 q083,ecommerce,best laptop for college students,wired.com,https://www.wired.com/story/best-laptops/?utm_source=chatgpt.com,0
 q083,ecommerce,best laptop for college students,wired.com,https://www.wired.com/story/best-laptops/?utm_source=chatgpt.com,0
-q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,0
-q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,0
-q083,ecommerce,best laptop for college students,tomsguide.com,https://www.tomsguide.com/best-picks/best-laptops-for-college-students?utm_source=chatgpt.com,1
-q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,0
+q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,1
+q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,1
+q083,ecommerce,best laptop for college students,tomsguide.com,https://www.tomsguide.com/best-picks/best-laptops-for-college-students?utm_source=chatgpt.com,0
+q083,ecommerce,best laptop for college students,rtings.com,https://www.rtings.com/laptop/reviews/best/by-usage/college?utm_source=chatgpt.com,1
 q083,ecommerce,best laptop for college students,itechguides.com,https://www.itechguides.com/best-laptops-for-college-in-2026-7-picks-for-every-student/?utm_source=chatgpt.com,0
 q084,ecommerce,best skincare brands for acne,aad.org,https://www.aad.org/public/diseases/acne/diy/adult-acne-treatment?utm_source=chatgpt.com,0
 q084,ecommerce,best skincare brands for acne,aad.org,https://www.aad.org/member/clinical-quality/guidelines/acne?utm_source=chatgpt.com,0
@@ -480,8 +480,8 @@ q086,ecommerce,best standing desk,tomsguide.com,https://www.tomsguide.com/home/h
 q086,ecommerce,best standing desk,tomsguide.com,https://www.tomsguide.com/home/home-office/best-standing-desks?utm_source=chatgpt.com,0
 q086,ecommerce,best standing desk,techradar.com,https://www.techradar.com/news/best-standing-desk?utm_source=chatgpt.com,0
 q087,ecommerce,best luggage for international travel,travelandleisure.com,https://www.travelandleisure.com/best-international-carry-on-luggage-7866989?utm_source=chatgpt.com,0
-q087,ecommerce,best luggage for international travel,outdoorgearlab.com,https://www.outdoorgearlab.com/topics/travel/best-travel-bag?utm_source=chatgpt.com,0
-q087,ecommerce,best luggage for international travel,goodhousekeeping.com,https://www.goodhousekeeping.com/what-to-buy/g71361935/best-international-travel-luggage/?utm_source=chatgpt.com,0
+q087,ecommerce,best luggage for international travel,outdoorgearlab.com,https://www.outdoorgearlab.com/topics/travel/best-travel-bag?utm_source=chatgpt.com,1
+q087,ecommerce,best luggage for international travel,goodhousekeeping.com,https://www.goodhousekeeping.com/what-to-buy/g71361935/best-international-travel-luggage/?utm_source=chatgpt.com,1
 q087,ecommerce,best luggage for international travel,travelandleisure.com,https://www.travelandleisure.com/best-international-carry-on-luggage-7866989?utm_source=chatgpt.com,0
 q087,ecommerce,best luggage for international travel,travelandleisure.com,https://www.travelandleisure.com/style/travel-bags/best-checked-luggage?utm_source=chatgpt.com,0
 q087,ecommerce,best luggage for international travel,travelandleisure.com,https://www.travelandleisure.com/style/travel-bags/best-checked-luggage?utm_source=chatgpt.com,0
@@ -551,5 +551,5 @@ q099,ecommerce,best smartwatch for fitness,tomsguide.com,https://www.tomsguide.c
 q099,ecommerce,best smartwatch for fitness,androidauthority.com,https://www.androidauthority.com/best-fitness-tracker-2026-3629589/?utm_source=chatgpt.com,0
 q099,ecommerce,best smartwatch for fitness,wareable.com,https://www.wareable.com/smartwatches/best-smartwatch-reviews-compared-8286?utm_source=chatgpt.com,1
 q099,ecommerce,best smartwatch for fitness,wired.com,https://www.wired.com/gallery/best-smartwatches/?utm_source=chatgpt.com,0
-q100,ecommerce,best cookware set,foodnetwork.com,https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-cookware-sets?utm_source=chatgpt.com,0
+q100,ecommerce,best cookware set,foodnetwork.com,https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-cookware-sets?utm_source=chatgpt.com,1
 q100,ecommerce,best cookware set,bonappetit.com,https://www.bonappetit.com/story/best-cookware-sets?utm_source=chatgpt.com,0
